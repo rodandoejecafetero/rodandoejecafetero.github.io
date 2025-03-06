@@ -20,9 +20,9 @@ export default function TablaContenidos() {
                 <hr className="my-4 border-purple" />
                 <a href="#prologo" className="font-semibold uppercase">PRÓLOGO</a>
                 <hr className="my-4 border-purple" />
-                <a href="#" className="font-semibold uppercase">INTRODUCCIÓN</a>
+                <a href="#introduccion" className="font-semibold uppercase">INTRODUCCIÓN</a>
                 <hr className="my-4 border-purple" />
-                <a href="#" className="font-semibold uppercase">ESCUCHA LA PLAYLIST</a>
+                <a href="#playlist" className="font-semibold uppercase">ESCUCHA LA PLAYLIST</a>
                 <hr className="my-4 border-purple" />
             </div>
             <div className="w-full">
