@@ -5,6 +5,7 @@ import Creditos from './components/Creditos'
 import LaPasionGabriel from './components/banners/LaPasionGabriel'
 import Agradecimientos from './components/Agradecimientos'
 import Prologo from './components/Prologo'
+import Introduccion from './components/Introduccion'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <LaPasionGabriel />
       <Agradecimientos />
       <Prologo />
+      <Introduccion />
     </>
   )
 }
