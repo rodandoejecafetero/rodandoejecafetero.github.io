@@ -1,6 +1,6 @@
-import logo from '../assets/logo/logo.png';
-import logoDecorator from '../assets/logo/logo-decorator.png';
-import logoDecorator2 from '../assets/logo/logo-decorator-2.png';
+import logo from '../assets/logos/logo.png';
+import logoDecorator from '../assets/logos/logo-decorator.png';
+import logoDecorator2 from '../assets/logos/logo-decorator-2.png';
 import MiddleLayout from '../layouts/MiddleLayout';
 
 export default function RodandoEjeCafetero() {
