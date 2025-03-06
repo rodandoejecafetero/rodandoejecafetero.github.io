@@ -4,7 +4,7 @@ import LeftTopIconLayout from '../layouts/LeftTopIconLayout';
 
 export default function Agradecimientos() {
   return (
-    <LeftTopIconLayout img={logo} color='purple'>
+    <LeftTopIconLayout id='agradecimientos' img={logo} color='purple'>
       <div className="flex flex-col w-full h-full p-10 text-sm text-left text-yellow">
         <div className='flex flex-col mx-auto'>
             <div>

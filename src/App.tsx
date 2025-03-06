@@ -4,6 +4,7 @@ import TablaContenidos from './components/TablaContenidos'
 import Creditos from './components/Creditos'
 import LaPasionGabriel from './components/banners/LaPasionGabriel'
 import Agradecimientos from './components/Agradecimientos'
+import Prologo from './components/Prologo'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <TablaContenidos />
       <LaPasionGabriel />
       <Agradecimientos />
+      <Prologo />
     </>
   )
 }

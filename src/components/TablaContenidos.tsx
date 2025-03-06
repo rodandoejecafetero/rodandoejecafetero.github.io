@@ -16,9 +16,9 @@ export default function TablaContenidos() {
         </div>
         <div className="grid grid-cols-1 gap-8 mt-16 sm:grid-cols-2 md:grid-cols-3">
             <div className="w-full">
-                <a href="#" className="font-semibold uppercase">AGRADECIMIENTOS</a>
+                <a href="#agradecimientos" className="font-semibold uppercase">AGRADECIMIENTOS</a>
                 <hr className="my-4 border-purple" />
-                <a href="#" className="font-semibold uppercase">PRÓLOGO</a>
+                <a href="#prologo" className="font-semibold uppercase">PRÓLOGO</a>
                 <hr className="my-4 border-purple" />
                 <a href="#" className="font-semibold uppercase">INTRODUCCIÓN</a>
                 <hr className="my-4 border-purple" />
