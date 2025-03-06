@@ -1,8 +1,9 @@
 import './App.css'
 import RodandoEjeCafetero from './components/RodandoEjeCafetero'
 import TablaContenidos from './components/TablaContenidos'
-import Creditos from './components/credits/Creditos'
-import LaPasionGabriel from './components/resources/LaPasionGabriel'
+import Creditos from './components/Creditos'
+import LaPasionGabriel from './components/banners/LaPasionGabriel'
+import Agradecimientos from './components/Agradecimientos'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Creditos />
       <TablaContenidos />
       <LaPasionGabriel />
+      <Agradecimientos />
     </>
   )
 }

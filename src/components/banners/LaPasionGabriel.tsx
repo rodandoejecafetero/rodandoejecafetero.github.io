@@ -1,4 +1,4 @@
-import img from '../../assets/resources/la-pasion-de-gabriel.png';
+import img from '../../assets/banners/la-pasion-de-gabriel.png';
 
 export default function LaPasionGabriel() {
   return (

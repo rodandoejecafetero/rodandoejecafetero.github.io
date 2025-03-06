@@ -1,5 +1,5 @@
-import banner from '../../assets/credits/banner.png';
-import LeftImageLayout from '../../layouts/LeftImageLayout';
+import banner from '../assets/credits/banner.png';
+import LeftImageLayout from '../layouts/LeftImageLayout';
 
 export default function Creditos() {
   return (
