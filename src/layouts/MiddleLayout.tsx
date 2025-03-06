@@ -1,8 +1,9 @@
 import { ReactNode } from 'react';
 
-export default function MiddleLayout({ children, color = 'yellow' }: { children: ReactNode, color?: string }) {
+export default function MiddleLayout({ children, id, color = 'yellow' }: { children: ReactNode, id: string, color?: string }) {
     return (
       <div
+        id={id}
         style={{
           display: 'flex',
           justifyContent: 'center',

@@ -5,7 +5,7 @@ import MiddleLayout from '../layouts/MiddleLayout';
 
 export default function RodandoEjeCafetero() {
   return (
-    <MiddleLayout color='yellow'>
+    <MiddleLayout id='home' color='yellow'>
       <div className="p-10">
         <div className="w-full mx-auto sm:w-4/5 md:w-3/5 lg:w-1/2 xl:w-2/5">
           <img

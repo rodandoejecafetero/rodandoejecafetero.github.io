@@ -1,8 +1,9 @@
 import { ReactNode } from 'react';
 
-export default function LeftImageLayout({ children, img, color = 'purple' }: { children: ReactNode, img: string, color?: string }) {
+export default function LeftImageLayout({ children, id, img, color = 'purple' }: { children: ReactNode, id: string, img: string, color?: string }) {
     return (
       <div
+        id={id}
         style={{
           minWidth: '100vw',
           minHeight: '100vh',

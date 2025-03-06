@@ -3,7 +3,7 @@ import LeftImageLayout from '../layouts/LeftImageLayout';
 
 export default function Creditos() {
   return (
-    <LeftImageLayout img={banner} color='purple'>
+    <LeftImageLayout id='creditos' img={banner} color='purple'>
       <div className="p-10 text-sm text-left text-yellow">
         <h2 className="text-4xl font-bold uppercase">Créditos</h2>
         <p className="mt-5">Gutiérrez Carvajal, Alberto Antonio; Martínez Vélez, Juan Carlos; Vargas Betancour, Sebastián (Clementino Lara); Franco Gutiérrez, Viviana (Quinaya Qumir); Marín Díaz, Iván; Zapata Ocampo, Laura Dahiana; Achicanoy Gómez, Luisa María.</p>

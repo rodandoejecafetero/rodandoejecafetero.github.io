@@ -4,7 +4,7 @@ import LeftTopIconLayout from '../layouts/LeftTopIconLayout';
 
 export default function TablaContenidos() {
   return (
-    <LeftTopIconLayout img={logo} color='green'>
+    <LeftTopIconLayout id='tabla-contenidos' img={logo} color='green'>
       <div className="flex flex-col w-full h-full px-10 pt-24 pb-10 text-sm text-left text-purple">
         <div className='flex flex-wrap justify-between w-full'>
             <div>
