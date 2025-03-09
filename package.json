@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.0.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
     "tailwindcss": "^4.0.11"
   },
   "devDependencies": {
@@ -35,9 +36,23 @@
     "vite": "^6.2.0"
   },
   "reactSnap": {
-    "inlineCss": true,
-    "puppeteerArgs": ["--no-sandbox", "--disable-setuid-sandbox"],
+    "inlineCss": false,
+    "puppeteerArgs": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox"
+    ],
     "source": "dist",
-    "include": ["/", "/creditos", "/tabla-de-contenido", "/banner-la-pasion-de-gabriel", "/agradecimientos", "/prologo", "/introduccion", "/playlist", "/destinos-silenciosos"]
+    "include": [
+      "/",
+      "/portada",
+      "/creditos",
+      "/tabla-de-contenido",
+      "/banner-la-pasion-de-gabriel",
+      "/agradecimientos",
+      "/prologo",
+      "/introduccion",
+      "/playlist",
+      "/destinos-silenciosos"
+    ]
   }
 }
