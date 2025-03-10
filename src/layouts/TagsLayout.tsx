@@ -1,11 +1,10 @@
-import { Helmet } from 'react-helmet-async';
 import { DEFAULT_DESCRIPTION, DEFAULT_IMAGE, DEFAULT_OG_TYPE, DEFAULT_ROBOTS, DEFAULT_TITLE, DEFAULT_TWITTER_CARD, DEFAULT_URL } from '../Constant';
 import { TagsLayoutProps } from '../interfaces/LayoutInterface';
 
 function TagsLayout({ route, children }: TagsLayoutProps) {
     return (
       <>
-        {route && <Helmet>
+        {route && <>
           <title>{route.title ?? DEFAULT_TITLE}</title>
           <meta name="description" content={route.description ?? DEFAULT_DESCRIPTION} />
           <meta name="og:url" content={DEFAULT_URL} />
@@ -29,7 +28,7 @@ function TagsLayout({ route, children }: TagsLayoutProps) {
           {route.link && route.link.map((tag, index) => (
             <link key={index} rel={tag.rel} href={tag.href} />
           ))}
-        </Helmet>}
+        </>}
         <div id={route?.name} className='max-h-screen overflow-x-hidden max-w-screen'>{children}</div>
       </>
     );

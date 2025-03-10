@@ -4,7 +4,6 @@ import App from './App.tsx'
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import RedirectTo404 from './components/common/RedirectTo404.tsx'
-import { HelmetProvider } from 'react-helmet-async'
 import TagsLayout from './layouts/TagsLayout.tsx'
 
 import routesJson from './routes.json';
@@ -13,11 +12,8 @@ import { BaseLayoutProps } from './interfaces/LayoutInterface.ts'
 import React from 'react'
 import BackButton from './components/common/BackButton.tsx'
 import NotFound from './components/common/NotFound.tsx'
-import BannerLayout from './layouts/BannerLayout.tsx'
-import CenterImageLayout from './layouts/CenterImageLayout.tsx'
-import TwoColumnLayout from './layouts/TwoColumnLayout.tsx'
+import Portada from './components/pages/Portada.tsx'
 
-const Portada = lazy(() => import('./components/pages/Portada.tsx'));
 const Creditos = lazy(() => import('./components/pages/Creditos.tsx'));
 const TablaContenidos = lazy(() => import('./components/pages/TablaContenidos.tsx'));
 const LaPasionGabriel = lazy(() => import('./components/pages/LaPasionGabriel.tsx'));
@@ -25,9 +21,11 @@ const Agradecimientos = lazy(() => import('./components/pages/Agradecimientos.ts
 const Prologo = lazy(() => import('./components/pages/Prologo.tsx'));
 const Introduccion = lazy(() => import('./components/pages/Introduccion.tsx'));
 const Playlist = lazy(() => import('./components/pages/Playlist.tsx'));
+const BannerLayout = lazy(() => import('./layouts/BannerLayout.tsx'));
+const CenterImageLayout = lazy(() => import('./layouts/CenterImageLayout.tsx'));
+const TwoColumnLayout = lazy(() => import('./layouts/TwoColumnLayout.tsx'));
 
 const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
-  Portada: <Portada />,
   Creditos: <Creditos />,
   TablaContenidos: <TablaContenidos />,
   LaPasionGabriel: <LaPasionGabriel />,
@@ -62,19 +60,21 @@ const basePath = import.meta.env.VITE_BASE_PATH;
 console.log('basePath:', basePath);
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <HelmetProvider>
-      <BrowserRouter>
-        <Routes>
-          <Route path={basePath} element={<App routes={routes} />} />
-          {routes.map((route, index) => (
-            <Route key={index} path={`${basePath}${route.data.name}`} element={
-              <Suspense fallback={<Portada />}>
-                <TagsLayout route={route.data}><BackButton section={route.data.name} />{route.element}</TagsLayout>
-              </Suspense>} />
-          ))}
-          <Route path="*" element={<RedirectTo404 />} />
-        </Routes>
-      </BrowserRouter>
-    </HelmetProvider>
+    <BrowserRouter>
+      <Routes>
+        <Route path={basePath} element={
+          <Suspense fallback={<Portada />}>
+            <App routes={routes} />
+          </Suspense>
+        } />
+        {routes.map((route, index) => (
+          <Route key={index} path={`${basePath}${route.data.name}`} element={
+            <Suspense fallback={<Portada />}>
+              <TagsLayout route={route.data}><BackButton section={route.data.name} />{route.element}</TagsLayout>
+            </Suspense>} />
+        ))}
+        <Route path="*" element={<RedirectTo404 />} />
+      </Routes>
+    </BrowserRouter>
   </StrictMode>,
 )
