@@ -97,7 +97,7 @@ function App({ routes }: { routes: RouteInterface[] }) {
           <div key={index}>{route.element}</div>
         ))}
       {routes.slice(visibleCount, routes.length).map((route, index) => (
-          <div key={`hidden-${index}`} style={{ display: 'none' }}>{route.element}</div>
+          <div key={`hidden-${index}`} className='absolute top-0 opacity-0 -z-10'>{route.element}</div>
         ))}
       {visibleCount < routes.length && <div ref={sentinelRef} style={{ height: '1px' }} />}
     </TagsLayout>
