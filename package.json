@@ -37,6 +37,9 @@
   },
   "reactSnap": {
     "inlineCss": false,
+    "skipThirdPartyRequests": true,
+    "recurseTimeout": 30000,
+    "minify": false,
     "puppeteerArgs": [
       "--no-sandbox",
       "--disable-setuid-sandbox"
