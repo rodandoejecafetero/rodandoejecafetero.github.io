@@ -1,0 +1,1 @@
+import{j as s,D as l}from"./index-B1y7caWq.js";function n({route:a}){return s.jsx("div",{className:"w-full",children:s.jsx("img",{src:`${l}assets/banners/la-pasion-de-gabriel.png`,alt:a==null?void 0:a.descriptiveSummary,className:"w-full",loading:"lazy"})})}export{n as default};
