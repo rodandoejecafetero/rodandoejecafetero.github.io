@@ -56,7 +56,7 @@ const routes: RouteInterface[] = (routesJson as RouteFromJson[]).map((route: Rou
 });
 
 // path="/" + rodandoporeleje/"
-const basePath = import.meta.env.VITE_BASE_PATH;
+const basePath = import.meta.env.VITE_BASE_PATH || '/';
 console.log('basePath:', basePath);
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

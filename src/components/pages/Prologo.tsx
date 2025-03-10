@@ -4,7 +4,7 @@ import LeftTopIconLayout from '../../layouts/LeftTopIconLayout';
 export default function Prologo() {
   return (
     <LeftTopIconLayout id='prologo' img={`${DEFAULT_URL}assets/logos/culturas/culturas-yellow.png`} color='yellow'>
-      <div className="flex flex-col w-full h-full p-10 text-sm text-left text-purple">
+      <div className="flex flex-col w-full p-10 text-sm text-left text-purple">
         <div className='flex flex-col mx-auto text-center'>
             <div>
                 <img className='mx-auto' src={`${DEFAULT_URL}assets/logos/culturas/culturas-decorator-yellow.png`} alt="Decorator" />

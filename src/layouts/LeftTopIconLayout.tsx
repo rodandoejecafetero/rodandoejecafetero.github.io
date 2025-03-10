@@ -2,7 +2,7 @@ import { ReactNode } from 'react';
 
 export default function LeftTopIconLayout({ children, id, img, color = 'yellow', width = 'max-w-7xl' }: { children: ReactNode, id: string, img: string, color?: string, width?: string }) {
     return (
-        <div id={id} className={`flex min-h-[100vh] min-w-[100vw] relative justify-center items-center bg-${color}`}>
+        <div id={id} className={`flex min-h-screen w-full relative justify-center items-center bg-${color}`}>
             <div className={`mx-auto ${width}`}>
                 {children}
             </div>

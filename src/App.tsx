@@ -23,6 +23,7 @@ function App({ routes }: { routes: RouteInterface[] }) {
     const handleScroll = () => {
       setScrollPosition(window.pageYOffset || document.documentElement.scrollTop);
     };
+
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
@@ -68,7 +69,6 @@ function App({ routes }: { routes: RouteInterface[] }) {
   };
 
   const handleSectionChange = (e: Event) => {
-    console.log("handleSectionChange");
     e.preventDefault();
     const customEvent = e as CustomEvent<{ section: string }>;
     const { section } = customEvent.detail;
@@ -95,6 +95,9 @@ function App({ routes }: { routes: RouteInterface[] }) {
       {scrollPosition > topContentTable && <BackButton />}
       {routes.slice(0, visibleCount).map((route, index) => (
           <div key={index}>{route.element}</div>
+        ))}
+      {routes.slice(visibleCount, routes.length).map((route, index) => (
+          <div key={`hidden-${index}`} style={{ display: 'none' }}>{route.element}</div>
         ))}
       {visibleCount < routes.length && <div ref={sentinelRef} style={{ height: '1px' }} />}
     </TagsLayout>
