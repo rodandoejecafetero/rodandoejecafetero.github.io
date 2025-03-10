@@ -1,14 +1,13 @@
-import logo from '../assets/logos/culturas/culturas-yellow.png';
-import decorator from '../assets/logos/culturas/culturas-decorator-yellow.png';
-import LeftTopIconLayout from '../layouts/LeftTopIconLayout';
+import { DEFAULT_URL } from '../../Constant';
+import LeftTopIconLayout from '../../layouts/LeftTopIconLayout';
 
 export default function Prologo() {
   return (
-    <LeftTopIconLayout id='prologo' img={logo} color='yellow'>
+    <LeftTopIconLayout id='prologo' img={`${DEFAULT_URL}assets/logos/culturas/culturas-yellow.png`} color='yellow'>
       <div className="flex flex-col w-full h-full p-10 text-sm text-left text-purple">
         <div className='flex flex-col mx-auto text-center'>
             <div>
-                <img className='mx-auto' src={decorator} alt="Decorator" />
+                <img className='mx-auto' src={`${DEFAULT_URL}assets/logos/culturas/culturas-decorator-yellow.png`} alt="Decorator" />
             </div>
             <div>
                 <h2 className="mt-8 text-4xl font-bold uppercase">PRÓLOGO</h2>

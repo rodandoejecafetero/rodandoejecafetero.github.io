@@ -1,14 +1,13 @@
-import logo from '../assets/logos/culturas/culturas-purple.png';
-import decorator from '../assets/logos/culturas/culturas-decorator-purple.png';
-import LeftTopIconLayout from '../layouts/LeftTopIconLayout';
+import LeftTopIconLayout from '../../layouts/LeftTopIconLayout';
+import { DEFAULT_URL } from '../../Constant';
 
 export default function Introduccion() {
   return (
-    <LeftTopIconLayout id='introduccion' img={logo} color='purple'>
+    <LeftTopIconLayout id='introduccion' img={`${DEFAULT_URL}assets/logos/culturas/culturas-purple.png`} color='purple'>
       <div className="flex flex-col w-full h-full p-10 text-sm text-left text-yellow">
         <div className='flex flex-col mx-auto'>
             <div>
-                <img className='mx-auto' src={decorator} alt="Decorator" />
+                <img className='mx-auto' src={`${DEFAULT_URL}assets/logos/culturas/culturas-decorator-purple.png`} alt="Decorator" />
             </div>
             <div>
                 <h2 className="mt-8 text-4xl font-bold uppercase">INTRODUCCIÓN</h2>
