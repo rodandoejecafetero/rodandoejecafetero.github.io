@@ -19,7 +19,7 @@
     "img": "assets/images/2-paisaje-eje-cafetero-creditos.webp",
     "bgColor": "purple",
     "textColor": "yellow",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/yellow-sun.svg",
     "subtitle": "Gutiérrez Carvajal, Alberto Antonio; Martínez Vélez, Juan Carlos; Vargas Betancour, Sebastián (Clementino Lara); Franco Gutiérrez, Viviana (Quinaya Qumir); Marín Díaz, Iván; Zapata Ocampo, Laura Dahiana; Achicanoy Gómez, Luisa María.",
     "content": {
@@ -133,7 +133,7 @@
     "description": "Descubre los agradecimientos de 'Rodando por el Eje Cafetero' a todas las personas e instituciones que contribuyeron a este proyecto de turismo cinematográfico en Colombia.",
     "bgColor": "purple",
     "textColor": "yellow",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "topIcon": "assets/vectors/purple-sun.svg",
     "content": {
       "component": "TwoColumnTable",
@@ -216,7 +216,7 @@
     "description": "Descubre el prólogo de 'Rodando por el Eje Cafetero', una introducción al turismo cinematográfico en la región cafetera de Colombia, escrita por una experta en turismo sostenible.",
     "textColor": "purple",
     "bgColor": "yellow",
-    "culture": "assets/logos/culturas/morado.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "topIcon": "assets/vectors/purple-sun-2.svg",
     "content": {
       "component": "ThreeColumnTable",
@@ -275,7 +275,7 @@
     "description": "Explora la introducción de la guía 'Rodando por el Eje Cafetero' y aprende sobre la importancia del turismo cinematográfico en esta región declarada Patrimonio de la Humanidad por la UNESCO.",
     "textColor": "yellow",
     "bgColor": "purple",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "topIcon": "assets/vectors/yellow-sun.svg",
     "content": {
       "component": "ThreeColumnTable",
@@ -358,7 +358,7 @@
     "description": "Sumérgete en el paisaje cultural cafetero con un Jeep Willys, símbolo del transporte tradicional en la región. Explora las montañas, cultivos de café y la esencia de la vida rural en el Eje Cafetero.",
     "component": "BannerLayout",
     "img": "assets/images/9-jeep-eje-cafetero.webp",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "purple"
   },
   {
@@ -369,7 +369,7 @@
     "descriptiveSummary": "Descripción de locaciones en el Eje Cafetero relacionadas con las películas 'Memoria' y 'El Páramo'. Se incluyen detalles sobre los paisajes, rutas y el impacto visual de estas locaciones en la cinematografía.",
     "description": "Descubre los impresionantes escenarios del Eje Cafetero que han servido como locaciones para las películas 'Memoria' y 'El Páramo'. Explora su riqueza visual y cultural en esta guía de turismo cinematográfico.",
     "img": "assets/logos/rodando-por-el-eje-purple.webp",
-    "culture": "assets/logos/culturas/morado.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "bgColor": "yellow",
     "textColor": "purple",
     "content": {
@@ -405,7 +405,7 @@
     "description": "Explora una escena icónica de 'Memoria', filmada en el Eje Cafetero. La imagen captura la esencia del paisaje urbano y la interacción de los personajes en un espacio cultural representativo de la región.",
     "component": "BannerLayout",
     "img": "assets/images/11-memoria-fotograma.webp",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow"
   },
   {
@@ -432,7 +432,7 @@
     "textColor": "purple",
     "textColor2": "white",
     "bgColor2": "purple",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "img": "assets/images/page-12.png",
     "content": {
       "component": "FourthImageTable",
@@ -453,7 +453,7 @@
     "description": "Conoce al elenco de 'Memoria', incluyendo a Tilda Swinton y Elkin Díaz.",
     "img": "assets/images/14-fotograma-memoria.webp",
     "img2": "assets/images/page-12.png",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "purple",
     "textColor": "yellow",
     "content": {
@@ -980,7 +980,8 @@
     "description": "Explora los mapas que muestran las locaciones de las producciones audiovisuales filmadas en el Eje Cafetero.",
     "img": "assets/images/74-mapas-de-las-locacione-en-caldas.webp",
     "bgColor": "green",
-    "culture": "assets/logos/culturas/blanco.webp"
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "textColor": "yellow"
   },
   {
     "page": 74,
@@ -1397,7 +1398,7 @@
     "title": "Referencias - Rodando por el Eje Cafetero",
     "descriptiveSummary": "Bibliografía y filmografía utilizada en la guía, con fuentes sobre turismo en el Eje Cafetero y producciones cinematográficas relevantes.",
     "description": "Consulta las referencias utilizadas en 'Rodando por el Eje Cafetero', incluyendo bibliografía sobre turismo y filmografía de las producciones mencionadas en la guía.",
-    "culture": "assets/logos/culturas/blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "purple"
   },
   {
