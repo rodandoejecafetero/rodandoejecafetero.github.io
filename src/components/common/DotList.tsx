@@ -4,8 +4,8 @@ function DotList({ route }: BaseLayoutProps) {
     return (
         <div className={`text-${route?.content?.color} text-left w-fit mx-auto`}>
             <ul>
-            {route?.content?.body?.split(',')?.map((element) => {
-                return <li>
+            {route?.content?.body?.split(',')?.map((element, index) => {
+                return <li key={index}>
                     {element}
                 </li>;
             })}
