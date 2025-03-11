@@ -122,7 +122,7 @@
     "title": "Banner La Pasión de Gabriel - Rodando por el eje cafetero",
     "descriptiveSummary": "Imagen de una escena de la película 'La Pasión de Gabriel', con personajes en un entorno rural del Eje Cafetero. Incluye el logotipo de la guía, soles indígenas decorativos y una ilustración de carretera.",
     "description": "Explora el impacto visual del banner de 'La Pasión de Gabriel', una película ambientada en el Eje Cafetero. Descubre su conexión con los paisajes rurales y la cultura cinematográfica colombiana.",
-    "img": "assets/images/page-4.png"
+    "img": "assets/images/3-la-pasion-de-gabriel.webp"
   },
   {
     "page": 5,
@@ -974,10 +974,13 @@
   {
     "page": 73,
     "name": "anexo-mapas-intro",
-    "component": "AnexoMapasIntro",
+    "component": "CenterImageLayout",
     "title": "Anexo de Mapas - Introducción",
     "descriptiveSummary": "Introducción a los mapas de locaciones del Eje Cafetero.",
-    "description": "Explora los mapas que muestran las locaciones de las producciones audiovisuales filmadas en el Eje Cafetero."
+    "description": "Explora los mapas que muestran las locaciones de las producciones audiovisuales filmadas en el Eje Cafetero.",
+    "img": "assets/images/74-mapas-de-las-locacione-en-caldas.webp",
+    "bgColor": "green",
+    "culture": "assets/logos/culturas/blanco.webp"
   },
   {
     "page": 74,
