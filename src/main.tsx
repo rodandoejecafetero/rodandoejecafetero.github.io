@@ -14,28 +14,30 @@ import BackButton from './components/common/BackButton.tsx'
 import NotFound from './components/common/NotFound.tsx'
 import Portada from './components/pages/Portada.tsx'
 
-const Creditos = lazy(() => import('./components/pages/Creditos.tsx'));
 const TablaContenidos = lazy(() => import('./components/pages/TablaContenidos.tsx'));
 const LaPasionGabriel = lazy(() => import('./components/pages/LaPasionGabriel.tsx'));
-const Agradecimientos = lazy(() => import('./components/pages/Agradecimientos.tsx'));
-const Prologo = lazy(() => import('./components/pages/Prologo.tsx'));
-const Introduccion = lazy(() => import('./components/pages/Introduccion.tsx'));
 const Playlist = lazy(() => import('./components/pages/Playlist.tsx'));
 const BannerLayout = lazy(() => import('./layouts/BannerLayout.tsx'));
 const CenterImageLayout = lazy(() => import('./layouts/CenterImageLayout.tsx'));
 const TwoColumnLayout = lazy(() => import('./layouts/TwoColumnLayout.tsx'));
+const LeftLateralBannerLayout = lazy(() => import('./layouts/LeftLateralBannerLayout.tsx'));
+const CenterContentLayout = lazy(() => import('./layouts/CenterContentLayout.tsx'));
+const LeftLateralImageLayout = lazy(() => import('./layouts/LeftLateralImageLayout.tsx'));
+const SinopsisLayout = lazy(() => import('./layouts/SinopsisLayout.tsx'));
+const LeftPrimaryBannerLayout = lazy(() => import('./layouts/LeftPrimaryBannerLayout.tsx'));
 
 const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
-  Creditos: <Creditos />,
   TablaContenidos: <TablaContenidos />,
   LaPasionGabriel: <LaPasionGabriel />,
-  Agradecimientos: <Agradecimientos />,
-  Prologo: <Prologo />,
-  Introduccion: <Introduccion />,
   Playlist: <Playlist />,
   BannerLayout: <BannerLayout />,
   CenterImageLayout: <CenterImageLayout />,
   TwoColumnLayout: <TwoColumnLayout />,
+  LeftLateralBannerLayout: <LeftLateralBannerLayout />,
+  CenterContentLayout: <CenterContentLayout />,
+  LeftLateralImageLayout: <LeftLateralImageLayout />,
+  SinopsisLayout: <SinopsisLayout />,
+  LeftPrimaryBannerLayout: <LeftPrimaryBannerLayout />,
 };
 
 // Mapear el JSON a un array de RouteInterface. Si el componente no existe se utiliza RedirectTo404.

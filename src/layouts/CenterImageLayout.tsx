@@ -2,7 +2,7 @@ import { DEFAULT_URL } from '../Constant';
 import { BaseLayoutProps } from '../interfaces/LayoutInterface';
 import BaseLayout from './BaseLayout';
 
-export default function CenterImageLayout({route}: BaseLayoutProps) {
+function CenterImageLayout({route}: BaseLayoutProps) {
   const bgColor = route?.bgColor ? `bg-${route.bgColor}` : 'bg-yellow';
   return (
     <div id={route?.name} className={`flex items-center justify-center w-full min-h-screen py-4 px-4 sm:px-8 md:px-16 lg:px-24 xl:px-36 relative ${bgColor}`}>
@@ -16,3 +16,5 @@ export default function CenterImageLayout({route}: BaseLayoutProps) {
     </div>
   );
 };
+
+export default CenterImageLayout;

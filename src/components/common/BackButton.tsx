@@ -11,7 +11,7 @@ function BackButton({ section }: { section?: string }) {
     }
   };
   return (
-    <button className="fixed z-10 p-2 rounded-lg cursor-pointer top-2 right-5 bg-white/50 hover:scale-105" onClick={handleClick}>Volver</button>
+    <button className="fixed z-20 p-2 rounded-lg cursor-pointer top-2 right-5 bg-white/50 hover:scale-105" onClick={handleClick}>Volver</button>
   );
 }
 
