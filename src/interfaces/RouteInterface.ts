@@ -50,6 +50,7 @@ interface RouteFromJson {
   textColor2?: string;
   subtitle?: string;
   content?: PageContent;
+  content2?: PageContent;
   rightIcon?: string;
   topIcon?: string;
   body?: string;

@@ -1741,107 +1741,188 @@
     "textColor": "yellow",
     "content": {
       "title": "APÍA",
-      "body": "Parapente turismo de aventura*Tour de café, experiencia agroturística, museo al aire libre*Visita a cascadas, senderismo en tres parques naturales,con diferentes niveles de dificultad, Interpretación,ambiental, rutas cafeteras, pueblo tour con historia de Apía*Recorridos de aviturismo*Biciturismo, rutas en bicicleta y agroturismo*Observación de aves ruta corta 1km para observar ave endémicas",
-      "body2": "Club Escuela de vuelo libre*Vientos*Granja San Isidro*Guía Alejandro Bermúdez Raigosa*Organización Ambiental Vida Silvestre*Bicitours rutas del viento*Apía Birding Ecologde",
-      "body3": "3147144333*3012738710 3207267908*3147144333*313633829*3004272010*3116876569",
-      "body4": "Aprox $170.000 COP por persona*Desde $50.000 COP por persona, y varía de acuerdo a la experiencia y cantidad de personas*Desde $70.000 y $250.000*COP por persona, varía de acuerdo a la experiencia y cantidad de personas*Aprox $80.000 COP por persona*Desde $90.000 COP por persona, varía de acuerdo a la experiencia y cantidad de persona*Entre $30.000 y $100.000 COP por persona"
+      "body": "Parapente turismo de aventura*Club Escuela de vuelo libre Vientos*3147144333*Aprox $170.000 COP por persona**Tour de café, experiencia agroturística, museo al aire libre*Granja San Isidro*3012738710 / 3207267908*Desde $50.000 COP por persona, varía de acuerdo a la experiencia y cantidad de personas**Visita a cascadas, senderismo en tres parques naturales con diferentes niveles de dificultad, Interpretación ambiental, rutas cafeteras, pueblo tour con historia de Apía*Guía Alejandro Bermúdez Raigosa*3147144333*Desde $70.000 a $250.000 COP por persona, varía de acuerdo a la experiencia y cantidad de personas**Recorridos de aviturismo*Organización Ambiental Vida Silvestre*3136333829*Aprox $80.000 COP por persona**Biciturismo, rutas en bicicleta y agroturismo*Bicitours rutas del viento*3004272010*Desde $90.000 COP por persona, varía de acuerdo a la experiencia y cantidad de personas**Observación de aves ruta corta 1km para observar ave endémicas*Apía Birding Ecolodge*3116876569*Entre $30.000 y $100.000 COP por persona"
     }
   },
   {
     "page": 96,
     "name": "experiencias-turisticas-calarca",
-    "component": "ExperienciasTuristicasCalarca",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Calarcá",
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Calarcá, incluyendo ecoturismo, café, avistamiento de aves y espeleología.",
-    "description": "Esta sección presenta una lista de experiencias turísticas en Calarcá, Quindío, con información sobre operadores, contacto y tarifas aproximadas. Las actividades incluyen el Show del Jeepao, experiencias de café, recorridos en el Jardín Botánico del Quindío, ecoturismo, senderismo y espeleología, ofreciendo opciones diversas para visitantes y producciones audiovisuales interesadas en la región."
+    "description": "Esta sección presenta una lista de experiencias turísticas en Calarcá, Quindío, con información sobre operadores, contacto y tarifas aproximadas. Las actividades incluyen el Show del Jeepao, experiencias de café, recorridos en el Jardín Botánico del Quindío, ecoturismo, senderismo y espeleología, ofreciendo opciones diversas para visitantes y producciones audiovisuales interesadas en la región.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "CALARCÁ",
+      "body": "Show del Jeepao*En la Fiesta Nacional del Café (Junio)*Ver contactos de los Guías Turísticos*Gratis**Experiencia de Café*Finca el Paraiso*3207282032*$80.000 COP por persona**Experiencia agraria, de frutas exóticas para agencias internacionales y vida campesina*City tour por la Plaza de Mercado*Ver contactos de los Guías Turísticos*$180.000 COP por persona y hasta para grupo de 7 personas**Tour de café, taller de cestería*Combia Inspiración*3216582577*$180.000 COP por persona**Educación ambiental y recreación en la naturaleza & el mariposario*Jardín Botánico del Quindío*3104045223*Aprox $70.000 COP por persona**Experiencia de aves rescatadas*El domo aviario*3234086675*$20.000 COP por persona**Ecoturismo y senderismo*Ecoparque peñas blancas*3103967951 / 3005687163*Aprox $15.000 COP por persona**Espeleología y rappel*Ecoparque peñas blancas*3183970736*Aprox $250.000 COP por persona"
+    }
   },
   {
     "page": 97,
     "name": "experiencias-turisticas-filandia-la-virginia",
-    "component": "ExperienciasTuristicasFilandiaLaVirginia",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Filandia y La Virginia",
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Filandia y La Virginia, incluyendo senderismo, ciclismo, tours urbanos y actividades acuáticas.",
-    "description": "Esta sección presenta una lista de experiencias turísticas en Filandia (Quindío) y La Virginia (Risaralda). Las actividades incluyen trekking, city tours en bicicletas vintage, cestería, ciclismo y recorridos por el pueblo en Filandia. En La Virginia se ofrecen experiencias de senderismo, recorridos por el Río Cauca, piscina recreativa y pesca deportiva, con información sobre operadores, contacto y tarifas aproximadas."
+    "description": "Esta sección presenta una lista de experiencias turísticas en Filandia (Quindío) y La Virginia (Risaralda). Las actividades incluyen trekking, city tours en bicicletas vintage, cestería, ciclismo y recorridos por el pueblo en Filandia. En La Virginia se ofrecen experiencias de senderismo, recorridos por el Río Cauca, piscina recreativa y pesca deportiva, con información sobre operadores, contacto y tarifas aproximadas.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "FILANDIA",
+      "body": "Trekking por el Barbas Bremen y Tour de Café*Palacio del Barbas*3116090425*$78.000 COP por persona si son 2 pax, y disminuye de acuerdo a la cantidad**Taller de cestería*Philodendron*3113271031*Aprox $40.000 COP por persona**City tour en bicicletas vintage*Pedales Coloniales*3007869685*$40.000 COP por persona**Tour de ciclismo*Casa Du Vélo*3142756692*Desde $250.000**City tour por el pueblo de Filandia (calle del tiempo detenido, iglesia, plaza de Bolívar, mirador Colina Iluminada)*City Tour por Filandia*Ver contactos de los Guías Turísticos*$180.000 COP por persona hasta un grupo de 7 personas"
+    },
+    "content2": {
+      "title": "LA VIRGINIA",
+      "body": "Sendero ecológico*Distrito de Manejo Integrado Guásimo*Ver contactos de los Guías Turísticos*$200.000 COP por persona y para grupos de hasta 7 personas**Experiencia recorrido por el Río Cauca*Paseos y recorridos Río express y Enterrios Tours*3206259944 / 3117239026*Aprox $70.000 por persona**Piscina recreativa*Balneario Farallones*3113621697*$30.000 por persona**Actividades de pesca deportiva*El Finco*3203920705*$40.000 por persona"
+    }
   },
   {
     "page": 98,
     "name": "experiencias-turisticas-manizales",
-    "component": "ExperienciasTuristicasManizales",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Manizales",
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Manizales, incluyendo city tours, avistamiento de aves, senderismo y tours de café.",
-    "description": "Esta sección presenta una lista de experiencias turísticas en Manizales, Caldas. Las actividades incluyen recorridos por el centro histórico, experiencias de naturaleza con orquídeas y aves, tours de café y cacao, senderismo y avistamiento de aves en reservas naturales. Se proporciona información sobre operadores, contacto y tarifas aproximadas para los visitantes y producciones audiovisuales interesadas en la región."
+    "description": "Esta sección presenta una lista de experiencias turísticas en Manizales, Caldas. Las actividades incluyen recorridos por el centro histórico, experiencias de naturaleza con orquídeas y aves, tours de café y cacao, senderismo y avistamiento de aves en reservas naturales. Se proporciona información sobre operadores, contacto y tarifas aproximadas para los visitantes y producciones audiovisuales interesadas en la región.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "MANIZALES",
+      "body": "Visitar el centro histórico por Manizales: El Cable, Arquitectura Plaza Bolívar, Catedral con el corredor polaco, Chipe monumento a los colonizadores*City Tour por Manizales*Ver contactos de los Guías Turísticos*$240.000 COP por persona y hasta para grupo de 7 personas**Experiencia de naturaleza con aves, orquídeas, mariposario, jardín zen*Recinto del pensamiento*3053561715*$29.000 COP por persona**Tours de café, cacao, plátano, ron artesanal, avistamiento de aves y senderismo*Hacienda Venecia*3206365719* **Reserva Natural avistamiento de aves, sendero ecológico hiking*Reserva Río Blanco*3122261116*Desde $75.300 COP por persona, hasta $152.000 cambia de acuerdo al tipo de recorrido e idioma**Tour de avistamiento de aves (senderos, alimentación, observación de aves, fotografía de aves)*Tinamú Birding*3104367068*$165.000 COP por persona**Tour de orquídeas y Aves*Finca La Romelia*3017083438*$143.000 COP por persona si son 4 pax, y varía de acuerdo a la cantidad de personas, y si es tour de orquídeas o de aves"
+    }
   },
   {
     "page": 99,
     "name": "experiencias-turisticas-marsella",
-    "component": "ExperienciasTuristicasMarsella",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Marsella",
     "descriptiveSummary": "Listado de experiencias turísticas en Marsella, incluyendo tours de cacao, city tours y tours de café.",
-    "description": "Esta sección presenta experiencias turísticas en Marsella, Risaralda. Incluye un tour de cacao con almuerzo, un recorrido histórico por el pueblo visitando la Plaza Principal, la Casa de Cultura, el Cementerio y la Biblioteca Municipal, así como un tour de café en la Finca Villa Monica. Se proporciona información sobre operadores turísticos, contacto y tarifas para visitantes y producciones audiovisuales interesadas en la región."
+    "description": "Esta sección presenta experiencias turísticas en Marsella, Risaralda. Incluye un tour de cacao con almuerzo, un recorrido histórico por el pueblo visitando la Plaza Principal, la Casa de Cultura, el Cementerio y la Biblioteca Municipal, así como un tour de café en la Finca Villa Monica. Se proporciona información sobre operadores turísticos, contacto y tarifas para visitantes y producciones audiovisuales interesadas en la región.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "MARSELLA",
+      "body": "Tour de Cacao con almuerzo*Brisas del Cauca*3116085894*$180.000 COP por persona si son 3 pax, disminuye o aumenta de acuerdo a la cantidad**City tour por el pueblo visitando [Plaza principal, Casa de Cultura que posee museo de historia, prehispánico, de periodismo y la biblioteca municipal, Cementerio (declarado monumento de la nación)] recorrido por las calles con arquitectura de la Colonización antioqueña.*City tour por Marsella*Ver contactos de los Guías Turísticos*$180.000 COP por persona y hasta grupos de 7 personas**Tour de café*Finca Villa Monica*3204364962*Aprox $70.000 por persona"
+    }
   },
   {
     "page": 100,
     "name": "experiencias-turisticas-parque-nacional-los-nevados",
-    "component": "ExperienciasTuristicasParqueNacionalLosNevados",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en el Parque Nacional Natural de Los Nevados",
     "descriptiveSummary": "Listado de experiencias turísticas en el Parque Nacional Natural de Los Nevados, incluyendo senderismo, termalismo y avistamiento de colibríes.",
-    "description": "Esta sección presenta experiencias turísticas en el Parque Nacional Natural de Los Nevados. Incluye paisajismo del páramo con visita a la Laguna Negra y degustación de té de coca, experiencias termales en Termales del Ruíz y Termales del Sifón, recorridos con interpretación ambiental con los Guardabosques y la exploración de Aguacerales, Valle Lunar y Valle de las Tumbas. Se proporciona información sobre operadores turísticos, contacto y tarifas."
+    "description": "Esta sección presenta experiencias turísticas en el Parque Nacional Natural de Los Nevados. Incluye paisajismo del páramo con visita a la Laguna Negra y degustación de té de coca, experiencias termales en Termales del Ruíz y Termales del Sifón, recorridos con interpretación ambiental con los Guardabosques y la exploración de Aguacerales, Valle Lunar y Valle de las Tumbas. Se proporciona información sobre operadores turísticos, contacto y tarifas.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "PARQUE NACIONAL NATURAL DE LOS NEVADOS",
+      "body": "Paisajismo del páramo, laguna negra y tomar té de coca*Tour por el Parque Nacional Natural de los Nevados*Ver contactos de los Guías Turísticos*$250.000 COP por persona y hasta para un grupo de 7 personas**Experiencia termal con experiencia de Colibríes*Termales del Ruíz*3104553588*$60.000 COP por persona pasadia**Visita con guía de turismo profesional zona del recreo, cerro el camión, el tubo con interpretación del Guardabosques*Don Leo (Guardabosques)* *$300.000 COP por persona y hasta para un grupo de 7 personas**Experiencia termal*Termales del Sifón*3126928427*$15.000 COP por persona**Ingreso al Parque Nacional Los Nevados, zona norte visitando Aguacerales, Valle Lunar y Valle de las Tumbas*UTNEVADOS*3223603637*$45.000 COP por persona"
+    }
   },
   {
     "page": 101,
     "name": "experiencias-turisticas-pereira",
-    "component": "ExperienciasTuristicasPereira",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Pereira",
     "descriptiveSummary": "Listado de experiencias turísticas en Pereira, incluyendo city tours, senderismo, tours de café y arte urbano.",
-    "description": "Esta sección presenta experiencias turísticas en Pereira, destacando tours de cacao y café, recorridos por la ciudad que incluyen Plaza Bolívar, la Catedral Nuestra Señora de la Pobreza y el Mega Cable de Villa Santana. También se incluyen opciones de senderismo con almuerzo, recorridos de arte urbano, y actividades gastronómicas como cata de frutas exóticas y clases de cocina colombiana. Se proporciona información sobre operadores turísticos, contacto y tarifas."
+    "description": "Esta sección presenta experiencias turísticas en Pereira, destacando tours de cacao y café, recorridos por la ciudad que incluyen Plaza Bolívar, la Catedral Nuestra Señora de la Pobreza y el Mega Cable de Villa Santana. También se incluyen opciones de senderismo con almuerzo, recorridos de arte urbano, y actividades gastronómicas como cata de frutas exóticas y clases de cocina colombiana. Se proporciona información sobre operadores turísticos, contacto y tarifas.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "PEREIRA",
+      "body": "Tour de Cacao*El Turpial*3114092354*$70.000 COP por persona**Tour de café*La divisa de Don Juan*3105923976*$90.000 COP por persona**City tour por Pereira: Plaza Bolívar, Catedral nuestra señora de la Pobreza, Calle fundacional, Parque Olaya Herrera, Estación de ferrocarril, Mega cable comuna Villa Santana*City Tour por Pereira*Ver contactos de los Guías Turísticos*$180.000 COP por persona y para grupo de hasta 7 personas**Tour de café*Café don Gabo*3106701507*Aprox $80.000 COP por persona**Senderismo y visita a Cascada con almuerzo*Asociación Comunitaria Yarumo Blanco*3103635001*Entre $54.000 y $75.000 por persona dependiendo el tipo de almuerzo**Tour arte urbano, graffiti tour, bullerengue, barrismo*La Ferro, propuesta comunitaria*3186587397*$20.000 COP por persona**Cataación de frutas exóticas, clases de cocina comida colombiana*Tour operadora I am Colombiano*3167590471 / 3136582644*$170.000 COP por persona max 3 pax, disminuye de acuerdo a la cantidad de personas"
+    }
   },
   {
     "page": 102,
-    "name": "experiencias-turisticas-pereira",
-    "component": "ExperienciasTuristicasPereira",
+    "name": "experiencias-turisticas-pereira-2",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Pereira",
     "descriptiveSummary": "Listado de experiencias turísticas en Pereira, destacando actividades de café, senderismo, ecoturismo, temazcal y talleres culturales.",
-    "description": "Esta sección presenta diversas experiencias turísticas en Pereira, incluyendo tours de café en Café Morrones, senderismo de alta montaña en el Parque Nacional Natural Los Nevados, avistamiento de aves, trekking y recorridos por ríos y bosques. También se destacan experiencias culturales como temazcal en Bosque Kaukítá, talleres interactivos en la Casa Cultural Espacio Vasto y eventos de lectura en La Casa del Libro. Se incluye información de contacto y tarifas."
+    "description": "Esta sección presenta diversas experiencias turísticas en Pereira, incluyendo tours de café en Café Morrones, senderismo de alta montaña en el Parque Nacional Natural Los Nevados, avistamiento de aves, trekking y recorridos por ríos y bosques. También se destacan experiencias culturales como temazcal en Bosque Kaukítá, talleres interactivos en la Casa Cultural Espacio Vasto y eventos de lectura en La Casa del Libro. Se incluye información de contacto y tarifas.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "PEREIRA",
+      "body": "Tour de café*Café Morrones*3113801014*Aprox $200.000 COP por 2 pax, persona adicional $50.000 COP**Senderismo, trekking alta montaña PNN, Laguna del Otún, nevado del Ruíz, Paramillo del Quindío, Nevado del Tolima, Nevado Santa Isabel, avistamiento de aves*Montes andinos*3205114559*Desde $260.000, $700.000, $1.400.000 COP varía de acuerdo a la cantidad de personas y experiencia que se elija**Tour Senderismo, río, monos aulladores, fiambre, Distrito de Manejo de conservación Barbas Bremen*Tour por Pereira rural*Ver contactos de los Guías Turísticos*$180.000 COP por persona y hasta grupo de 5 personas**Temazcal*Bosque Kaukítá*3137320688*$90.000 aprox**Talleres culturales, actividades interactivas*Casa Cultural Espacio Vasto*3126865310*$30.000 a $60.000**Encuentros y fiestas de lectura*La casa del libro*3137371289* "
+    }
   },
   {
     "page": 103,
     "name": "experiencias-turisticas-pijao",
-    "component": "ExperienciasTuristicasPijao",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Pijao",
     "descriptiveSummary": "Listado de experiencias turísticas en Pijao, incluyendo catas de café, visitas guiadas a pueblos y experiencias culturales.",
-    "description": "Esta sección presenta diversas experiencias turísticas en Pijao, como catas de café y venta de productos locales en La Floresta y La Tienda del Buen Vivir, experiencias con plantas aromáticas en El Patio, y recorridos por la cordillera visitando los pueblos de Córdoba, Pijao y Buenavista. También se incluyen city tours por Pijao con paradas en el Museo Arqueológico, casas de colonización antioqueña y murales del pueblo. Además, se ofrece un tour de cacao en Casa Rivera. Se proporciona información de contacto y tarifas."
+    "description": "Esta sección presenta diversas experiencias turísticas en Pijao, como catas de café y venta de productos locales en La Floresta y La Tienda del Buen Vivir, experiencias con plantas aromáticas en El Patio, y recorridos por la cordillera visitando los pueblos de Córdoba, Pijao y Buenavista. También se incluyen city tours por Pijao con paradas en el Museo Arqueológico, casas de colonización antioqueña y murales del pueblo. Además, se ofrece un tour de cacao en Casa Rivera. Se proporciona información de contacto y tarifas.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "PIJAO",
+      "body": "Cata de café y venta de productos locales y orgánicos*La floresta*3184512608*Entre $15.000 a 40.000 COP por persona. El precio puede variar de acuerdo a la cantidad de personas**Cata de café y venta de productos locales y orgánicos*La tienda el buen vivir*3217563741* **Experiencia con plantas aromáticas*El patio*3128520840*$45.000 COP por persona**Visita por los pueblos de: Córdoba, Pijao (el único municipio de Latinoamérica que integra la “Red de Ciudades sin Prisa” o Cittáslow, el movimiento de Slow Travel que fomenta el turismo sostenible, la armonía con la naturaleza, la cultura y el desarrollo) y Buenavista*Puebleando por la cordillera (Córdoba, Pijao y Buenavista)*Ver contactos de los Guías Turísticos*$240.000 por persona o grupo de hasta 7 personas (sin incluir transporte)**Alcaldía de Pijao Museo arqueológico de la cultura Pijao al público, visita por las casas de colonización antioqueña, Bar de los recuerdos (Colección de cosas antiguas), Mirador del pueblo, murales.*City tour por Pijao*Ver contactos de los Guías Turísticos*$150.000 COP persona o grupo de hasta 7 personas**Tour de cacao*Casa Rivera*3162850860*$368.500 COP por persona si son 2 pax, y disminuye el valor si aumenta el número de personas."
+    }
   },
   {
     "page": 104,
     "name": "experiencias-turisticas-pijao-riosucio",
-    "component": "ExperienciasTuristicasPijaoRiosucio",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Pijao y Riosucio",
     "descriptiveSummary": "Listado de experiencias turísticas en Pijao y Riosucio, incluyendo cabalgatas, trekking, canyoning, turismo wellness y gastronomía.",
-    "description": "Esta sección detalla experiencias turísticas en dos municipios del Eje Cafetero. En Pijao, los visitantes pueden disfrutar de cabalgatas en la Hacienda Riobamba, tours de café en la Finca de Don Leo y trekking en el Páramo Chili y el Bosque de Palmas de Cera con Ecotours Pijao. En Riosucio, las opciones incluyen canyoning, trekking y ciclismo de montaña con la Agencia Operadora Ingruma, experiencias de wellness y terapias holísticas en Aldea Sol de los Andes, así como recorridos gastronómicos e históricos con la Agencia de Viajes Somos Regiones. Se proporciona información de contacto y tarifas para cada actividad."
+    "description": "Esta sección detalla experiencias turísticas en dos municipios del Eje Cafetero. En Pijao, los visitantes pueden disfrutar de cabalgatas en la Hacienda Riobamba, tours de café en la Finca de Don Leo y trekking en el Páramo Chili y el Bosque de Palmas de Cera con Ecotours Pijao. En Riosucio, las opciones incluyen canyoning, trekking y ciclismo de montaña con la Agencia Operadora Ingruma, experiencias de wellness y terapias holísticas en Aldea Sol de los Andes, así como recorridos gastronómicos e históricos con la Agencia de Viajes Somos Regiones. Se proporciona información de contacto y tarifas para cada actividad.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "PIJAO",
+      "body": "Experiencia de Cabalgata*Hacienda Riobamba*3176594658*Desde $250.000 COP por persona por grupos de 3 a 20 personas, y puede variar de acuerdo a otras experiencias de caballos que tienen.**Tour de café en finca cafetera con almuerzo*Finca de Don Leo*3167185598*Aprox $60.000 COP, El precio puede variar de acuerdo a la cantidad de personas.**Trekking en Páramo Chilí y Bosque de Palmas de cera*Ecotours Pijao*3197750694* "
+    },
+    "content2": {
+      "title": "RIOSUCIO",
+      "body": "Canyoning por diversos cañones, trekking y rappel en cascadas de Pasmí y San José, trekking en cerro Ingruma, ciclomontañismo*Agencia Operadora Ingruma*3147947145*Entre $140.000 y $250.000 COP por persona**Experiencias Wellness, Terapias holísticas, huerto ancestral regenerativo*Aldea Sol de los Andes - Experiencia luz, magia y color*3002399915 / 3006085159* **Experiencia gastronómica, recorrido histórico, visita al museo carnaval, creación de propio antifaz, muestra musical de chirimía, alimentación*Agencia de viajes Somos regiones*3128809428*$280.000 COP por persona si son de 5 a 7 pax y varía de acuerdo a la cantidad de personas"
+    }
   },
   {
     "page": 105,
     "name": "experiencias-turisticas-salamina-salento",
-    "component": "ExperienciasTuristicasSalaminaSalento",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Salamina y Salento",
     "descriptiveSummary": "Listado de experiencias turísticas en Salamina y Salento, incluyendo city tours, senderismo, cabalgatas ecológicas, talleres de cocina y experiencias cafeteras.",
-    "description": "En Salamina, los visitantes pueden recorrer el pueblo con un guía profesional, explorar la Basque Palma de Cera en San Félix con opciones de senderismo y cabalgatas ecológicas, y participar en talleres de cocina tradicional con el chef Óscar Pérez. En Salento, las experiencias incluyen tours de café en fincas cafeteras como Buenos Aires, Luger, Del Ocaso y Entrebosques, además de una cata de chocolate en la Fábrica de Chocolate De Olier. Se proporciona información de contacto y tarifas para cada actividad."
+    "description": "En Salamina, los visitantes pueden recorrer el pueblo con un guía profesional, explorar la Basque Palma de Cera en San Félix con opciones de senderismo y cabalgatas ecológicas, y participar en talleres de cocina tradicional con el chef Óscar Pérez. En Salento, las experiencias incluyen tours de café en fincas cafeteras como Buenos Aires, Luger, Del Ocaso y Entrebosques, además de una cata de chocolate en la Fábrica de Chocolate De Olier. Se proporciona información de contacto y tarifas para cada actividad.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "SALAMINA",
+      "body": "City Tour por el pueblo visitando las calles principales, murales, declaratorias, arquitectura, balcones, Plaza Bolívar, Iglesia La Inmaculada, Casa de la cultura, Monumento al arriero*Guía Profesional Local Gloria Ríos*3128965866*$120.000 COP por persona si son 2 pax, y disminuye de acuerdo a la cantidad de personas**Visitar Basque Palma de cera en San Félix Caldas con senderos desde 20 mins hasta 3hrs, Cabalgata ecológica, experiencia de ganadería (mirador Valle de la Samaria)*Mirador Valle de la Samaria*3146115899*Entre $15.000 y $80.000 COP por persona**Taller de cocina Tradicional 2hrs a 3hrs (incluido entrada, plato fuerte, postre y copa de vino)*Óscar Pérez Estudio de cocina*3146193809*$200.000 COP por persona"
+    },
+    "content2": {
+      "title": "SALENTO",
+      "body": "Tour de café de la semilla hasta la taza en finca cafetera*Finca Buenos Aires*3172408335*$60.000 COP por persona**Tour de café de la semilla hasta la taza en finca cafetera*Finca Luger*3117957481*$45.000 COP por persona**Tour de café de la semilla hasta la taza en finca cafetera*Finca del Ocaso*3134253669*$50.000 COP por persona**Tour de café de la semilla hasta la taza en finca cafetera*Finca Entrebosques*3102275899*$40.000 COP por persona**Cata de chocolate viajar por los sabores y crear tu propia barra de chocolate*Fábrica de chocolate De Olier*3046516283*$50.000 COP a $110.000 COP por persona"
+    }
   },
   {
     "page": 106,
     "name": "experiencias-turisticas-salento",
-    "component": "ExperienciasTuristicasSalento",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Salento",
     "descriptiveSummary": "Listado de experiencias turísticas en Salento, incluyendo city tours, cabalgatas, clases de cocina, trekking y actividades tradicionales.",
-    "description": "Salento ofrece una variedad de experiencias turísticas, como city tours por el pueblo con visitas a miradores y tiendas de café, cabalgatas incluyendo tours de café, clases de cocina con el chef Fernando Vélez, y trekking en La Carbonera con especialización en avistamiento de aves. También se puede disfrutar de un tour completo a la Carbonera con transporte, almuerzo y caminatas, además de cabalgatas en el Valle de Cocora y la tradicional práctica del tejo en la cancha Los Amigos. Se proporcionan contactos y tarifas para cada actividad."
+    "description": "Salento ofrece una variedad de experiencias turísticas, como city tours por el pueblo con visitas a miradores y tiendas de café, cabalgatas incluyendo tours de café, clases de cocina con el chef Fernando Vélez, y trekking en La Carbonera con especialización en avistamiento de aves. También se puede disfrutar de un tour completo a la Carbonera con transporte, almuerzo y caminatas, además de cabalgatas en el Valle de Cocora y la tradicional práctica del tejo en la cancha Los Amigos. Se proporcionan contactos y tarifas para cada actividad.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "SALENTO",
+      "body": "City tour por el pueblo de Salento (Miradores alto de la cruz, calle real, recinto gastronómico, tiendas de café)*City Tour Salento*Ver contactos de los Guías Turísticos*$180.000 COP por persona o grupo de hasta 7 personas**Cabalgatas por Salento, algunas incluyendo tour de café*La Floresta*3105244141*Desde $60.000, $110.000, $155.000 hasta $200.000 COP por persona**Clases de cocina*Chef Fernando Vélez*3148061153*$249.000 por persona**Trekking a La Carbonera con especialidad en avistamiento de aves*Pajareros Birding Tours*3008491839* **Tour a la carbonera palmas de cera del Quindío (transporte, café, almuerzo, caminata, cascada, entrada carbonera)*Agencia mi Tierra Tours*3155749763*$700.000 COP dos personas, persona adicional tendría un costo de $350.000 COP**Experiencia de Cabalgata vía al valle de Cocora*Reserva Guadalajara*3104044733*$320.000 COP por persona**Jugar tejo, incluye bebida*Cancha de tejos Los Amigos*3127843875*$15.000 COP por persona"
+    }
   },
   {
     "page": 107,
     "name": "experiencias-turisticas-santuario",
-    "component": "ExperienciasTuristicasSantuario",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Santuario",
     "descriptiveSummary": "Listado de experiencias turísticas en Santuario, incluyendo ecoturismo, senderismo, city tours y ciclismo de montaña.",
-    "description": "Santuario ofrece diversas experiencias turísticas para los visitantes. Se puede disfrutar de ecoturismo y senderismo en cascadas dentro de zonas protegidas, ciclismo de montaña, recorridos en cuatrimotos, avistamiento de aves y tours de café. También se ofrece un city tour por el pueblo en Jeep con visitas a la Iglesia, la Calle Real, miradores y recorridos arquitectónicos. Además, es posible explorar la Gran Reserva Wabanta con caminatas por el bosque andino y la visita a cascadas. Se proporcionan contactos y tarifas para cada actividad."
+    "description": "Santuario ofrece diversas experiencias turísticas para los visitantes. Se puede disfrutar de ecoturismo y senderismo en cascadas dentro de zonas protegidas, ciclismo de montaña, recorridos en cuatrimotos, avistamiento de aves y tours de café. También se ofrece un city tour por el pueblo en Jeep con visitas a la Iglesia, la Calle Real, miradores y recorridos arquitectónicos. Además, es posible explorar la Gran Reserva Wabanta con caminatas por el bosque andino y la visita a cascadas. Se proporcionan contactos y tarifas para cada actividad.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "SANTUARIO",
+      "body": "Ecoturismo, senderos y cascadas en zona protegida*Planes de San Rafael*3117757265* **Ciclomontañismo, Cuatrimotos, Canyoning, Senderismo, avistamiento de aves, Tour de café, cabalgata ecológica (Operadora turística Ecoaventura entre ríos y montañas)*Operadora turística Ecoaventura entre ríos y montañas*3127039992*Desde $75.000, $100.000, $175.000, $200.000 COP por persona, y puede variar de acuerdo al tipo de experiencia y cantidad de personas**City tour por el pueblo de Santuario: Recorrido en Jeep, Calle real, Iglesia, degustación café de origen, mirador la floresta, almuerzo, recorrido histórico y arquitectónico, puente de río San Rafael, mirador ventiaderos, Gran Reserva Wabanta, avistamiento de aves, mirador de la Virgen*Recorrido por La Floresta, Andrés Valladales*3104329520*$80.000 COP por persona si son 2 pax**Senderismo en bosque andino y visita de cascadas*La Gran Reserva Wabanta*3117191717*Entre $43.000 y $60.000 COP por persona, variando según la experiencia"
+    }
   },
   {
     "page": 108,
