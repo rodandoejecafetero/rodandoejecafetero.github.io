@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import { RouteFromJson } from './RouteInterface';
+import { PageContent, RouteFromJson } from './RouteInterface';
 
 interface MetaTag {
   name?: string;
@@ -20,6 +20,7 @@ interface TagsLayoutProps {
 
 interface BaseLayoutProps {
   route?: RouteFromJson;
+  content?: PageContent;
 }
 
 export type { BaseLayoutProps, TagsLayoutProps, MetaTag, LinkTag };

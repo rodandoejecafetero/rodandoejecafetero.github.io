@@ -113,7 +113,8 @@
     "component": "TablaContenidos",
     "title": "Tabla de contenidos - Rodando por el eje cafetero",
     "descriptiveSummary": "Índice de la guía con secciones como agradecimientos, prólogo, introducción, playlist y destinos turísticos relacionados con películas y series. Incluye el logotipo de 'Culturas' y flechas decorativas.",
-    "description": "Explora el contenido completo de la guía 'Rodando por el Eje Cafetero'. Encuentra información sobre turismo audiovisual, destinos inspirados en películas y experiencias únicas en Colombia."
+    "description": "Explora el contenido completo de la guía 'Rodando por el Eje Cafetero'. Encuentra información sobre turismo audiovisual, destinos inspirados en películas y experiencias únicas en Colombia.",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp"
   },
   {
     "page": 4,
@@ -1229,8 +1230,15 @@
     "content": {
       "title": "LOCACIONES EN EL EJE CAFETERO:",
       "component": "DotList",
-      "body": "Santuario:<br> • Calles de un centro poblado en Peralonso,• Casas campesinas de arquitectura típica de la colonización antioqueña en Peralonso,• Calles de una vereda en Peralonso,• Salón comunal en Peralonso,• Colegio rural en Peralonso,• Iglesia de vereda en Peralonso, <br> Apia: <br>,• Plaza de mercado en Apía,• Alcaldíade Apía,• Billar en Apía, <br> La Virginia: <br>,• Edificación adaptada como cuartel militar en La Virginia ,• Colegio de La Virginia, <br> PEREIRA <br>,• Plaza de Bolivar de Pereira,• Palacio Episcopal de Pereira,• Catedral Nuestra Señora de la Pobreza de Pereira,• Rio Otún en Pereira",
-      "color": "white"
+      "title2": "SANTUARIO",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "green"
+    },
+    "content2": {
+      "title2": "APIA",
+      "component": "DotList",
+      "body": "• 2Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "green"
     }
   },
   {

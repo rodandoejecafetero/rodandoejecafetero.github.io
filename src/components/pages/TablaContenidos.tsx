@@ -1,14 +1,17 @@
 import LeftTopIconLayout from '../../layouts/LeftTopIconLayout';
 import { DEFAULT_URL } from '../../Constant';
+import BaseLayout from '../../layouts/BaseLayout';
+import { BaseLayoutProps } from '../../interfaces/LayoutInterface';
 
-export default function TablaContenidos() {
+export default function TablaContenidos({route}: BaseLayoutProps) {
   const handleClick = (section: string, e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();
     window.dispatchEvent(new CustomEvent('sectionChange', { detail: { section } }));
   };
 
   return (
-    <LeftTopIconLayout id='tabla-de-contenido' img={`${DEFAULT_URL}assets/logos/culturas/culturas-green.png`} color='green'>
+    <LeftTopIconLayout id='tabla-de-contenido' color='green'>
+      <BaseLayout route={route} />
       <div className="flex flex-col w-full h-full px-10 pt-24 pb-10 text-sm text-left text-purple">
         <div className='flex flex-wrap justify-between w-full'>
             <div>
