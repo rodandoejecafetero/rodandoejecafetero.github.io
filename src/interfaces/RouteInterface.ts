@@ -51,6 +51,7 @@ interface RouteFromJson {
   subtitle?: string;
   content?: PageContent;
   content2?: PageContent;
+  content3?: PageContent;
   rightIcon?: string;
   topIcon?: string;
   body?: string;

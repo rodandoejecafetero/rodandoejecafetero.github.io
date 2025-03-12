@@ -17,6 +17,8 @@ export default {
     'text-dark-pink',
     'bg-orange',
     'text-orange',
+    'bg-blue',
+    'text-blue',
   ],
   theme: {
     extend: {

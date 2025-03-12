@@ -1927,138 +1927,417 @@
   {
     "page": 108,
     "name": "servicio-hospedaje",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje",
     "descriptiveSummary": "Listado de opciones de hospedaje en diferentes municipios de la región, con sus respectivos contactos.",
-    "description": "En esta sección se presentan diferentes opciones de hospedaje disponibles en los municipios de Apía, Armenia y Calarcá. Se incluyen hoteles, hostales, fincas turísticas y eco-hoteles, con información de contacto para cada establecimiento."
+    "description": "En esta sección se presentan diferentes opciones de hospedaje disponibles en los municipios de Apía, Armenia y Calarcá. Se incluyen hoteles, hostales, fincas turísticas y eco-hoteles, con información de contacto para cada establecimiento.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 109,
     "name": "servicio-hospedaje-filandia-la-virginia",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Filandia y La Virginia",
     "descriptiveSummary": "Opciones de hospedaje en los municipios de Filandia y La Virginia, con información de contacto.",
-    "description": "Esta sección incluye una lista de hospedajes disponibles en los municipios de Filandia y La Virginia. Se presentan hostales, hoteles boutique, eco-hoteles y fincas turísticas, junto con los números de contacto para cada establecimiento."
+    "description": "Esta sección incluye una lista de hospedajes disponibles en los municipios de Filandia y La Virginia. Se presentan hostales, hoteles boutique, eco-hoteles y fincas turísticas, junto con los números de contacto para cada establecimiento.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 110,
     "name": "servicio-hospedaje-manizales",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Manizales",
     "descriptiveSummary": "Opciones de hospedaje en el municipio de Manizales, con información de contacto.",
-    "description": "Esta sección proporciona un listado de hospedajes en Manizales, incluyendo hostales, hoteles boutique, eco-hoteles y alojamientos rurales. Se presentan con sus respectivos números de contacto para facilitar la reserva."
+    "description": "Esta sección proporciona un listado de hospedajes en Manizales, incluyendo hostales, hoteles boutique, eco-hoteles y alojamientos rurales. Se presentan con sus respectivos números de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 111,
     "name": "servicio-hospedaje-marsella-pereira",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Marsella y Pereira",
     "descriptiveSummary": "Opciones de hospedaje en los municipios de Marsella y Pereira, con información de contacto.",
-    "description": "Este apartado incluye una lista de hospedajes en Marsella y Pereira, con diversas opciones como eco-hoteles, hostales y fincas turísticas. Se presentan con sus respectivos números de contacto para facilitar la reserva."
+    "description": "Este apartado incluye una lista de hospedajes en Marsella y Pereira, con diversas opciones como eco-hoteles, hostales y fincas turísticas. Se presentan con sus respectivos números de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },  
   {
     "page": 112,
     "name": "servicio-hospedaje-pereira",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Pereira",
     "descriptiveSummary": "Opciones de hospedaje en Pereira con información de contacto.",
-    "description": "Esta sección presenta una lista de hospedajes en el municipio de Pereira, incluyendo hoteles, fincas y alojamientos boutique. Se incluyen datos de contacto para facilitar la reserva."
+    "description": "Esta sección presenta una lista de hospedajes en el municipio de Pereira, incluyendo hoteles, fincas y alojamientos boutique. Se incluyen datos de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 113,
     "name": "servicio-hospedaje-pijao-riosucio",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Pijao y Riosucio",
     "descriptiveSummary": "Opciones de hospedaje en Pijao y Riosucio con información de contacto.",
-    "description": "Esta sección presenta una lista de hospedajes en los municipios de Pijao y Riosucio, incluyendo hostales, hoteles y alojamientos rurales. Se proporciona información de contacto para facilitar la reserva."
+    "description": "Esta sección presenta una lista de hospedajes en los municipios de Pijao y Riosucio, incluyendo hostales, hoteles y alojamientos rurales. Se proporciona información de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },  
   {
     "page": 114,
     "name": "servicio-hospedaje-riosucio-salento",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Riosucio y Salento",
     "descriptiveSummary": "Opciones de hospedaje en Riosucio y Salento con información de contacto.",
-    "description": "Esta sección presenta una lista de hospedajes en los municipios de Riosucio y Salento, incluyendo hoteles y eco-hoteles. Se proporciona información de contacto para facilitar la reserva."
+    "description": "Esta sección presenta una lista de hospedajes en los municipios de Riosucio y Salento, incluyendo hoteles y eco-hoteles. Se proporciona información de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 115,
     "name": "servicio-hospedaje-salento-santuario",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en Salento y Santuario",
     "descriptiveSummary": "Listado de opciones de hospedaje en Salento y Santuario con información de contacto.",
-    "description": "Esta sección ofrece una variedad de hospedajes en los municipios de Salento y Santuario. Se incluyen hostales, hoteles y eco-hoteles, junto con sus respectivos datos de contacto para facilitar la reserva."
+    "description": "Esta sección ofrece una variedad de hospedajes en los municipios de Salento y Santuario. Se incluyen hostales, hoteles y eco-hoteles, junto con sus respectivos datos de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 116,
     "name": "servicio-hospedaje-la-tebaida-salamina",
-    "component": "ServicioHospedaje",
+    "component": "ServiciosLayout",
     "title": "Servicio de Hospedaje en La Tebaida y Salamina",
     "descriptiveSummary": "Listado de opciones de hospedaje en La Tebaida y Salamina con información de contacto.",
-    "description": "En esta sección se presentan diversas opciones de hospedaje en los municipios de La Tebaida y Salamina. Se incluyen hoteles, hostales y glampings, junto con sus respectivos datos de contacto para facilitar la reserva."
+    "description": "En esta sección se presentan diversas opciones de hospedaje en los municipios de La Tebaida y Salamina. Se incluyen hoteles, hostales y glampings, junto con sus respectivos datos de contacto para facilitar la reserva.",
+    "bgColor": "blue",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 117,
     "name": "servicio-gastronomico-apia-armenia",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Apía y Armenia",
     "descriptiveSummary": "Listado de restaurantes y bares en Apía y Armenia con información de contacto.",
-    "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de Apía y Armenia. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de Apía y Armenia. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 118,
     "name": "servicio-gastronomico-calarcá-filandia",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Calarcá y Filandia",
     "descriptiveSummary": "Listado de restaurantes y bares en Calarcá y Filandia con información de contacto.",
-    "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de Calarcá y Filandia. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de Calarcá y Filandia. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 119,
     "name": "servicio-gastronomico-la-virginia-manizales",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en La Virginia y Manizales",
     "descriptiveSummary": "Listado de restaurantes y bares en La Virginia y Manizales con información de contacto.",
-    "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de La Virginia y Manizales. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de La Virginia y Manizales. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 120,
     "name": "servicio-gastronomico-manizales-marsella",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Manizales y Marsella",
     "descriptiveSummary": "Listado de restaurantes y cafés en Manizales y Marsella con información de contacto.",
-    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Manizales y Marsella. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Manizales y Marsella. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 121,
     "name": "servicio-gastronomico-pereira-nevados",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Pereira y Parque Nacional Los Nevados",
     "descriptiveSummary": "Listado de restaurantes y cafés en el Parque Nacional Natural Los Nevados y Pereira con información de contacto.",
-    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el Parque Nacional Natural Los Nevados y Pereira. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el Parque Nacional Natural Los Nevados y Pereira. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 122,
     "name": "servicio-gastronomico-pijao-riosucio",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Pijao y Riosucio",
     "descriptiveSummary": "Listado de restaurantes y cafés en Pijao y Riosucio con información de contacto.",
-    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Pijao y Riosucio. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Pijao y Riosucio. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },  
   {
     "page": 123,
     "name": "servicio-gastronomico-santuario-salamina",
-    "component": "ServicioGastronomico",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Santuario y Salamina",
     "descriptiveSummary": "Listado de restaurantes y cafés en Santuario y Salamina con información de contacto.",
-    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Santuario y Salamina. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Santuario y Salamina. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
+      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+    },
+    "content2": {
+      "title": "ARMENIA",
+      "body": "HOTEL HACIENDA BAMBUSA",
+      "body2": "3016398727"
+    },
+    "content3": {
+      "title": "CALARCÁ",
+      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
+      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+    }
   },
   {
     "page": 124,
     "name": "servicio-gastronomico-salento",
-    "component": "TableLayout",
+    "component": "ServiciosLayout",
     "title": "Servicio Gastronómico en Salento",
     "descriptiveSummary": "Listado de restaurantes y cafés en Salento con información de contacto.",
-    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el municipio de Salento. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
+    "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el municipio de Salento. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
+    "content": {
+      "title": "SALENTO",
+      "body": "DONDE LAURITA CAMPESTRE*CAMINO REAL*QUINDU*KUMANA BISTRO BAR*PARILLA Y VINOS JUAN ESTEBAN*ORIGENES BEDOYA*RECINTO GASTRONÓMICO Y ARTESANAL VILL A DE NUEVA SALENTO*FONDA LOS ARRIEROS*COCO BOWL*SUPER PATACÓN, EL ORIGINAL*RESTAURANTE Y CAFÉ CASA WILLUS",
+      "body2": "3217595489*3235820523*3188275083*3163002142*3148891647*3152187027* -*3137655810*3162787724*3136696214*3142997054"
+    }
   },
   {
     "page": 125,
