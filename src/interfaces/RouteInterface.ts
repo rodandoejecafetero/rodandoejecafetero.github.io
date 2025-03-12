@@ -24,6 +24,7 @@ interface PageContent {
   lineColor?: string;
   body?: string;
   body2?: string;
+  body3?: string;
   firstColumn?: ColumnContent[];
   secondColumn?: ColumnContent[];
   thirdColumn?: ColumnContent[];

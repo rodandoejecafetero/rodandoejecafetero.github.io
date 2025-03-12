@@ -27,7 +27,10 @@ const SinopsisLayout = lazy(() => import('./layouts/SinopsisLayout.tsx'));
 const LeftPrimaryBannerLayout = lazy(() => import('./layouts/LeftPrimaryBannerLayout.tsx'));
 const RightLateralBannerLayout = lazy(() => import('./layouts/RightLateralBannerLayout.tsx'));
 const RightPrimaryBannerLayout = lazy(() => import('./layouts/RightPrimaryBannerLayout.tsx'));
+const GuiaTurismoLayout = lazy(() => import('./layouts/GuiaTurismoLayout.tsx'));
 const PijaoLayout = lazy(() => import('./layouts/PijaoLayout.tsx'));
+const EmpresasLayout = lazy(() => import('./layouts/EmpresasLayout.tsx'));
+const ExperienciasLayout = lazy(() => import('./layouts/ExperienciasLayout.tsx'));
 
 const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   TablaContenidos: <TablaContenidos />,
@@ -44,6 +47,9 @@ const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   RightLateralBannerLayout: <RightLateralBannerLayout />,
   RightPrimaryBannerLayout: <RightPrimaryBannerLayout />,
   PijaoLayout: <PijaoLayout />,
+  GuiaTurismoLayout: <GuiaTurismoLayout />,
+  EmpresasLayout: <EmpresasLayout />,
+  ExperienciasLayout: <ExperienciasLayout />,
 };
 
 // Mapear el JSON a un array de RouteInterface. Si el componente no existe se utiliza RedirectTo404.

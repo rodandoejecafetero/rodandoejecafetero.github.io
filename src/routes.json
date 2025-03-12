@@ -1708,26 +1708,48 @@
   {
     "page": 93,
     "name": "guias-de-turismo",
-    "component": "GuiasDeTurismo",
+    "component": "GuiaTurismoLayout",
     "title": "Guías de Turismo",
-    "descriptiveSummary": "Lista de guías de turismo en la región, con su número de contacto, registro nacional de turismo y tarjeta profesional.",
-    "description": "Este directorio presenta una lista de guías de turismo certificados en la región del Eje Cafetero. Se incluyen nombres, números de WhatsApp, número de registro nacional de turismo y tarjeta profesional, facilitando el acceso a servicios especializados para visitantes y producciones audiovisuales."
+    "description": "Este directorio presenta una lista de guías de turismo certificados en la región del Eje Cafetero. Se incluyen nombres, números de WhatsApp, número de registro nacional de turismo y tarjeta profesional, facilitando el acceso a servicios especializados para visitantes y producciones audiovisuales.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "JOHN AGUDELO,AMALIA GALLEGO,GIOVANNY GAVIRIA,CRISTIAN LASSO,OSWALDO TORO,ALEJANDRO BERMUDEZ,DIEGO ZAPATA,JULIAN ARRUBLA,CAMILO CORTÉS MOLINA,JORGE MARIO RODRIGUEZ LÓPEZ,YENNY MARCELA TORRES RÍOS,LUZ PATRICIA HURTADO ÁLZATE,GUSTAVO VALDERRAMA SABOGAL,CLAUDIA MILENA CASAS RUÍZ",
+      "body": "3207189711,3155749763,3214661967,3146158850,3205114559,3147144333,3215261316,3218995839,3122579731,3216473626,3136231598,3218495391,3227080747,3128167740",
+      "body2": "127345,91465,66874,93860,215225,94806,178593,66504,117765,8386,26229,57032,114 405,1590",
+      "body3": "5997,309,2419,3550,7728,3524,6943,2719,5658,762,1805,203,4338,22979"
+    }
   },
   {
     "page": 94,
     "name": "empresas-transporte-turistico",
-    "component": "EmpresasTransporteTuristico",
+    "component": "EmpresasLayout",
     "title": "Empresas de Transporte Turístico",
     "descriptiveSummary": "Listado de empresas de transporte turístico en la región del Eje Cafetero, con sus respectivos números de contacto.",
-    "description": "Este directorio proporciona información de contacto de diversas empresas que ofrecen servicios de transporte turístico en el Eje Cafetero. Incluye operadores especializados en turismo, transporte en Jeeps y agencias de viajes que facilitan la movilidad de visitantes y producciones audiovisuales en la región."
+    "description": "Este directorio proporciona información de contacto de diversas empresas que ofrecen servicios de transporte turístico en el Eje Cafetero. Incluye operadores especializados en turismo, transporte en Jeeps y agencias de viajes que facilitan la movilidad de visitantes y producciones audiovisuales en la región.",
+    "bgColor": "yellow",
+    "textColor": "purple",
+    "content": {
+      "body": "TRANSPORTE Y TURISMO DEL EJE,MI TIERRA TOUR,TRANSPORTES BOTERO,RUTA XPLORER,SENDEROS,TURISMO Y TRANSPORTE CAFETERO,EXPLORE & TRAVEL COLOMBIA,ZAPATA TOURS,TRANSPORTES ESPECIALES DEL CAFÉ,G3 TRAVEL,AEROVAN TOURS,ROYAL TOURS,COOPERATIVA ROYAL EXPRESS,COOPERATIVA JEEPS PIJAO & BUENAVISTA,COOPERATIVA DE JEEPS SALENTO",
+      "body2": "3007145520,3113943251-3024362663,3114191405,3205056344,3118145322,3127360691,3102916103,3108990626,(606) 3413037,3502942409,3108487065,3105451645,3209268252,3128705918,3104375174"
+    }
   },
   {
     "page": 95,
     "name": "experiencias-turisticas-apia",
-    "component": "ExperienciasTuristicasApia",
+    "component": "ExperienciasLayout",
     "title": "Experiencias Turísticas en Apía",
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Apía, incluyendo actividades de aventura, agroturismo y avistamiento de aves.",
-    "description": "Esta sección presenta una lista de experiencias turísticas en Apía, Risaralda, con información sobre operadores, contacto y tarifas aproximadas. Las actividades incluyen parapente, tours de café, senderismo, aviturismo y cicloturismo, ofreciendo diversas opciones para visitantes y productores audiovisuales interesados en la región."
+    "description": "Esta sección presenta una lista de experiencias turísticas en Apía, Risaralda, con información sobre operadores, contacto y tarifas aproximadas. Las actividades incluyen parapente, tours de café, senderismo, aviturismo y cicloturismo, ofreciendo diversas opciones para visitantes y productores audiovisuales interesados en la región.",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "APÍA",
+      "body": "Parapente turismo de aventura*Tour de café, experiencia agroturística, museo al aire libre*Visita a cascadas, senderismo en tres parques naturales,con diferentes niveles de dificultad, Interpretación,ambiental, rutas cafeteras, pueblo tour con historia de Apía*Recorridos de aviturismo*Biciturismo, rutas en bicicleta y agroturismo*Observación de aves ruta corta 1km para observar ave endémicas",
+      "body2": "Club Escuela de vuelo libre*Vientos*Granja San Isidro*Guía Alejandro Bermúdez Raigosa*Organización Ambiental Vida Silvestre*Bicitours rutas del viento*Apía Birding Ecologde",
+      "body3": "3147144333*3012738710 3207267908*3147144333*313633829*3004272010*3116876569",
+      "body4": "Aprox $170.000 COP por persona*Desde $50.000 COP por persona, y varía de acuerdo a la experiencia y cantidad de personas*Desde $70.000 y $250.000*COP por persona, varía de acuerdo a la experiencia y cantidad de personas*Aprox $80.000 COP por persona*Desde $90.000 COP por persona, varía de acuerdo a la experiencia y cantidad de persona*Entre $30.000 y $100.000 COP por persona"
+    }
   },
   {
     "page": 96,
