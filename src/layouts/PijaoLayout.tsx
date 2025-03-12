@@ -22,7 +22,7 @@ function PijaoLayout({ route }: BaseLayoutProps) {
               </div>
             </div>
             <div className={`text-sm flex md:-ml-30 mt-16`}>
-              <img src={route?.img} className='object-contain h-56'/>
+              <img src={route?.img2} className='object-contain h-56'/>
               <div className='px-4'>
                 <h2 className={`text-${route?.content?.color}`}>{route?.content?.title3}</h2>
                 <p className={`text-${route?.content?.color2} font-light`}>{route?.content?.body2}</p>
