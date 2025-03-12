@@ -470,7 +470,7 @@
     "title": "LOCACIONES EN EL EJE CAFETERO",
     "descriptiveSummary": "Lista de locaciones en el Eje Cafetero utilizadas en 'Memoria'.",
     "description": "Explora las locaciones de 'Memoria', incluyendo Pijao y el Túnel de la Línea.",
-    "img": "assets/images/14-fotograma-memoria.webp",
+    "img": "assets/images/15-fotograma-memoria.webp",
     "img2": "assets/images/12-memoria.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "purple",
@@ -492,8 +492,8 @@
     "bgColor": "purple",
     "bgColor2": "yellow",
     "textColor": "purple",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/16-experiencias-destacadas.webp",
+    "img2": "assets/images/16-experiencias-destacadas.webp",
     "content": {
       "title": "Experiencias\nDestacadas en\nPijao:",
       "title2": "LA PEQUEÑA CASA",
@@ -540,12 +540,12 @@
     "textColor2": "white",
     "bgColor2": "green",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/18-el-paramo.webp",
     "content": {
       "component": "Image",
       "title": "SINOPSIS",
       "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+      "firstImage": "assets/images/19-el-paramo.webp"
     }
   },
   {
@@ -555,8 +555,8 @@
     "title": "Reparto - El Páramo",
     "descriptiveSummary": "Lista de actores de la película 'El Páramo'.",
     "description": "Conoce al elenco de 'El Páramo', incluyendo a Juan Pablo Barragán, Alejandro Aguilar y Andrés Castañeda, quienes dan vida a los soldados atrapados en una base militar del Eje Cafetero.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/20-fotograma-el-paramo.webp",
+    "img2": "assets/images/18-el-paramo.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "green",
     "textColor": "purple",
@@ -585,8 +585,8 @@
     "title": "Locaciones - El Páramo",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero donde se filmó 'El Páramo'.",
     "description": "Explora la Base Militar Cerro Gualí en la vía Caldas-Tolima, una de las locaciones principales de 'El Páramo'.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/22-fotograma-el-paramo.webp",
+    "img2": "assets/images/18-el-paramo.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "purple",
     "textColor": "green",
@@ -607,8 +607,8 @@
     "bgColor": "purple",
     "bgColor2": "green",
     "textColor": "purple",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/23-experiencias-destacadas.webp",
+    "img2": "assets/images/23-experiencias-destacadas-2.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS\nEN LA VÍA\nCALDAS-TOLIMA:",
       "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
@@ -637,8 +637,8 @@
     "title": "2. Destinos Animados en “ENCANTO”",
     "descriptiveSummary": "Explora los lugares del Eje Cafetero que inspiraron la película 'Encanto'.",
     "description": "Descubre los pueblos y paisajes del Quindío que sirvieron de inspiración para la película 'Encanto', resaltando la magia y el color de la arquitectura tradicional.",
-    "img": "assets/logos/rodando-por-el-eje-purple.webp",
-    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "img": "assets/images/25-logo-en-amarillo.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "dark-green",
     "textColor": "yellow",
     "content": {
@@ -670,7 +670,7 @@
     "description": "Los balcones adornados y las fachadas patrimoniales del Eje Cafetero fueron clave en la ambientación de la película 'Encanto'.",
     "img": "assets/images/26-encanto.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "textColor": "yellow"
+    "textColor": "purple"
   },
   {
     "page": 27,
@@ -691,18 +691,18 @@
     "title": "Sinopsis - Encanto",
     "descriptiveSummary": "Resumen de la historia de 'Encanto', la película de Disney inspirada en Colombia.",
     "description": "Descubre la historia de 'Encanto', donde Mirabel Madrigal intenta salvar la magia de su hogar en una versión mágica del Eje Cafetero colombiano.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Animación / Comedia / Musical / Fantasía / Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 109 mins\n<b>Dirección:</b> Byron Howard / Jared Bush\n<b>Producción:</b>  Clark Spencer / Yvett Merino Flores\n<b>Empresas productoras:</b> Walt Disney Pictures / Walt Disney Animation Studios \n<b>Dirección de fotografía:</b> Alessandro Jacomini y Daniel Rice (iluminación) / Nathan Detroit Warner (diseño)\n<b>Guion:</b> Jared Bush / Carise Castro Smith\n<b>Dirección de Arte:</b> Bill Schwab (personajes) - Camille Andre y Mehrdad Isvandi (ambientación)\n<b>Montaje:</b> Jeremy Milton\n<b>Diseño sonoro:</b> Nia Hansen\n<b>Música:</b> Lin-Manuel Miranda (canciones) / Germaine Franco",
     "bgColor": "yellow",
     "textColor": "dark-green",
     "textColor2": "white",
     "bgColor2": "dark-green",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/27-encanto.webp",
     "content": {
       "component": "Image",
       "title": "SINOPSIS",
-      "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+      "body": "Mirabel se convierte en la última esperanza para su familia cuando descubre que la magia de Encanto, un lugar especial que bendice a los niños y hogar de los Madrigal, corre un serio peligro.",
+      "firstImage": "assets/images/28-encanto-destinos.webp"
     }
   },
   {
@@ -712,15 +712,15 @@
     "title": "Reparto - Encanto",
     "descriptiveSummary": "Lista de actores de doblaje de la película 'Encanto'.",
     "description": "Conoce las voces detrás de 'Encanto', incluyendo a Stephanie Beatriz, John Leguizamo y Maluma, quienes dieron vida a los personajes de la familia Madrigal.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/29-encanto-destinos-turisticos.webp",
+    "img2": "assets/images/27-encanto.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "dark-green",
     "textColor": "yellow",
     "content": {
       "title": "Reparto",
       "component": "DotList",
-      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "body": "• Stephanie Beatriz – Mirabel (voz),• María Cecilia Botero – Abuela Alma (voz),• Olga Merediz - Abuela Alma (canto),• John Leguizamo – Bruno (voz),• Mauro Castillo – Félix (voz),• Jessica Darrow – Luisa (voz),• Angie Cepeda – Julieta (voz),• Carolina Gaitán – Pepa (voz),• Diane Guerrero – Isabela (voz),• Wilmer Valderrama – Agustín (voz),• Rhenzy Feliz - Camilo (voz),• Ravi Cabot-Conyers - Antonio (voz),• Adassa - Dolores (voz),• Maluma - Mariano (voz)",
       "color": "white"
     }
   },
@@ -731,8 +731,8 @@
     "title": "Locaciones - Inspiración de Encanto",
     "descriptiveSummary": "Lugares del Eje Cafetero que inspiraron la película 'Encanto'.",
     "description": "Explora los sitios que sirvieron de inspiración para 'Encanto', como el Valle del Cocora y las fachadas patrimoniales del Eje Cafetero.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/30-encanto-destinos-turisticos.webp",
+    "img2": "assets/images/27-encanto.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "dark-green",
     "textColor": "yellow",
@@ -753,14 +753,14 @@
     "bgColor": "dark-green",
     "bgColor2": "yellow",
     "textColor": "dark-green",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/31-experiencias-destacadas.webp",
+    "img2": "assets/images/31-experiencias-destacadas-2.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
-      "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
-      "title3": "ROADTRIP EN EL PÁRAMO",
-      "body": "El té de coca ayuda con el mal de altura y complementa la experiencia de estar a la intemperie entre los -3 y los 12 grados. En esta frontera entre Caldas y Tolima puedes contemplar un paisaje sublime e introspectivo aun sin alejarte de la carretera. Aventúrate a saludar a los militares que están camino a Cerro Gualí y que podrían inquietarte con historias de fantasmas de la base militar.",
-      "body2": "Desde la comodidad de la ventana de un auto disfruta de la neblina, la laguna y los frailejones. Complementa el clima con el paisaje sonoro, no olvides apagar la radio para vivir una verdadera experiencia de escucha. Uno de los muchos accesos al Parque Nacional Natural Los Nevados está en el sector norte cabaña Brisas, en la vía Caldas - Tolima. Esta es la ruta de páramo ideal para quienes no hacen trekking y no están dispuestos a pernoctar, en este acceso al parque es obligatorio transportarse en automóvil.",
+      "title2": "EL VALLE DEL COCORA",
+      "title3": "BOQUIA",
+      "body": "El destino más popular para visitar el árbol nacional de Colombia está en Salento, en el camino al Parque Nacional Natural Los Nevados, que protege ecosistemas de páramo, bosque montano húmedo, bosque altoandino y bosque de niebla. Estos ecosistemas son hogar de una biodiversidad única, con flora como la palma de cera y el loro orejiamarillo.",
+      "body2": "“Encanto” enaltece la abundante capacidad hídrica y variedad de ecosistemas acuáticos de Colombia. En Salento se destacan los ríos Quindío, Navarco y Boquerón, así como la quebrada Cárdenas, todos ellos nacidos en el Parque Nacional Natural Los Nevados. Esta vereda de Salento atrae a los visitantes por su agua y también por ser el primer emplazamiento instalado en el Camino del Quindío (uno de los pasos más difícil de domesticar en el país). Visita la placa del paso de Simón Bolívar en enero de 1830 y el puente del Ferrocarril Armenia-Ibagué.",
       "color": "white",
       "color2": "green"
     }
@@ -775,8 +775,8 @@
     "bgColor": "dark-green",
     "bgColor2": "yellow",
     "textColor": "dark-green",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/32-hacienda-bambusa.webp",
+    "img2": "assets/images/32-hotel-shalom-la-dorada.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
       "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
@@ -832,7 +832,7 @@
     "descriptiveSummary": "Diseño gráfico representativo de la telenovela 'Café con Aroma de Mujer', con un estilo visual inspirado en el café y su cultura.",
     "description": "Explora la esencia visual de 'Café con Aroma de Mujer', una de las telenovelas más emblemáticas de Colombia, que muestra la tradición cafetera del Eje Cafetero.",
     "img": "assets/images/35-cafe-con-aroma-a-mujer.webp",
-    "culture": "assets/icons/culturas-green.png",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "green",
     "textColor": "purple"
   },
@@ -849,16 +849,16 @@
     "textColor2": "white",
     "bgColor2": "green",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/35-cafe-con-aroma-a-mujer.webp",
     "content": {
       "component": "FourthImageTable",
       "title": "SINOPSIS",
-      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
+      "body": "Gaviota, una joven recolectora de café, y Sebastián, un hombre perteneciente a una familia poderosa del gremio cafetero, viven una intensa historia de amor marcada por las diferencias sociales y los desafíos de un entorno cambiante en el mundo de las haciendas cafetaleras.",
       "color": "purple",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
-      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
-      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
-      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+      "firstImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma.webp",
+      "secondImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma2.webp",
+      "thirdImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma3.webp",
+      "fourthImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma4.webp"
     }
   },
   {
@@ -868,15 +868,15 @@
     "title": "Reparto - Café con Aroma de Mujer (2021)",
     "descriptiveSummary": "Lista de actores de la telenovela 'Café con Aroma de Mujer' (2021).",
     "description": "Conoce a los protagonistas de 'Café con Aroma de Mujer', incluyendo a William Levy, Laura Londoño y Carmen Villalobos.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/37-cafe-con-aroma-a-mujer.webp",
+    "img2": "assets/images/35-cafe-con-aroma-a-mujer.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "green",
     "textColor": "purple",
     "content": {
       "title": "Reparto",
       "component": "DotList",
-      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "body": "• William Levy – Sebastián Vallejo,• Laura Londoño – Gaviota,• Carmen Villalobos – Lucía Sanclemente,• Diego Cadavid – Iván Vallejo",
       "color": "purple"
     }
   },
@@ -887,33 +887,61 @@
     "title": "Locaciones - Café con Aroma de Mujer (2021)",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero usadas en la telenovela 'Café con Aroma de Mujer' (2021).",
     "description": "Explora lugares icónicos del Eje Cafetero que fueron locaciones en 'Café con Aroma de Mujer', como la Plaza de Marsella y la Hacienda Venecia en Manizales.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/38-cafe-con-aroma-a-mujer.webp",
+    "img2": "assets/images/35-cafe-con-aroma-a-mujer.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "dark-green",
-    "textColor": "yellow",
+    "bgColor": "green",
+    "textColor": "purple",
     "content": {
-      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "title": "LOCACIONES EN EL EJE CAFETERO:",
       "component": "DotList",
-      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
-      "color": "white"
+      "body": "• Plaza principal de Marsella,• Iglesia y cementerio de Marsella ,• Hacienda el Rosario en Manizales,• Hacienda Venecia en Manizales,• Plaza principal, calles en Salamina ,• Valle de la Samaria en Salamina",
+      "color": "purple"
     }
   },
   {
     "page": 39,
     "name": "experiencias-hacienda-venecia",
-    "component": "ExperienciasHaciendaVenecia",
+    "component": "SinopsisLayout",
     "title": "Experiencias Destacadas en Hacienda Venecia",
     "descriptiveSummary": "Vive la experiencia de recorrer el cafetal de Gaviota y hospedarte en una hacienda centenaria.",
-    "description": "Sumérgete en la experiencia de 'Café con Aroma de Mujer' visitando el cafetal de Gaviota y aprendiendo sobre café, cacao y ron en la Hacienda Venecia."
+    "description": "Sumérgete en la experiencia de 'Café con Aroma de Mujer' visitando el cafetal de Gaviota y aprendiendo sobre café, cacao y ron en la Hacienda Venecia.",
+    "img": "assets/images/38-cafe-con-aroma-a-mujer.webp",
+    "img2": "assets/images/35-cafe-con-aroma-a-mujer.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "title": "LOCACIONES EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Plaza principal de Marsella,• Iglesia y cementerio de Marsella ,• Hacienda el Rosario en Manizales,• Hacienda Venecia en Manizales,• Plaza principal, calles en Salamina ,• Valle de la Samaria en Salamina",
+      "color": "purple"
+    }
   },
   {
     "page": 40,
     "name": "experiencias-salamina",
-    "component": "ExperienciasSalamina",
+    "component": "SinopsisLayout",
     "title": "Experiencias Destacadas en Salamina",
     "descriptiveSummary": "Explora el arte urbano y la cocina tradicional en Salamina, un destino de telenovelas.",
-    "description": "Visita los murales en cemento de FERTOCE y disfruta de una experiencia gastronómica en la Casa de Oscar Pérez, donde Gaviota probó el sushi en 'Café 2021'."
+    "description": "Visita los murales en cemento de FERTOCE y disfruta de una experiencia gastronómica en la Casa de Oscar Pérez, donde Gaviota probó el sushi en 'Café 2021'.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "pink",
+    "textColor": "white",
+    "textColor2": "white",
+    "bgColor2": "green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/35-cafe-con-aroma-a-mujer.webp",
+    "content": {
+      "component": "FourthImageTable",
+      "title": "SINOPSIS",
+      "body": "Gaviota, una joven recolectora de café, y Sebastián, un hombre perteneciente a una familia poderosa del gremio cafetero, viven una intensa historia de amor marcada por las diferencias sociales y los desafíos de un entorno cambiante en el mundo de las haciendas cafetaleras.",
+      "color": "purple",
+      "firstImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma.webp",
+      "secondImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma2.webp",
+      "thirdImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma3.webp",
+      "fourthImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma4.webp"
+    }
   },
   {
     "page": 41,
@@ -956,22 +984,20 @@
     "title": "Sinopsis - Las Hermanitas Calle",
     "descriptiveSummary": "Historia de la serie 'Las Hermanitas Calle', basada en la vida de las icónicas cantantes de música carrilera.",
     "description": "Descubre la historia de lucha y éxito de Nelly y Fabiola Calle, dos hermanas que conquistaron la música carrilera en Colombia.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "body": "<b>Año:</b> 2015\n<b>Categoría:</b> Drama, Biografía, Musical\n<b>Idioma original:</b> Español \n<b>Duración:</b> 80 Episodios \n<b>Dirección:</b> Luis Alberto Restrepo - Juan Carlos Vásquez \n<b>Producción:</b> Asier Aguilar\n<b>Empresas productoras:</b> Caracol Televisión (Colombia)\n<b>Guion:</b> César Augusto Betancur\n<b>Dirección de fotografía:</b> Ricardo Torres - Germán Giraldo\n<b>Dirección de Arte:</b> Guarnizo y Lizarralde \n<b>Montaje:</b> Jorge Luis Orostegui\n<b>Música:</b> JOX",
     "bgColor": "pink",
-    "textColor": "white",
-    "textColor2": "white",
-    "bgColor2": "green",
+    "textColor": "purple",
+    "textColor2": "purple",
+    "bgColor2": "yellow",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/42-hermanitas-calle.webp",
     "content": {
       "component": "FourthImageTable",
       "title": "SINOPSIS",
-      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
-      "color": "purple",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
-      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
-      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
-      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+      "body": "La trama cuenta la historia de Nelly y Fabiola Calle, dos mujeres que desde niñas tuvieron un gran talento para la música carrilera, impulsadas por Doña Edelmira su abuela materna, quien les ayudó a conseguir su primer concierto durante la estancia del gobernador del Valle del Cauca, a Villafuerte, el pueblo natal del dúo carrilero. En medio de la presentación, doña Edelmira sufre un ataque al corazón y muere. Este duro golpe motiva a Las Hermanitas Calle a continuar con el legado que su abuelita les ayudó a cultivar. Tras el abandono de su padre, y la dura situación económica por la que atravesaban, las hermanitas Calle se mudan a Medellín, lo que significa una gran ventaja para su carrera musical, que a lo largo de más de treinta años, las hizo famosas, no solo en Colombia sino también fuera del país. Toda esta alegría no fue eterna, ya que en 2003, Nelly Calle fallece a causa de un cáncer que la aquejaba desde hace unos cuantos meses. A causa de esto Nelly fue reemplazada por su hermana Auxilio quien continuó grabando junto a Fabiola, bajo el seudónimo de Las Hermanitas Calle.",
+      "color": "orange",
+      "firstImage": "assets/images/44-hermanitas-calle.webp",
+      "thirdImage": "assets/images/44-hermanitas-calle1.webp"   
     }
   },
   {
@@ -981,16 +1007,16 @@
     "title": "Reparto - Las Hermanitas Calle",
     "descriptiveSummary": "Lista de actores de la serie 'Las Hermanitas Calle'.",
     "description": "Conoce a las actrices que interpretaron a Nelly y Fabiola Calle, incluyendo a Yuri Vargas y Carolina Gaitán.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/45-hermanitas-calle.webp",
+    "img2": "assets/images/42-hermanitas-calle.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "green",
     "textColor": "purple",
     "content": {
       "title": "Reparto",
       "component": "DotList",
-      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
-      "color": "purple"
+      "body": "• Yuri Vargas - Fabiola de Jesús Calle Araque,• Carolina Gaitán - Nelly del Pilar Calle Araque,• Juan Pablo Urrego - Joaquín Calle Araque,• Gill González Hoyos - Auxilio Calle Araque,• Caterin Escobar - Rosa Calle Araque,• Crisanto Alonso Vargas Ramírez Vargasvil - Lizardo Araque,• Patricia Tamayo - Tulia Araque de Calle,• Jaime Correa - Samuel Calle",
+      "color": "orange"
     }
   },
   {
@@ -1000,16 +1026,16 @@
     "title": "Locaciones en Marsella - Rodando por el Eje Cafetero",
     "descriptiveSummary": "Lugares emblemáticos de Marsella utilizados en producciones audiovisuales.",
     "description": "Descubre las locaciones cinematográficas en Marsella, incluyendo su iglesia, plaza principal, cementerio y casas tradicionales.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/46-hermanitas-calle-c.webp",
+    "img2": "assets/images/42-hermanitas-calle.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "dark-green",
-    "textColor": "yellow",
+    "bgColor": "orange",
+    "textColor": "purple",
     "content": {
-      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "title": "LOCACIONES EN EL EJE CAFETERO:",
       "component": "DotList",
-      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
-      "color": "white"
+      "body": "• Iglesia en Marsella,• Plaza principal en Marsella,• Cementerio en Marsella,• Casas en Marsella",
+      "color": "purple"
     }
   },
   {
@@ -1020,7 +1046,7 @@
     "descriptiveSummary": "Diseño gráfico representativo de la telenovela 'Doña Bella', con una tipografía elegante y un fondo vibrante.",
     "description": "Explora la esencia visual de 'Doña Bella', una telenovela que narra la lucha de una mujer por su libertad y dignidad en un mundo dominado por las convenciones sociales.",
     "img": "assets/images/47-doña-bella.webp",
-    "culture": "assets/icons/Culturas-morado.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "bgColor": "dark-pink",
     "textColor": "yellow"
   },  
@@ -1031,22 +1057,20 @@
     "title": "Sinopsis - Doña Bella",
     "descriptiveSummary": "Resumen de la telenovela 'Doña Bella', una historia de amor y lucha por la libertad.",
     "description": "Explora la historia de 'Doña Bella', una mujer secuestrada por un terrateniente poderoso que debe enfrentar desafíos para recuperar su dignidad y libertad.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
-    "bgColor": "pink",
-    "textColor": "white",
-    "textColor2": "white",
-    "bgColor2": "green",
+    "body": "<b>Año:</b> 2010\n<b>Categoría:</b> Drama, Romance\n<b>Idioma original:</b> Español \n<b>Duración:</b> 84 Episodios \n<b>Dirección:</b> Toni Navia \n<b>Producción:</b> Verónica Pimstein,  Armando Barbosa, Federico Castillo\n<b>Empresas productoras:</b> RCN Televisión, Telefutura, Televisa Univisión\n<b>Historia original:</b> Wilson Almeida de Aguiar Tilbo\n<b>Adaptación:</b> Daniella Castagno\n<b>Libro:</b> Pamela Soriano, Andrés Guzmán, Ricardo Forero",
+    "bgColor": "yellow",
+    "textColor": "dark-pink",
+    "textColor2": "yellow",
+    "bgColor2": "dark-pink",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/47-doña-bella.webp",
     "content": {
       "component": "FourthImageTable",
       "title": "SINOPSIS",
-      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
-      "color": "purple",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
-      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
-      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
-      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+      "body": "Bella, una mujer de belleza deslumbrante, es secuestrada por un terrateniente rico y poderoso, lo que desata una serie de eventos que cambiarán su vida. La historia sigue su lucha por recuperar su libertad y su dignidad, enfrentándose a las convenciones sociales y al destino.",
+      "color": "dark-pink",
+      "firstImage": "assets/images/48-doña-bella.webp",
+      "thirdImage": "assets/images/48-doña-bella2.webp"
     }
   },
   {
@@ -1056,16 +1080,16 @@
     "title": "Reparto - Doña Bella",
     "descriptiveSummary": "Lista de actores de la telenovela 'Doña Bella'.",
     "description": "Conoce al elenco de 'Doña Bella', incluyendo a Zharick León, Fabián Ríos y Stephanie Cayo.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/49-doña-bella.webp",
+    "img2": "assets/images/47-doña-bella.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "green",
-    "textColor": "purple",
+    "bgColor": "dark-pink",
+    "textColor": "yellow",
     "content": {
       "title": "Reparto",
       "component": "DotList",
-      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
-      "color": "purple"
+      "body": "• Zharick León - Bella Cepeda,• Fabián Ríos - Antonio Segovia,• Marcelo Buquet   - Román Montero ,• Daniel Arenas - Nicolás Ayala ,• Stephanie Cayo - Evangelina Rosales ,• Natalia Giraldo - Augusta de Molina ",
+      "color": "yellow"
     }
   },
   {
@@ -1075,16 +1099,16 @@
     "title": "Locaciones - Doña Bella",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero utilizadas en la telenovela 'Doña Bella'.",
     "description": "Explora las locaciones de 'Doña Bella', incluyendo la iglesia y la plaza principal en Marsella y Chinchiná.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/50-doña-bella.webp",
+    "img2": "assets/images/47-doña-bella.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "dark-green",
+    "bgColor": "dark-pink",
     "textColor": "yellow",
     "content": {
-      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "title": "LOCACIONES EN EL EJE CAFETERO:",
       "component": "DotList",
-      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
-      "color": "white"
+      "body": "• Iglesia en Marsella,• Plaza principal en Marsella,• Plaza principal en Chinchiná",
+      "color": "yellow"
     }
   },
   {
