@@ -1118,48 +1118,44 @@
     "title": "Experiencias Destacadas en Marsella",
     "descriptiveSummary": "Actividades recomendadas en Marsella, como recorridos culturales y ecoturismo.",
     "description": "Explora Marsella a través de un city tour por su plaza principal, cementerio y Casa de la Cultura, o alójate en el Ecohotel Los Lagos, lugar de hospedaje de producciones audiovisuales.",
-    "bgColor": "dark-green",
+    "bgColor": "dark-pink",
     "bgColor2": "yellow",
-    "textColor": "dark-green",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "textColor": "dark-pink",
+    "img": "assets/images/51-experiencias-marsella.webp",
+    "img2": "assets/images/51-experiencias-marsella-2.webp",
     "content": {
-      "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
-      "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
-      "title3": "ROADTRIP EN EL PÁRAMO",
-      "body": "El té de coca ayuda con el mal de altura y complementa la experiencia de estar a la intemperie entre los -3 y los 12 grados. En esta frontera entre Caldas y Tolima puedes contemplar un paisaje sublime e introspectivo aun sin alejarte de la carretera. Aventúrate a saludar a los militares que están camino a Cerro Gualí y que podrían inquietarte con historias de fantasmas de la base militar.",
-      "body2": "Desde la comodidad de la ventana de un auto disfruta de la neblina, la laguna y los frailejones. Complementa el clima con el paisaje sonoro, no olvides apagar la radio para vivir una verdadera experiencia de escucha. Uno de los muchos accesos al Parque Nacional Natural Los Nevados está en el sector norte cabaña Brisas, en la vía Caldas - Tolima. Esta es la ruta de páramo ideal para quienes no hacen trekking y no están dispuestos a pernoctar, en este acceso al parque es obligatorio transportarse en automóvil.",
-      "color": "white",
-      "color2": "green"
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nMARSELLA:",
+      "title2": "CITY TOUR",
+      "title3": "ECO HOTEL LOS LAGOS",
+      "body": "Visita la Plaza principal más costumbrista de Risaralda, el cementerio declarado monumento de la nación y la Casa de La Cultura que posee una colección de arte prehispánico y de fotografías del siglo XX.",
+      "body2": "El lugar pionero del ecoturismo en Risaralda, con gran capacidad, incluso para haber alojado la producción completa de la telenovela “Doña Bella”. Una experiencia rodeada de patos y caballos. Visita la pesebrera y disfruta de una cabalgata.",
+      "color": "yellow",
+      "color2": "yellow"
     }
   },
   {
     "page": 52,
     "name": "destino-campesino",
     "component": "LeftLateralImageLayout",
-    "title": "Destinos Campesinos - La Pasión de Gabriel",
+    "title": "4. Destinos Campesinos \"La Pasión de Gabriel\"",
     "descriptiveSummary": "Lugares rurales en Risaralda utilizados en la película 'La Pasión de Gabriel'.",
     "description": "Explora los escenarios rurales de Risaralda donde se filmó 'La Pasión de Gabriel', una historia sobre justicia y vocación social.",
-    "img": "assets/logos/rodando-por-el-eje-purple.webp",
+    "img": "assets/images/52-logo-verde.webp",
     "culture": "assets/logos/culturas/Culturas-morado.webp",
     "bgColor": "dark-green",
-    "textColor": "yellow",
+    "textColor": "green",
     "content": {
       "component": "OneColumnTable",
       "firstColumn": [
         {
           "fontWeight": "light",
-          "content": "Llegas a las visitadas calles del Quindío, el fin de semana numerosas familias caminan a tu alrededor y entre el murmullo se escucha el sonido de la voz de un pequeño niño que canta “…miedo al ver a Bruno balbuceando y tropezando, siempre lo recuerdo murmurando y farfullando…No se habla de Bruno, no, no, no…”",
+          "content": "Lejos de las dinámicas de ciudad, las experiencias que te esperan en Risaralda están en pequeños centros poblados. El encanto cafetero es solo una de las caras del paisaje, el valle y sus grandes ríos son la cara B del atractivo del departamento. Esta variedad, que lo hace ser montañero y ribereño a la vez, permitió que la producción del largometraje “La pasión de Gabriel” eligiera Risaralda como una locación multipropósito.”",
           "lineColor": "dark-green"
         },
         {
           "fontWeight": "light",
-          "content": "Si de “puebliar” se trata, los destinos principales en el Eje cafetero están en el Quindio. Algunos llegan a Salento en búsqueda del árbol nacional, tal vez tú quieras venir en búsqueda de la casa mágica de la Familia Madrigal.",
+          "content": "En este destino vives el sabor cotidiano de los pueblos y sus formas de ocio, en la noche disfrutas la verbena con baile y brindis, en la mañana cargas con una gallina y el “revuelto“ porque te espera el río para un clásico paseo de olla.",
           "lineColor": "dark-green"
-        },
-        {
-          "fontWeight": "light",
-          "content": "Balcones adornados, jardines que se apoderan de paredes y chambranas, pesadas puertas de madera colorida hacen de estas unas fachadas con encanto."
         }
       ]
     }
@@ -1193,8 +1189,8 @@
     "content": {
       "component": "FourthImageTable",
       "title": "SINOPSIS",
-      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
-      "color": "purple",
+      "body": "La pasión de Gabriel es la historia de un sacerdote que, por sus convicciones y vocación social, sacrifica su vida en función de la justicia y del amor en su máxima expresión. Esta historia está inspirada en hechos reales, tiene una clara identidad colombiana y transmite una problemática universal. La película demuestra cómo la realidad supera la ficción y cómo los hombres comunes también pueden ser héroes. La pasión de Gabriel cuestiona el voto de castidad y refleja las debilidades humanas de los sacerdotes. Revela, además, cómo la salvación cristiana no puede darse sin la liberación social e ideológica, como signos visibles de la dignidad del hombre.",
+      "color": "dark-green",
       "firstImage": "assets/images/13-fotograma-memoria-1.webp",
       "secondImage": "assets/images/13-fotograma-memoria-3.webp",
       "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
