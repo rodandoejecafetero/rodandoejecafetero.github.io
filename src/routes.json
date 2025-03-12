@@ -1179,22 +1179,20 @@
     "title": "Sinopsis - La Pasión de Gabriel",
     "descriptiveSummary": "Resumen de la película 'La Pasión de Gabriel', basada en hechos reales.",
     "description": "Descubre la historia de 'La Pasión de Gabriel', un drama que explora el sacrificio, la justicia y la lucha por la dignidad humana.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
-    "bgColor": "pink",
-    "textColor": "white",
-    "textColor2": "white",
-    "bgColor2": "green",
+    "body": "<b>Año:</b> 2009\n<b>Categoría:</b> Drama\n<b>Idioma original:</b> Español \n<b>Duración:</b> 86 mins\n<b>Dirección:</b> Luis Alberto Restrepo\n<b>Producción:</b> Alberto Amaya  - Jorge López Abella \n<b>Empresas productoras:</b> Señal Creativa Ltda.\n<b>Guion:</b> Luis Alberto Restrepo - Diego Vásquez\n<b>Dirección de fotografía:</b> Sergio García Moreno\n<b>Dirección de arte:</b> Carlos Ríos\n<b>Montaje:</b> Pierre Heron - Sergio García \n<b>Diseño sonoro:</b> Ricardo Escalón\n<b>Música:</b> Sally Station - Eduardo Carrizosa",
+    "bgColor": "green",
+    "textColor": "dark-green",
+    "textColor2": "green",
+    "bgColor2": "dark-green",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/53-la-pasion-de-gabriel.webp",
     "content": {
       "component": "FourthImageTable",
       "title": "SINOPSIS",
       "body": "La pasión de Gabriel es la historia de un sacerdote que, por sus convicciones y vocación social, sacrifica su vida en función de la justicia y del amor en su máxima expresión. Esta historia está inspirada en hechos reales, tiene una clara identidad colombiana y transmite una problemática universal. La película demuestra cómo la realidad supera la ficción y cómo los hombres comunes también pueden ser héroes. La pasión de Gabriel cuestiona el voto de castidad y refleja las debilidades humanas de los sacerdotes. Revela, además, cómo la salvación cristiana no puede darse sin la liberación social e ideológica, como signos visibles de la dignidad del hombre.",
       "color": "dark-green",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
-      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
-      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
-      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+      "firstImage": "assets/images/54-la-pasion-de-gabriel-1.webp",
+      "thirdImage": "assets/images/54-la-pasion-de-gabriel-2.webp"
     }
   },
   {
@@ -1204,16 +1202,16 @@
     "title": "Reparto - La Pasión de Gabriel",
     "descriptiveSummary": "Lista de actores de la película 'La Pasión de Gabriel'.",
     "description": "Conoce al elenco de 'La Pasión de Gabriel', incluyendo a Andrés Parra, María Cecilia Sánchez y Jimmy Vásquez.",
-    "img": "assets/images/14-fotograma-memoria.webp",
-    "img2": "assets/images/12-memoria.webp",
+    "img": "assets/images/55-la-pasion-de-gabriel-2.webp",
+    "img2": "assets/images/53-la-pasion-de-gabriel.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "green",
-    "textColor": "purple",
+    "bgColor": "dark-green",
+    "textColor": "green",
     "content": {
       "title": "Reparto",
       "component": "DotList",
-      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
-      "color": "purple"
+      "body": "• Andrés Parra – Padre Gabriel,• María Cecilia Sánchez – Silvia,• Jorge Rodríguez - Alcides,• Isabel Gaona - Rosario,• Diego Javier Vásquez - Profe Luna,• Hernán Méndez - Don Pablo,• Jimmy Vásquez - Ing. Ricardo,• Toto Vega - Josué",
+      "color": "green"
     }
   },
   {
@@ -1229,9 +1227,9 @@
     "bgColor": "dark-green",
     "textColor": "yellow",
     "content": {
-      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "title": "LOCACIONES EN EL EJE CAFETERO:",
       "component": "DotList",
-      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "body": "Santuario:<br> • Calles de un centro poblado en Peralonso,• Casas campesinas de arquitectura típica de la colonización antioqueña en Peralonso,• Calles de una vereda en Peralonso,• Salón comunal en Peralonso,• Colegio rural en Peralonso,• Iglesia de vereda en Peralonso, <br> Apia: <br>,• Plaza de mercado en Apía,• Alcaldíade Apía,• Billar en Apía, <br> La Virginia: <br>,• Edificación adaptada como cuartel militar en La Virginia ,• Colegio de La Virginia, <br> PEREIRA <br>,• Plaza de Bolivar de Pereira,• Palacio Episcopal de Pereira,• Catedral Nuestra Señora de la Pobreza de Pereira,• Rio Otún en Pereira",
       "color": "white"
     }
   },
@@ -1258,24 +1256,24 @@
     "page": 59,
     "name": "destino-anoranza",
     "component": "LeftLateralImageLayout",
-    "title": "Destinos de Añoranza - Café con Aroma de Mujer (1994) y Milagro en Roma",
+    "title": "5. Destinos de Añoranza \" Café con Aroma de Mujer (1994)\" y \"Milagro en Roma\"",
     "descriptiveSummary": "Locaciones utilizadas en las producciones 'Café con Aroma de Mujer' (1994) y 'Milagro en Roma'.",
     "description": "Descubre los escenarios icónicos de telenovelas y películas que han inmortalizado el Eje Cafetero en la historia audiovisual.",
-    "img": "assets/logos/rodando-por-el-eje-purple.webp",
+    "img": "assets/images/59-logo-rosado.webp",
     "culture": "assets/logos/culturas/Culturas-morado.webp",
     "bgColor": "green",
-    "textColor": "purple",
+    "textColor": "dark-pink",
     "content": {
       "component": "OneColumnTable",
       "firstColumn": [
         {
           "fontWeight": "light",
-          "content": "El Eje Cafetero es tan melodramático como sus telenovelas, la ficción es convertida en experiencia, eres parte del espectáculo: te has convertido en un recolector, artesano o cocinero. Ahora estás usando botas de caucho, sombrero y una canasta que te han amarrado a la cintura.",
+          "content": "Los oficios heredados son celebrados en este destino, el bullicio de las festividades llena las calles con multitudes que atienden la invitación de los abuelos, tú tambien bailas entre desfiles de diablos antiguos, artesanos y arrieros.",
           "lineColor": "green"
         },
         {
           "fontWeight": "light",
-          "content": "La teatralización de estas experiencias mantiene vivas las costumbres, bienvenido al drama rural del turismo inmersivo. Este es un museo a cielo abierto porque hacia donde mires verás algo que ha sido declarado patrimonio."
+          "content": "Esta experiencia refuerza la memoria colectiva desde la repetición, cada gesto construye pertenencia y continuidad."
         }
       ]
     }
@@ -1310,18 +1308,19 @@
     "title": "Sinopsis - Milagro en Roma",
     "descriptiveSummary": "Resumen de la película 'Milagro en Roma', basada en un relato de Gabriel García Márquez.",
     "description": "La historia de Margarito Duarte, un hombre que descubre que el cuerpo de su hija sigue intacto 12 años después de su muerte. Con la ayuda de su pueblo, viaja a Roma para solicitar su santificación.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
-    "bgColor": "yellow",
-    "textColor": "dark-green",
-    "textColor2": "white",
-    "bgColor2": "dark-green",
+    "body": "<b>Año:</b> 1988\n<b>Categoría:</b> Drama\n<b>Idioma original:</b> Español \n<b>Duración:</b> 80 mins\n<b>Dirección:</b> Lizandro Duque Naranjo\n<b>Producción:</b> Santiago Llupar\n<b>Empresas productoras:</b> Televisión Española S.A. / TVE, International Network Group S.A. / ING (España) / Fundación del Nuevo Cine Latinoamericano - FNCL (Cuba)\n<b>Guion:</b> Gabriel García Márquez\n<b>Dirección de fotografía:</b> Mario García Joya\n<b>Dirección de arte:</b> Sergio Osorio\n<b>Montaje:</b> Javier Morán \n<b>Diseño sonoro:</b> Heriberto García\n<b>Música:</b> Blas Emilio Atehortúa",
+    "bgColor": "dark-pink",
+    "textColor": "green",
+    "textColor2": "dark-pink",
+    "bgColor2": "green",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/12-memoria.webp",
+    "img": "assets/images/60-milagro-en-roma.webp",
     "content": {
       "component": "Image",
       "title": "SINOPSIS",
-      "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
-      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+      "body": "La hija de Margarito Duarte, modesto empleado judicial de una pequeña población colombiana, muere de repente a la edad de 7 años. 12 años después, al exhumar el cuerpo, los restos de la niña continúan intactos. Margarito Duarte con la ayuda del pueblo inicia un proceso para llegar a Roma y pedirle al Papa la santificación de su hija. Esta es la producción colombiana de una serie de películas llamada “Amores difíciles”.",
+      "firstImage": "assets/images/62-milagro-en-roma.webp",
+      "secondImage": "assets/images/62-milagro-en-roma1.webp"
     }
   },
   {
