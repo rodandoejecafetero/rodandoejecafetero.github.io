@@ -7,10 +7,14 @@ export default {
     'text-purple',
     'bg-green',
     'text-green',
+    'border-green',
     'bg-dark-green',
     'text-dark-green',
+    'border-dark-green',
     'bg-pink',
     'text-pink',
+    'bg-dark-pink',
+    'text-dark-pink',
   ],
   theme: {
     extend: {

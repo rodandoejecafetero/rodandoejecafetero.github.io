@@ -459,25 +459,50 @@
     "content": {
       "title": "Reparto",
       "component": "DotList",
-      "body": "• Tilda Swinton,• Jeanne Balibar,• Elkin Diaz,• Juan Pablo Urrego,• Daniel Giménez Cacho,• Agnes Brekke,• Jerónimo Barón • Aida Morales",
+      "body": "• Tilda Swinton,• Jeanne Balibar,• Elkin Diaz,• Juan Pablo Urrego,• Daniel Giménez Cacho,• Agnes Brekke,• Jerónimo Barón, • Aida Morales",
       "color": "white"
     }
   },
   {
     "page": 15,
     "name": "locaciones-memoria",
-    "component": "RightLateralBannerLayout",
-    "title": "Locaciones - Memoria",
+    "component": "RightPrimaryBannerLayout",
+    "title": "LOCACIONES EN EL EJE CAFETERO",
     "descriptiveSummary": "Lista de locaciones en el Eje Cafetero utilizadas en 'Memoria'.",
-    "description": "Explora las locaciones de 'Memoria', incluyendo Pijao y el Túnel de la Línea."
+    "description": "Explora las locaciones de 'Memoria', incluyendo Pijao y el Túnel de la Línea.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "purple",
+    "textColor": "yellow",
+    "content": {
+      "title": "LOCACIONES EN EL EJE CAFETERO",
+      "component": "DotList",
+      "body": "• Túnel de la línea,• Casas tradicionales en Pijao,• Calles en Pijao,• Plaza principal en Pijao,• Riachuelo en Pijao",
+      "color": "white"
+    }
   },
   {
     "page": 16,
     "name": "experiencias-pijao",
-    "component": "ExperienciasPijao",
+    "component": "PijaoLayout",
     "title": "Experiencias Destacadas en Pijao",
     "descriptiveSummary": "Descubre experiencias únicas en Pijao, como hospedarte en La Pequeña Casa y hacer trekking en el Páramo del Chili y el Bosque de Palmas de Cera.",
-    "description": "Pijao, el único municipio de Latinoamérica en la 'Red de Ciudades sin Prisa', ofrece experiencias auténticas como hospedarse en La Pequeña Casa con Mónica Flórez y explorar el bosque andino con guías locales."
+    "description": "Pijao, el único municipio de Latinoamérica en la 'Red de Ciudades sin Prisa', ofrece experiencias auténticas como hospedarse en La Pequeña Casa con Mónica Flórez y explorar el bosque andino con guías locales.",
+    "bgColor": "purple",
+    "bgColor2": "yellow",
+    "textColor": "purple",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "content": {
+      "title": "Experiencias\nDestacadas en\nPijao:",
+      "title2": "LA PEQUEÑA CASA",
+      "title3": "TREKKING EN EL PÁRAMO DEL CHILI Y BOSQUE DE PALMAS DE CERA",
+      "body": "Alójate en una ecléctica casa tradicional con Mónica Flórez, la anfitriona más acogedora de Pijao y la líder de la iniciativa que llevó a este municipio a convertirse en el único municipio de Latinoamérica que integra la “Red de Ciudades sin Prisa” o Cittaslow, que promueven una calidad de vida diferenciada. Quienes visitan la casa mencionan que es una experiencia auténtica que “te ilumina el alma”.",
+      "body2": "Llama un guía y disfruta de un entorno rural andino en Pijao destacado por la presencia de bosques de niebla y la emblemática palma de cera, en un valle tranquilo, lejos de las experiencias del turismo masivo.",
+      "color": "white",
+      "color2": "yellow"
+    }
   },
   {
     "page": 17,
@@ -505,18 +530,42 @@
   {
     "page": 19,
     "name": "sinopsis-paramo",
-    "component": "SinopsisParamo",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - El Páramo",
     "descriptiveSummary": "Resumen de la película 'El Páramo', un thriller de terror y suspenso filmado en una base militar real en el Eje Cafetero.",
-    "description": "Descubre la trama de 'El Páramo', una película de terror y suspenso en la que un comando especial de soldados se enfrenta al aislamiento y al miedo en una base militar en el Eje Cafetero."
+    "description": "Descubre la trama de 'El Páramo', una película de terror y suspenso en la que un comando especial de soldados se enfrenta al aislamiento y al miedo en una base militar en el Eje Cafetero.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "purple",
+    "textColor": "green",
+    "textColor2": "white",
+    "bgColor2": "green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "Image",
+      "title": "SINOPSIS",
+      "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+    }
   },
   {
     "page": 20,
     "name": "reparto-paramo",
-    "component": "RepartoParamo",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - El Páramo",
     "descriptiveSummary": "Lista de actores de la película 'El Páramo'.",
-    "description": "Conoce al elenco de 'El Páramo', incluyendo a Juan Pablo Barragán, Alejandro Aguilar y Andrés Castañeda, quienes dan vida a los soldados atrapados en una base militar del Eje Cafetero."
+    "description": "Conoce al elenco de 'El Páramo', incluyendo a Juan Pablo Barragán, Alejandro Aguilar y Andrés Castañeda, quienes dan vida a los soldados atrapados en una base militar del Eje Cafetero.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "purple"
+    }
   },
   {
     "page": 21,
@@ -532,18 +581,43 @@
   {
     "page": 22,
     "name": "locaciones-paramo",
-    "component": "LocacionesParamo",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - El Páramo",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero donde se filmó 'El Páramo'.",
-    "description": "Explora la Base Militar Cerro Gualí en la vía Caldas-Tolima, una de las locaciones principales de 'El Páramo'."
+    "description": "Explora la Base Militar Cerro Gualí en la vía Caldas-Tolima, una de las locaciones principales de 'El Páramo'.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "purple",
+    "textColor": "green",
+    "content": {
+      "title": "LOCACIONES EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Base Militar Cerro Gualí en la vía Caldas - Tolima",
+      "color": "green"
+    }
   },
   {
     "page": 23,
     "name": "experiencias-caldas-tolima",
-    "component": "ExperienciasCaldasTolima",
+    "component": "PijaoLayout",
     "title": "Experiencias Destacadas en la Vía Caldas-Tolima",
     "descriptiveSummary": "Actividades recomendadas en la vía Caldas-Tolima, incluyendo tomar té de coca en la Laguna Negra y hacer un roadtrip por el páramo.",
-    "description": "Vive la experiencia del páramo en la vía Caldas-Tolima, desde compartir un té de coca para el mal de altura hasta disfrutar del paisaje de frailejones en un roadtrip inolvidable."
+    "description": "Vive la experiencia del páramo en la vía Caldas-Tolima, desde compartir un té de coca para el mal de altura hasta disfrutar del paisaje de frailejones en un roadtrip inolvidable.",
+    "bgColor": "purple",
+    "bgColor2": "green",
+    "textColor": "purple",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "content": {
+      "title": "EXPERIENCIAS\nDESTACADAS\nEN LA VÍA\nCALDAS-TOLIMA:",
+      "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
+      "title3": "ROADTRIP EN EL PÁRAMO",
+      "body": "El té de coca ayuda con el mal de altura y complementa la experiencia de estar a la intemperie entre los -3 y los 12 grados. En esta frontera entre Caldas y Tolima puedes contemplar un paisaje sublime e introspectivo aun sin alejarte de la carretera. Aventúrate a saludar a los militares que están camino a Cerro Gualí y que podrían inquietarte con historias de fantasmas de la base militar.",
+      "body2": "Desde la comodidad de la ventana de un auto disfruta de la neblina, la laguna y los frailejones. Complementa el clima con el paisaje sonoro, no olvides apagar la radio para vivir una verdadera experiencia de escucha. Uno de los muchos accesos al Parque Nacional Natural Los Nevados está en el sector norte cabaña Brisas, en la vía Caldas - Tolima. Esta es la ruta de páramo ideal para quienes no hacen trekking y no están dispuestos a pernoctar, en este acceso al parque es obligatorio transportarse en automóvil.",
+      "color": "green",
+      "color2": "white"
+    }
   },
   {
     "page": 24,
@@ -559,10 +633,33 @@
   {
     "page": 25,
     "name": "destinos-encanto",
-    "component": "DestinosEncanto",
-    "title": "Destinos Animados en Encanto",
+    "component": "LeftLateralImageLayout",
+    "title": "2. Destinos Animados en “ENCANTO”",
     "descriptiveSummary": "Explora los lugares del Eje Cafetero que inspiraron la película 'Encanto'.",
-    "description": "Descubre los pueblos y paisajes del Quindío que sirvieron de inspiración para la película 'Encanto', resaltando la magia y el color de la arquitectura tradicional."
+    "description": "Descubre los pueblos y paisajes del Quindío que sirvieron de inspiración para la película 'Encanto', resaltando la magia y el color de la arquitectura tradicional.",
+    "img": "assets/logos/rodando-por-el-eje-purple.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "component": "OneColumnTable",
+      "firstColumn": [
+        {
+          "fontWeight": "light",
+          "content": "Llegas a las visitadas calles del Quindío, el fin de semana numerosas familias caminan a tu alrededor y entre el murmullo se escucha el sonido de la voz de un pequeño niño que canta “…miedo al ver a Bruno balbuceando y tropezando, siempre lo recuerdo murmurando y farfullando…No se habla de Bruno, no, no, no…”",
+          "lineColor": "dark-green"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Si de “puebliar” se trata, los destinos principales en el Eje cafetero están en el Quindio. Algunos llegan a Salento en búsqueda del árbol nacional, tal vez tú quieras venir en búsqueda de la casa mágica de la Familia Madrigal.",
+          "lineColor": "dark-green"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Balcones adornados, jardines que se apoderan de paredes y chambranas, pesadas puertas de madera colorida hacen de estas unas fachadas con encanto."
+        }
+      ]
+    }
   },
   {
     "page": 26,
@@ -590,42 +687,105 @@
   {
     "page": 28,
     "name": "sinopsis-encanto",
-    "component": "SinopsisEncanto",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - Encanto",
     "descriptiveSummary": "Resumen de la historia de 'Encanto', la película de Disney inspirada en Colombia.",
-    "description": "Descubre la historia de 'Encanto', donde Mirabel Madrigal intenta salvar la magia de su hogar en una versión mágica del Eje Cafetero colombiano."
+    "description": "Descubre la historia de 'Encanto', donde Mirabel Madrigal intenta salvar la magia de su hogar en una versión mágica del Eje Cafetero colombiano.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "yellow",
+    "textColor": "dark-green",
+    "textColor2": "white",
+    "bgColor2": "dark-green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "Image",
+      "title": "SINOPSIS",
+      "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+    }
   },
   {
     "page": 29,
     "name": "reparto-encanto",
-    "component": "RepartoEncanto",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - Encanto",
     "descriptiveSummary": "Lista de actores de doblaje de la película 'Encanto'.",
-    "description": "Conoce las voces detrás de 'Encanto', incluyendo a Stephanie Beatriz, John Leguizamo y Maluma, quienes dieron vida a los personajes de la familia Madrigal."
+    "description": "Conoce las voces detrás de 'Encanto', incluyendo a Stephanie Beatriz, John Leguizamo y Maluma, quienes dieron vida a los personajes de la familia Madrigal.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "white"
+    }
   },
   {
     "page": 30,
     "name": "locaciones-encanto",
-    "component": "LocacionesEncanto",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - Inspiración de Encanto",
     "descriptiveSummary": "Lugares del Eje Cafetero que inspiraron la película 'Encanto'.",
-    "description": "Explora los sitios que sirvieron de inspiración para 'Encanto', como el Valle del Cocora y las fachadas patrimoniales del Eje Cafetero."
+    "description": "Explora los sitios que sirvieron de inspiración para 'Encanto', como el Valle del Cocora y las fachadas patrimoniales del Eje Cafetero.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 31,
     "name": "experiencias-quindio",
-    "component": "ExperienciasQuindio",
+    "component": "PijaoLayout",
     "title": "Experiencias Destacadas en Quindío",
     "descriptiveSummary": "Descubre los atractivos naturales de Boquía y el Valle del Cocora en Quindío, resaltados en la película 'Encanto'.",
-    "description": "Explora Boquía y el Valle del Cocora, destinos emblemáticos del Quindío, con abundantes recursos hídricos y ecosistemas únicos como el bosque de niebla y el páramo."
+    "description": "Explora Boquía y el Valle del Cocora, destinos emblemáticos del Quindío, con abundantes recursos hídricos y ecosistemas únicos como el bosque de niebla y el páramo.",
+    "bgColor": "dark-green",
+    "bgColor2": "yellow",
+    "textColor": "dark-green",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "content": {
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
+      "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
+      "title3": "ROADTRIP EN EL PÁRAMO",
+      "body": "El té de coca ayuda con el mal de altura y complementa la experiencia de estar a la intemperie entre los -3 y los 12 grados. En esta frontera entre Caldas y Tolima puedes contemplar un paisaje sublime e introspectivo aun sin alejarte de la carretera. Aventúrate a saludar a los militares que están camino a Cerro Gualí y que podrían inquietarte con historias de fantasmas de la base militar.",
+      "body2": "Desde la comodidad de la ventana de un auto disfruta de la neblina, la laguna y los frailejones. Complementa el clima con el paisaje sonoro, no olvides apagar la radio para vivir una verdadera experiencia de escucha. Uno de los muchos accesos al Parque Nacional Natural Los Nevados está en el sector norte cabaña Brisas, en la vía Caldas - Tolima. Esta es la ruta de páramo ideal para quienes no hacen trekking y no están dispuestos a pernoctar, en este acceso al parque es obligatorio transportarse en automóvil.",
+      "color": "white",
+      "color2": "green"
+    }
   },
   {
     "page": 32,
     "name": "hospedajes-quindio",
-    "component": "HospedajesQuindio",
+    "component": "PijaoLayout",
     "title": "Experiencias de Hospedaje en Quindío",
     "descriptiveSummary": "Alojamientos temáticos en Quindío, incluyendo el Hotel Shalom La Dorada y la Hacienda Bambusa.",
-    "description": "Hospédate en la casa que inspiró la casita mágica de 'Encanto' en Armenia o en la Hacienda Bambusa, un sitio tradicional utilizado en producciones audiovisuales."
+    "description": "Hospédate en la casa que inspiró la casita mágica de 'Encanto' en Armenia o en la Hacienda Bambusa, un sitio tradicional utilizado en producciones audiovisuales.",
+    "bgColor": "dark-green",
+    "bgColor2": "yellow",
+    "textColor": "dark-green",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "content": {
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
+      "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
+      "title3": "ROADTRIP EN EL PÁRAMO",
+      "body": "El té de coca ayuda con el mal de altura y complementa la experiencia de estar a la intemperie entre los -3 y los 12 grados. En esta frontera entre Caldas y Tolima puedes contemplar un paisaje sublime e introspectivo aun sin alejarte de la carretera. Aventúrate a saludar a los militares que están camino a Cerro Gualí y que podrían inquietarte con historias de fantasmas de la base militar.",
+      "body2": "Desde la comodidad de la ventana de un auto disfruta de la neblina, la laguna y los frailejones. Complementa el clima con el paisaje sonoro, no olvides apagar la radio para vivir una verdadera experiencia de escucha. Uno de los muchos accesos al Parque Nacional Natural Los Nevados está en el sector norte cabaña Brisas, en la vía Caldas - Tolima. Esta es la ruta de páramo ideal para quienes no hacen trekking y no están dispuestos a pernoctar, en este acceso al parque es obligatorio transportarse en automóvil.",
+      "color": "white",
+      "color2": "green"
+    }
   },
   {
     "page": 33,
@@ -641,10 +801,28 @@
   {
     "page": 34,
     "name": "destino-telenovelas",
-    "component": "DestinoTelenovelas",
-    "title": "Destinos de Telenovela",
+    "component": "LeftLateralImageLayout",
+    "title": "3. Destinos de Telenovela en \nCafé con aroma de mujer (2021)\n, \nLas Hermanitas Calle\n y \nDoña Bella\n",
     "descriptiveSummary": "Locaciones del Eje Cafetero usadas en 'Café con Aroma de Mujer', 'Las Hermanitas Calle' y 'Doña Bella'.",
-    "description": "Descubre cómo el Eje Cafetero se convierte en un set de grabación de telenovelas icónicas, donde los visitantes pueden vivir experiencias teatrales y patrimoniales."
+    "description": "Descubre cómo el Eje Cafetero se convierte en un set de grabación de telenovelas icónicas, donde los visitantes pueden vivir experiencias teatrales y patrimoniales.",
+    "img": "assets/logos/rodando-por-el-eje-purple.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "component": "OneColumnTable",
+      "firstColumn": [
+        {
+          "fontWeight": "light",
+          "content": "El Eje Cafetero es tan melodramático como sus telenovelas, la ficción es convertida en experiencia, eres parte del espectáculo: te has convertido en un recolector, artesano o cocinero. Ahora estás usando botas de caucho, sombrero y una canasta que te han amarrado a la cintura.",
+          "lineColor": "green"
+        },
+        {
+          "fontWeight": "light",
+          "content": "La teatralización de estas experiencias mantiene vivas las costumbres, bienvenido al drama rural del turismo inmersivo. Este es un museo a cielo abierto porque hacia donde mires verás algo que ha sido declarado patrimonio."
+        }
+      ]
+    }
   },
   {
     "page": 35,
@@ -661,26 +839,65 @@
   {
     "page": 36,
     "name": "sinopsis-cafe-2021",
-    "component": "SinopsisCafe2021",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - Café con Aroma de Mujer (2021)",
     "descriptiveSummary": "Resumen de la nueva versión de la telenovela 'Café con Aroma de Mujer'.",
-    "description": "Explora la historia de Gaviota y Sebastián en la versión 2021 de 'Café con Aroma de Mujer', una historia de amor y lucha social en el mundo cafetero."
+    "description": "Explora la historia de Gaviota y Sebastián en la versión 2021 de 'Café con Aroma de Mujer', una historia de amor y lucha social en el mundo cafetero.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "pink",
+    "textColor": "white",
+    "textColor2": "white",
+    "bgColor2": "green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "FourthImageTable",
+      "title": "SINOPSIS",
+      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
+      "color": "purple",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
+      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
+      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
+      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+    }
   },
   {
     "page": 37,
     "name": "reparto-cafe-2021",
-    "component": "RepartoCafe2021",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - Café con Aroma de Mujer (2021)",
     "descriptiveSummary": "Lista de actores de la telenovela 'Café con Aroma de Mujer' (2021).",
-    "description": "Conoce a los protagonistas de 'Café con Aroma de Mujer', incluyendo a William Levy, Laura Londoño y Carmen Villalobos."
+    "description": "Conoce a los protagonistas de 'Café con Aroma de Mujer', incluyendo a William Levy, Laura Londoño y Carmen Villalobos.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "purple"
+    }
   },
   {
     "page": 38,
     "name": "locaciones-cafe-2021",
-    "component": "LocacionesCafe2021",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - Café con Aroma de Mujer (2021)",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero usadas en la telenovela 'Café con Aroma de Mujer' (2021).",
-    "description": "Explora lugares icónicos del Eje Cafetero que fueron locaciones en 'Café con Aroma de Mujer', como la Plaza de Marsella y la Hacienda Venecia en Manizales."
+    "description": "Explora lugares icónicos del Eje Cafetero que fueron locaciones en 'Café con Aroma de Mujer', como la Plaza de Marsella y la Hacienda Venecia en Manizales.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 39,
@@ -735,34 +952,65 @@
   {
     "page": 44,
     "name": "sinopsis-hermanitas-calle",
-    "component": "SinopsisHermanitasCalle",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - Las Hermanitas Calle",
     "descriptiveSummary": "Historia de la serie 'Las Hermanitas Calle', basada en la vida de las icónicas cantantes de música carrilera.",
-    "description": "Descubre la historia de lucha y éxito de Nelly y Fabiola Calle, dos hermanas que conquistaron la música carrilera en Colombia."
+    "description": "Descubre la historia de lucha y éxito de Nelly y Fabiola Calle, dos hermanas que conquistaron la música carrilera en Colombia.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "pink",
+    "textColor": "white",
+    "textColor2": "white",
+    "bgColor2": "green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "FourthImageTable",
+      "title": "SINOPSIS",
+      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
+      "color": "purple",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
+      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
+      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
+      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+    }
   },
   {
     "page": 45,
     "name": "reparto-hermanitas-calle",
-    "component": "RepartoHermanitasCalle",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - Las Hermanitas Calle",
     "descriptiveSummary": "Lista de actores de la serie 'Las Hermanitas Calle'.",
-    "description": "Conoce a las actrices que interpretaron a Nelly y Fabiola Calle, incluyendo a Yuri Vargas y Carolina Gaitán."
-  },
-  {
-    "page": 45,
-    "name": "destino-3",
-    "component": "Destino3",
-    "title": "Destino 3",
-    "descriptiveSummary": "Introducción al siguiente destino en la guía.",
-    "description": "Descubre el próximo destino cinematográfico en 'Rodando por el Eje Cafetero'."
+    "description": "Conoce a las actrices que interpretaron a Nelly y Fabiola Calle, incluyendo a Yuri Vargas y Carolina Gaitán.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "purple"
+    }
   },
   {
     "page": 46,
     "name": "locaciones-marsella",
-    "component": "LocacionesMarsella",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones en Marsella - Rodando por el Eje Cafetero",
     "descriptiveSummary": "Lugares emblemáticos de Marsella utilizados en producciones audiovisuales.",
-    "description": "Descubre las locaciones cinematográficas en Marsella, incluyendo su iglesia, plaza principal, cementerio y casas tradicionales."
+    "description": "Descubre las locaciones cinematográficas en Marsella, incluyendo su iglesia, plaza principal, cementerio y casas tradicionales.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 47,
@@ -773,48 +1021,124 @@
     "description": "Explora la esencia visual de 'Doña Bella', una telenovela que narra la lucha de una mujer por su libertad y dignidad en un mundo dominado por las convenciones sociales.",
     "img": "assets/images/47-doña-bella.webp",
     "culture": "assets/icons/Culturas-morado.webp",
-    "bgColor": "pink",
+    "bgColor": "dark-pink",
     "textColor": "yellow"
   },  
   {
     "page": 48,
     "name": "sinopsis-dona-bella",
-    "component": "SinopsisDonaBella",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - Doña Bella",
     "descriptiveSummary": "Resumen de la telenovela 'Doña Bella', una historia de amor y lucha por la libertad.",
-    "description": "Explora la historia de 'Doña Bella', una mujer secuestrada por un terrateniente poderoso que debe enfrentar desafíos para recuperar su dignidad y libertad."
+    "description": "Explora la historia de 'Doña Bella', una mujer secuestrada por un terrateniente poderoso que debe enfrentar desafíos para recuperar su dignidad y libertad.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "pink",
+    "textColor": "white",
+    "textColor2": "white",
+    "bgColor2": "green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "FourthImageTable",
+      "title": "SINOPSIS",
+      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
+      "color": "purple",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
+      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
+      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
+      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+    }
   },
   {
     "page": 49,
     "name": "reparto-dona-bella",
-    "component": "RepartoDonaBella",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - Doña Bella",
     "descriptiveSummary": "Lista de actores de la telenovela 'Doña Bella'.",
-    "description": "Conoce al elenco de 'Doña Bella', incluyendo a Zharick León, Fabián Ríos y Stephanie Cayo."
+    "description": "Conoce al elenco de 'Doña Bella', incluyendo a Zharick León, Fabián Ríos y Stephanie Cayo.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "purple"
+    }
   },
   {
     "page": 50,
     "name": "locaciones-dona-bella",
-    "component": "LocacionesDonaBella",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - Doña Bella",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero utilizadas en la telenovela 'Doña Bella'.",
-    "description": "Explora las locaciones de 'Doña Bella', incluyendo la iglesia y la plaza principal en Marsella y Chinchiná."
+    "description": "Explora las locaciones de 'Doña Bella', incluyendo la iglesia y la plaza principal en Marsella y Chinchiná.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 51,
     "name": "experiencias-marsella",
-    "component": "ExperienciasMarsella",
+    "component": "PijaoLayout",
     "title": "Experiencias Destacadas en Marsella",
     "descriptiveSummary": "Actividades recomendadas en Marsella, como recorridos culturales y ecoturismo.",
-    "description": "Explora Marsella a través de un city tour por su plaza principal, cementerio y Casa de la Cultura, o alójate en el Ecohotel Los Lagos, lugar de hospedaje de producciones audiovisuales."
+    "description": "Explora Marsella a través de un city tour por su plaza principal, cementerio y Casa de la Cultura, o alójate en el Ecohotel Los Lagos, lugar de hospedaje de producciones audiovisuales.",
+    "bgColor": "dark-green",
+    "bgColor2": "yellow",
+    "textColor": "dark-green",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "content": {
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
+      "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
+      "title3": "ROADTRIP EN EL PÁRAMO",
+      "body": "El té de coca ayuda con el mal de altura y complementa la experiencia de estar a la intemperie entre los -3 y los 12 grados. En esta frontera entre Caldas y Tolima puedes contemplar un paisaje sublime e introspectivo aun sin alejarte de la carretera. Aventúrate a saludar a los militares que están camino a Cerro Gualí y que podrían inquietarte con historias de fantasmas de la base militar.",
+      "body2": "Desde la comodidad de la ventana de un auto disfruta de la neblina, la laguna y los frailejones. Complementa el clima con el paisaje sonoro, no olvides apagar la radio para vivir una verdadera experiencia de escucha. Uno de los muchos accesos al Parque Nacional Natural Los Nevados está en el sector norte cabaña Brisas, en la vía Caldas - Tolima. Esta es la ruta de páramo ideal para quienes no hacen trekking y no están dispuestos a pernoctar, en este acceso al parque es obligatorio transportarse en automóvil.",
+      "color": "white",
+      "color2": "green"
+    }
   },
   {
     "page": 52,
     "name": "destino-campesino",
-    "component": "DestinoCampesino",
+    "component": "LeftLateralImageLayout",
     "title": "Destinos Campesinos - La Pasión de Gabriel",
     "descriptiveSummary": "Lugares rurales en Risaralda utilizados en la película 'La Pasión de Gabriel'.",
-    "description": "Explora los escenarios rurales de Risaralda donde se filmó 'La Pasión de Gabriel', una historia sobre justicia y vocación social."
+    "description": "Explora los escenarios rurales de Risaralda donde se filmó 'La Pasión de Gabriel', una historia sobre justicia y vocación social.",
+    "img": "assets/logos/rodando-por-el-eje-purple.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "component": "OneColumnTable",
+      "firstColumn": [
+        {
+          "fontWeight": "light",
+          "content": "Llegas a las visitadas calles del Quindío, el fin de semana numerosas familias caminan a tu alrededor y entre el murmullo se escucha el sonido de la voz de un pequeño niño que canta “…miedo al ver a Bruno balbuceando y tropezando, siempre lo recuerdo murmurando y farfullando…No se habla de Bruno, no, no, no…”",
+          "lineColor": "dark-green"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Si de “puebliar” se trata, los destinos principales en el Eje cafetero están en el Quindio. Algunos llegan a Salento en búsqueda del árbol nacional, tal vez tú quieras venir en búsqueda de la casa mágica de la Familia Madrigal.",
+          "lineColor": "dark-green"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Balcones adornados, jardines que se apoderan de paredes y chambranas, pesadas puertas de madera colorida hacen de estas unas fachadas con encanto."
+        }
+      ]
+    }
   },
   {
     "page": 53,
@@ -831,26 +1155,65 @@
   {
     "page": 54,
     "name": "sinopsis-pasion-gabriel",
-    "component": "SinopsisPasionGabriel",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - La Pasión de Gabriel",
     "descriptiveSummary": "Resumen de la película 'La Pasión de Gabriel', basada en hechos reales.",
-    "description": "Descubre la historia de 'La Pasión de Gabriel', un drama que explora el sacrificio, la justicia y la lucha por la dignidad humana."
+    "description": "Descubre la historia de 'La Pasión de Gabriel', un drama que explora el sacrificio, la justicia y la lucha por la dignidad humana.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "pink",
+    "textColor": "white",
+    "textColor2": "white",
+    "bgColor2": "green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "FourthImageTable",
+      "title": "SINOPSIS",
+      "body": "Jessica (Tilda Swinton) no puede dormir desde que un fuerte “bang” interrumpió su sueño al amanecer. Mientras visita a su hermana en Bogotá, se hace amiga de Agnes (Jeanne Balibar), una arqueóloga que estudia restos humanos descubiertos dentro de un túnel en construcción. Jessica viaja para encontrarse con Agnes en el lugar de excavación y, en un pueblo cercano, conoce a un pescador llamado Hernán (Elkin Díaz). Ambos comparten recuerdos junto al río y cuando el día llega a su fin, Jessica se despierta con una sensación de claridad.",
+      "color": "purple",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp",
+      "secondImage": "assets/images/13-fotograma-memoria-3.webp",
+      "thirdImage": "assets/images/13-fotograma-memoria-2.webp",
+      "fourthImage": "assets/images/13-fotograma-memoria-4.webp"
+    }
   },
   {
     "page": 55,
     "name": "reparto-pasion-gabriel",
-    "component": "RepartoPasionGabriel",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - La Pasión de Gabriel",
     "descriptiveSummary": "Lista de actores de la película 'La Pasión de Gabriel'.",
-    "description": "Conoce al elenco de 'La Pasión de Gabriel', incluyendo a Andrés Parra, María Cecilia Sánchez y Jimmy Vásquez."
+    "description": "Conoce al elenco de 'La Pasión de Gabriel', incluyendo a Andrés Parra, María Cecilia Sánchez y Jimmy Vásquez.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "purple"
+    }
   },
   {
     "page": 56,
     "name": "locaciones-pasion-gabriel",
-    "component": "LocacionesPasionGabriel",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - La Pasión de Gabriel",
     "descriptiveSummary": "Lista de locaciones en el Eje Cafetero utilizadas en la película 'La Pasión de Gabriel'.",
-    "description": "Explora los sitios de rodaje de 'La Pasión de Gabriel', incluyendo Peralonso, Apía, La Virginia y Pereira."
+    "description": "Explora los sitios de rodaje de 'La Pasión de Gabriel', incluyendo Peralonso, Apía, La Virginia y Pereira.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 57,
@@ -874,10 +1237,28 @@
   {
     "page": 59,
     "name": "destino-anoranza",
-    "component": "DestinoAnoranza",
+    "component": "LeftLateralImageLayout",
     "title": "Destinos de Añoranza - Café con Aroma de Mujer (1994) y Milagro en Roma",
     "descriptiveSummary": "Locaciones utilizadas en las producciones 'Café con Aroma de Mujer' (1994) y 'Milagro en Roma'.",
-    "description": "Descubre los escenarios icónicos de telenovelas y películas que han inmortalizado el Eje Cafetero en la historia audiovisual."
+    "description": "Descubre los escenarios icónicos de telenovelas y películas que han inmortalizado el Eje Cafetero en la historia audiovisual.",
+    "img": "assets/logos/rodando-por-el-eje-purple.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "bgColor": "green",
+    "textColor": "purple",
+    "content": {
+      "component": "OneColumnTable",
+      "firstColumn": [
+        {
+          "fontWeight": "light",
+          "content": "El Eje Cafetero es tan melodramático como sus telenovelas, la ficción es convertida en experiencia, eres parte del espectáculo: te has convertido en un recolector, artesano o cocinero. Ahora estás usando botas de caucho, sombrero y una canasta que te han amarrado a la cintura.",
+          "lineColor": "green"
+        },
+        {
+          "fontWeight": "light",
+          "content": "La teatralización de estas experiencias mantiene vivas las costumbres, bienvenido al drama rural del turismo inmersivo. Este es un museo a cielo abierto porque hacia donde mires verás algo que ha sido declarado patrimonio."
+        }
+      ]
+    }
   },
   {
     "page": 60,
@@ -905,26 +1286,61 @@
   {
     "page": 62,
     "name": "sinopsis-milagro-en-roma",
-    "component": "SinopsisMilagroEnRoma",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - Milagro en Roma",
     "descriptiveSummary": "Resumen de la película 'Milagro en Roma', basada en un relato de Gabriel García Márquez.",
-    "description": "La historia de Margarito Duarte, un hombre que descubre que el cuerpo de su hija sigue intacto 12 años después de su muerte. Con la ayuda de su pueblo, viaja a Roma para solicitar su santificación."
+    "description": "La historia de Margarito Duarte, un hombre que descubre que el cuerpo de su hija sigue intacto 12 años después de su muerte. Con la ayuda de su pueblo, viaja a Roma para solicitar su santificación.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "yellow",
+    "textColor": "dark-green",
+    "textColor2": "white",
+    "bgColor2": "dark-green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "Image",
+      "title": "SINOPSIS",
+      "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+    }
   },
   {
     "page": 63,
     "name": "reparto-milagro-en-roma",
-    "component": "RepartoMilagroEnRoma",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - Milagro en Roma",
     "descriptiveSummary": "Lista de actores de la película 'Milagro en Roma'.",
-    "description": "Conoce al elenco de 'Milagro en Roma', incluyendo a Frank Ramírez, Gerardo Arellano y Santiago García, quienes dieron vida a esta historia conmovedora."
+    "description": "Conoce al elenco de 'Milagro en Roma', incluyendo a Frank Ramírez, Gerardo Arellano y Santiago García, quienes dieron vida a esta historia conmovedora.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "white"
+    }
   },
   {
     "page": 64,
     "name": "locaciones-milagro-en-roma",
-    "component": "LocacionesMilagroEnRoma",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - Milagro en Roma",
     "descriptiveSummary": "Lista de locaciones en el Eje Cafetero utilizadas en la película 'Milagro en Roma'.",
-    "description": "Explora los escenarios de 'Milagro en Roma', incluyendo la plaza principal y el cementerio de Filandia, lugares clave en esta producción cinematográfica."
+    "description": "Explora los escenarios de 'Milagro en Roma', incluyendo la plaza principal y el cementerio de Filandia, lugares clave en esta producción cinematográfica.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 65,
@@ -956,26 +1372,61 @@
   {
     "page": 68,
     "name": "sinopsis-cafe-1994",
-    "component": "SinopsisCafe1994",
+    "component": "SinopsisLayout",
     "title": "Sinopsis - Café con Aroma de Mujer (1994)",
     "descriptiveSummary": "Resumen de la telenovela 'Café con Aroma de Mujer' (1994).",
-    "description": "Descubre la historia de amor entre Gaviota y Sebastián en la versión original de 'Café con Aroma de Mujer', una producción emblemática del Eje Cafetero."
+    "description": "Descubre la historia de amor entre Gaviota y Sebastián en la versión original de 'Café con Aroma de Mujer', una producción emblemática del Eje Cafetero.",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
+    "bgColor": "yellow",
+    "textColor": "dark-green",
+    "textColor2": "white",
+    "bgColor2": "dark-green",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "img": "assets/images/12-memoria.webp",
+    "content": {
+      "component": "Image",
+      "title": "SINOPSIS",
+      "body": "Filmada en una base militar real a 4.300 mts sobre el nivel de mar (13.000 pies), en El páramo un comando especial de alta montaña compuesto por nueve experimentados soldados es enviado a una base militar en un desolado páramo con la que se perdió contacto hace varios días y que se cree fue blanco de un ataque. Al llegar encuentran un único y misterioso sobreviviente. Poco a poco el aislamiento, la incapacidad de comunicarse con el exterior y la imposibilidad de huir, socavan la integridad y la cordura de los soldados, haciendo que pierdan la certeza sobre la identidad del enemigo y les crea dudas sobre su verdadera naturaleza.",
+      "firstImage": "assets/images/13-fotograma-memoria-1.webp"
+    }
   },
   {
     "page": 69,
     "name": "reparto-cafe-1994",
-    "component": "RepartoCafe1994",
+    "component": "LeftPrimaryBannerLayout",
     "title": "Reparto - Café con Aroma de Mujer (1994)",
     "descriptiveSummary": "Lista de actores de la telenovela 'Café con Aroma de Mujer' (1994).",
-    "description": "Conoce al elenco de 'Café con Aroma de Mujer' (1994), incluyendo a Margarita Rosa de Francisco y Guy Ecker, quienes dieron vida a esta historia inolvidable."
+    "description": "Conoce al elenco de 'Café con Aroma de Mujer' (1994), incluyendo a Margarita Rosa de Francisco y Guy Ecker, quienes dieron vida a esta historia inolvidable.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "Reparto",
+      "component": "DotList",
+      "body": "• Juan Pablo Barragán – Soldado Ponce,• Alejandro Aguilar – Soldado Fiquitiva,• Mauricio Navas – Sargento,• Andrés Castañeda – Soldado",
+      "color": "white"
+    }
   },
   {
     "page": 70,
     "name": "locaciones-cafe-1994",
-    "component": "LocacionesCafe1994",
+    "component": "RightPrimaryBannerLayout",
     "title": "Locaciones - Café con Aroma de Mujer (1994)",
     "descriptiveSummary": "Lista de locaciones del Eje Cafetero utilizadas en la telenovela 'Café con Aroma de Mujer' (1994).",
-    "description": "Explora los escenarios de 'Café con Aroma de Mujer' (1994), incluyendo calles de Filandia, Calarcá y el Carnaval de Riosucio."
+    "description": "Explora los escenarios de 'Café con Aroma de Mujer' (1994), incluyendo calles de Filandia, Calarcá y el Carnaval de Riosucio.",
+    "img": "assets/images/14-fotograma-memoria.webp",
+    "img2": "assets/images/12-memoria.webp",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "bgColor": "dark-green",
+    "textColor": "yellow",
+    "content": {
+      "title": "LUGARES QUE INSPIRARON LA PELÍCULA EN EL EJE CAFETERO:",
+      "component": "DotList",
+      "body": "• Valle del Cócora y Boquia en Salento,• Fachadas patrimoniales en el Eje cafetero",
+      "color": "white"
+    }
   },
   {
     "page": 71,
@@ -988,10 +1439,12 @@
   {
     "page": 72,
     "name": "introduccion-anexo-mapas",
-    "component": "IntroduccionAnexoMapas",
+    "component": "CenterImageLayout",
     "title": "Introducción - Anexo de Mapas",
     "descriptiveSummary": "Página introductoria al anexo de mapas de la guía 'Rodando por el Eje Cafetero'.",
-    "description": "Explora los mapas detallados que muestran las locaciones cinematográficas del Eje Cafetero. Esta sección introduce la importancia de estos espacios en la producción audiovisual de la región."
+    "description": "Explora los mapas detallados que muestran las locaciones cinematográficas del Eje Cafetero. Esta sección introduce la importancia de estos espacios en la producción audiovisual de la región.",
+    "img": "assets/logos/rodando-por-el-eje-main.webp",
+    "bgColor": "yellow"
   },
   {
     "page": 73,
@@ -1479,7 +1932,7 @@
   {
     "page": 124,
     "name": "servicio-gastronomico-salento",
-    "component": "ServicioGastronomico",
+    "component": "TableLayout",
     "title": "Servicio Gastronómico en Salento",
     "descriptiveSummary": "Listado de restaurantes y cafés en Salento con información de contacto.",
     "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el municipio de Salento. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta."
@@ -1487,12 +1940,84 @@
   {
     "page": 125,
     "name": "referencias",
-    "component": "TwoColumnLayout",
+    "component": "CenterContentLayout",
     "title": "Referencias - Rodando por el Eje Cafetero",
     "descriptiveSummary": "Bibliografía y filmografía utilizada en la guía, con fuentes sobre turismo en el Eje Cafetero y producciones cinematográficas relevantes.",
     "description": "Consulta las referencias utilizadas en 'Rodando por el Eje Cafetero', incluyendo bibliografía sobre turismo y filmografía de las producciones mencionadas en la guía.",
+    "bgColor": "purple",
+    "textColor": "yellow",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "purple"
+    "topIcon": "assets/vectors/purple-sun.svg",
+    "content": {
+      "component": "TwoColumnTable",
+      "firstColumn": [
+        {
+          "content": "Instituciones que apoyan:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Ministerio de cultura y DACMI: Luz Adriana Quigua Gonzáles\nDACMI: Annie Lorena Buitrago. Líder de Convocatorias de la dirección\npara el área de PNE\nFondo Mixto de Cultura de Boyacá: Juliana Agudelo Olguín",
+          "lineColor": "purple"
+        },
+        {
+          "content": "Producciones audiovisuales"
+        },
+        {
+          "fontWeight": "light",
+          "content": "La Pasión de Gabriel - Jorge López Abella - Quinto Color\nEl Páramo - Federico Durán Amorocho - Rhayuela Films\nMemoria - Diana María Bustamante Escobar - Burning\nLas hermanitas Calle - Ángela María Vergara Marulanda - Caracol Televisión S.A.\nMilagro en Roma - RTVE Radio y Televisión Española - Lisandro Duque Naranjo,\ndirector.\nCafé con Aroma de Mujer (1994), Café con Aroma de Mujer (2021) y Doña Bella - Luz\nMarina Toro Suárez - RCN Televisión S.A.",
+          "lineColor": "purple"
+        },
+        {
+          "content": "Consejos de Audiovisuales, cine y medios interactivos del Eje Cafetero:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Consejos de Audiovisuales, cine y medios interactivos de Risaralda.\nConsejos de Audiovisuales, cine y medios interactivos de Caldas.\nConsejos de Audiovisuales, cine y medios interactivos de Quindío.",
+          "lineColor": "purple"
+        },
+        {
+          "content": "Prologuista:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Diana María Rodríguez Herrera - Profesora Escuela de Turismo Sostenible - Facultad de Ciencias Ambientales - Universidad Tecnológica de Pereira"
+        }
+      ],
+      "secondColumn": [
+        {
+          "content": "Operadores turísticos:\nQuindío:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Hotel Shalom La Dorada - Javier Alonso Ortiz\nHacienda Bambusa\nPijao - Mónica Flórez - La Pequeña Casa. Hospedaje cittaslow\nFilandia - Oficina de turismo municipal\nFilandia - Francia Inés Bautista Jurado - Pedales Coloniales\nCalarcá - Corporación Cívica Fiesta Nacional del Café",
+          "lineColor": "purple"
+        },
+        {
+          "content": "Caldas:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Don Leo\nBase Militar Cerró Gualí - Sargento Israel Cuéllar Páez\nHacienda Venecia - Alejandra Corrales Escobar López Osorio (Gerente comercial). Juan\nPablo Echeverry Londoño (Gerente general)\nRiosucio - Juan Esteban Becerra - Fotos de Carnaval de Riosucio",
+          "lineColor": "purple"
+        },
+        {
+          "content": "Risaralda:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Apía - Oficina de Turismo de la Alcaldía Municipal",
+          "lineColor": "purple"
+        },
+        {
+          "content": "Difusión:"
+        },
+        {
+          "fontWeight": "light",
+          "content": "Universidad Católica de Pereira\nFestival Cine en las montañas - Juan Francisco Bautista - Director general",
+          "lineColor": "purple"
+        }
+      ]
+    }
   },
   {
     "page": 126,

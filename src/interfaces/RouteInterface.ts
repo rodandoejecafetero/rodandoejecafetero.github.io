@@ -16,10 +16,14 @@ interface ColumnContent {
 interface PageContent {
   component: string;
   title?: string;
+  title2?: string;
+  title3?: string;
   uppercase?: boolean;
   color?: string;
+  color2?: string;
   lineColor?: string;
   body?: string;
+  body2?: string;
   firstColumn?: ColumnContent[];
   secondColumn?: ColumnContent[];
   thirdColumn?: ColumnContent[];
