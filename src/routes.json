@@ -495,6 +495,7 @@
     "textColor": "purple",
     "img": "assets/images/16-experiencias-destacadas.webp",
     "img2": "assets/images/16-experiencias-destacadas.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "Experiencias\nDestacadas en\nPijao:",
       "title2": "LA PEQUEÑA CASA",
@@ -610,6 +611,7 @@
     "textColor": "purple",
     "img": "assets/images/23-experiencias-destacadas.webp",
     "img2": "assets/images/23-experiencias-destacadas-2.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS\nEN LA VÍA\nCALDAS-TOLIMA:",
       "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
@@ -756,6 +758,7 @@
     "textColor": "dark-green",
     "img": "assets/images/31-experiencias-destacadas.webp",
     "img2": "assets/images/31-experiencias-destacadas-2.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
       "title2": "EL VALLE DEL COCORA",
@@ -778,6 +781,7 @@
     "textColor": "dark-green",
     "img": "assets/images/32-hacienda-bambusa.webp",
     "img2": "assets/images/32-hotel-shalom-la-dorada.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
       "title2": "TOMAR TÉ DE COCA FRENTE A LAGUNA NEGRA",
@@ -903,45 +907,52 @@
   {
     "page": 39,
     "name": "experiencias-hacienda-venecia",
-    "component": "SinopsisLayout",
+    "component": "VeneciaLayout",
     "title": "Experiencias Destacadas en Hacienda Venecia",
     "descriptiveSummary": "Vive la experiencia de recorrer el cafetal de Gaviota y hospedarte en una hacienda centenaria.",
     "description": "Sumérgete en la experiencia de 'Café con Aroma de Mujer' visitando el cafetal de Gaviota y aprendiendo sobre café, cacao y ron en la Hacienda Venecia.",
-    "img": "assets/images/38-cafe-con-aroma-a-mujer.webp",
-    "img2": "assets/images/35-cafe-con-aroma-a-mujer.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "bgColor": "green",
+    "bgColor": "pink",
+    "bgColor2": "green",
     "textColor": "purple",
+    "img": "assets/images/39-experiencias-destacadas1.webp",
+    "img2": "assets/images/39-experiencias-destacadas2.webp",
+    "img3": "assets/images/39-experiencias-destacadas3.webp",
+    "img4": "assets/images/39-experiencias-destacadas4.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
-      "title": "LOCACIONES EN EL EJE CAFETERO:",
-      "component": "DotList",
-      "body": "• Plaza principal de Marsella,• Iglesia y cementerio de Marsella ,• Hacienda el Rosario en Manizales,• Hacienda Venecia en Manizales,• Plaza principal, calles en Salamina ,• Valle de la Samaria en Salamina",
-      "color": "purple"
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nHACIENDA VENECIA:",
+      "title2": "EL CAFETAL DE GAVIOTA",
+      "title3": "DORMIR EN UNA HACIENDA CENTENARIA",
+      "title4": "EXPERIENCIAS DE CACAO, RON Y CATA DE CAFÉ",
+      "body": "En las afueras de la ciudad de Manizales puedes visitar el cafetal de Gaviota. Esta locación enamora a locales y extranjeros que llegan a la hacienda buscando vivir una experiencia de telenovela. El guía te ayuda a cruzar el cafetal hasta llegar al beneficiadero y al árbol en el que está dibujado el corazón de Sebastián y Gaviota.",
+      "body2": "Hospédate en el mismo lugar que lo hizo la producción de “Café 2021”, puedes elegir entre la casa principal de la hacienda, el coffee loedge o el hostal. El paisaje está configurado por fincas y haciendas cafeteras, que se asocian con guaduales, bosques y sistemas agroforestales, relictos boscosos, cafetales, platanales, pastizales y matorrales. ",
+      "body3": "Pregúntate por el origen de lo cotidiano en el mismo cafetal que se usó como locación para que Gaviota. Los primeros episodios de ”Café 2021” muestran didácticas escenas en las que se propone una versión empoderada de las campesinas curiosas que trabajan en la ficticia Hacienda Casa Blanca.\n\nEn Hacienda Venecia el plan es aprender. ¿Por qué en el cafetal hay matas de plátano? ¿Por qué antes el chocolate era una preparación picante? ¿Cómo enamorar a un extranjero de las preparaciones del plátano? ¿Cómo se fermenta la caña para convertirse en ron?",
+      "color": "white",
+      "color2": "purple"
     }
   },
   {
     "page": 40,
     "name": "experiencias-salamina",
-    "component": "SinopsisLayout",
+    "component": "SalaminaLayout",
     "title": "Experiencias Destacadas en Salamina",
     "descriptiveSummary": "Explora el arte urbano y la cocina tradicional en Salamina, un destino de telenovelas.",
     "description": "Visita los murales en cemento de FERTOCE y disfruta de una experiencia gastronómica en la Casa de Oscar Pérez, donde Gaviota probó el sushi en 'Café 2021'.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
     "bgColor": "pink",
-    "textColor": "white",
-    "textColor2": "white",
     "bgColor2": "green",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "img": "assets/images/35-cafe-con-aroma-a-mujer.webp",
+    "textColor": "purple",
+    "img": "assets/images/40-murales-de-salamina.webp",
+    "img2": "assets/images/40-murales-de-salamina1.webp",
+    "img3": "assets/images/40-murales-de-salamina3.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
-      "component": "FourthImageTable",
-      "title": "SINOPSIS",
-      "body": "Gaviota, una joven recolectora de café, y Sebastián, un hombre perteneciente a una familia poderosa del gremio cafetero, viven una intensa historia de amor marcada por las diferencias sociales y los desafíos de un entorno cambiante en el mundo de las haciendas cafetaleras.",
-      "color": "purple",
-      "firstImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma.webp",
-      "secondImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma2.webp",
-      "thirdImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma3.webp",
-      "fourthImage": "assets/images/36-cafe-con-aroma-a-mujer-fotograma4.webp"
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nSALAMINA:",
+      "title2": "MURALES DE SALAMINA",
+      "title3": "ESTUDIO DE COCINA",
+      "body": "Visita el arte urbano de FERTOCE (Luis Fernando Toro), murales en relieve de cemento que narran la historia de Salamina y permiten al transeúnte realizar una lectura del pasado de la colonización del viejo Caldas.",
+      "body2": "En La Casa de Oscar Pérez la experiencia gastronómica se disfruta desde los juegos de rol, puedes disfrutar de ser un comensal, salir de pícnic al corregimiento de San Félix o convertirte en chef por un día. Gaviota y Sebastián viven una escapada romántica en Salamina y esta fotogénica cocina se convierte en la locación en la que Gaviota prueba el sushi por primera vez.",
+      "color": "white",
+      "color2": "purple"
     }
   },
   {
@@ -1124,6 +1135,7 @@
     "textColor": "dark-pink",
     "img": "assets/images/51-experiencias-marsella.webp",
     "img2": "assets/images/51-experiencias-marsella-2.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS EN\nMARSELLA:",
       "title2": "CITY TOUR",
@@ -1188,12 +1200,12 @@
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "img": "assets/images/53-la-pasion-de-gabriel.webp",
     "content": {
-      "component": "FourthImageTable",
+      "component": "TwoImageTable",
       "title": "SINOPSIS",
       "body": "La pasión de Gabriel es la historia de un sacerdote que, por sus convicciones y vocación social, sacrifica su vida en función de la justicia y del amor en su máxima expresión. Esta historia está inspirada en hechos reales, tiene una clara identidad colombiana y transmite una problemática universal. La película demuestra cómo la realidad supera la ficción y cómo los hombres comunes también pueden ser héroes. La pasión de Gabriel cuestiona el voto de castidad y refleja las debilidades humanas de los sacerdotes. Revela, además, cómo la salvación cristiana no puede darse sin la liberación social e ideológica, como signos visibles de la dignidad del hombre.",
       "color": "dark-green",
       "firstImage": "assets/images/54-la-pasion-de-gabriel-1.webp",
-      "thirdImage": "assets/images/54-la-pasion-de-gabriel-2.webp"
+      "secondImage": "assets/images/54-la-pasion-de-gabriel-2.webp"
     }
   },
   {
@@ -1244,10 +1256,30 @@
   {
     "page": 57,
     "name": "experiencias-risaralda",
-    "component": "ExperienciasRisaralda",
+    "component": "RisaraldaLayout",
     "title": "Experiencias Destacadas en Risaralda",
     "descriptiveSummary": "Actividades culturales y gastronómicas en Risaralda.",
-    "description": "Vive la autenticidad de Risaralda hospedándote en la Casa de Río La Calamuchita, jugando billar en Café Apía y explorando sus plazas de mercado."
+    "description": "Vive la autenticidad de Risaralda hospedándote en la Casa de Río La Calamuchita, jugando billar en Café Apía y explorando sus plazas de mercado.",
+    "bgColor": "dark-green",
+    "bgColor2": "green",
+    "textColor": "dark-green",
+    "img": "assets/images/57-experiencias-destacadas1.webp",
+    "img2": "assets/images/57-experiencias-destacadas2.webp",
+    "img3": "assets/images/57-experiencias-destacadas3.webp",
+    "img4": "assets/images/57-experiencias-destacadas4.webp",
+    "img5": "assets/images/57-experiencias-destacadas5.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "content": {
+      "title": "EXPERIENCIAS\nDESTACADAS\nEN\nRISARALDA:",
+      "title2": "CASA DE RÍO LA CALAMUCHITA",
+      "title3": "JUGAR BILLAR EN CAFÉ APÍA",
+      "title4": "VISITAR L AS PL AZAS DE MERCADO Y LOS MERCADOS CAMPESINOS",
+      "body": "Alójate junto al río Otún en una casa campesina de arquitectura tradicional restaurada con materiales de construcción contemporáneos como concreto y acero, combinados con piedra de la región. Ubicada en el sector de La Florida, entrada al Parque Nacional Natural Los Nevados.",
+      "body2": "Descubre el encanto del primer billar de Apia, un lugar donde la tradición y el tiempo están detenidos. Bajo la guía de don Diego los visitantes son invitados a recorrer las paredes y el techo de madera que guardan fotografías antiguas del municipio. Pero el verdadero espíritu de la experiencia es jugar billar junto con los lugareños",
+      "body3": "Risaralda es un departamento agrícola, puedes visitar los mercados domingos o lunes y de manera diaria en las plazas de mercado. Productos frescos adquiridos de manera directa, no solo café, sorpréndete con el plátano, cacao, piña, maíz, caña, aguacate y la belleza de las flores ¡una experiencia genuina!",
+      "color": "green",
+      "color2": "white"
+    }
   },
   {
     "page": 58,

@@ -43,6 +43,9 @@ interface RouteFromJson {
   descriptiveSummary: string;
   img?: string;
   img2?: string;
+  img3?: string;
+  img4?: string;
+  img5?: string;
   bgColor?: string;
   bgColor2?: string;
   culture?: string;
