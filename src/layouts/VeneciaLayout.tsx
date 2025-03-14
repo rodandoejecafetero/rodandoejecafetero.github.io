@@ -16,7 +16,7 @@ function VeneciaLayout({ route }: BaseLayoutProps) {
         <div className="w-full md:w-2/5">
           <div className='z-10 flex items-center justify-center md:absolute md:top-0 md:left-0 md:right-0 md:bottom-0'>
             <div className='relative flex flex-col py-10 mx-auto max-w-7xl md:py-0'>
-              <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto`}>
+              <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto mb-4`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5'>
                   <img src={route?.img2} className='object-contain h-56'/>
                 </div>

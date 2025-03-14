@@ -15,7 +15,6 @@ import NotFound from './components/common/NotFound.tsx'
 import Portada from './components/pages/Portada.tsx'
 
 const TablaContenidos = lazy(() => import('./components/pages/TablaContenidos.tsx'));
-const LaPasionGabriel = lazy(() => import('./components/pages/LaPasionGabriel.tsx'));
 const Playlist = lazy(() => import('./components/pages/Playlist.tsx'));
 const BannerLayout = lazy(() => import('./layouts/BannerLayout.tsx'));
 const CenterImageLayout = lazy(() => import('./layouts/CenterImageLayout.tsx'));
@@ -35,10 +34,10 @@ const ServiciosLayout = lazy(() => import('./layouts/ServiciosLayout.tsx'));
 const SalaminaLayout = lazy(() => import('./layouts/SalaminaLayout.tsx'));
 const VeneciaLayout = lazy(() => import('./layouts/VeneciaLayout.tsx'));
 const RisaraldaLayout = lazy(() => import('./layouts/RisaraldaLayout.tsx'));
+const FullCenterImageLayout = lazy(() => import('./layouts/FullCenterImageLayout.tsx'));
 
 const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   TablaContenidos: <TablaContenidos />,
-  LaPasionGabriel: <LaPasionGabriel />,
   Playlist: <Playlist />,
   BannerLayout: <BannerLayout />,
   CenterImageLayout: <CenterImageLayout />,
@@ -58,6 +57,7 @@ const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   SalaminaLayout: <SalaminaLayout />,
   VeneciaLayout: <VeneciaLayout />,
   RisaraldaLayout: <RisaraldaLayout />,
+  FullCenterImageLayout: <FullCenterImageLayout />,
 };
 
 // Mapear el JSON a un array de RouteInterface. Si el componente no existe se utiliza RedirectTo404.
