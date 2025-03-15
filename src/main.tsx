@@ -35,6 +35,8 @@ const SalaminaLayout = lazy(() => import('./layouts/SalaminaLayout.tsx'));
 const VeneciaLayout = lazy(() => import('./layouts/VeneciaLayout.tsx'));
 const RisaraldaLayout = lazy(() => import('./layouts/RisaraldaLayout.tsx'));
 const FullCenterImageLayout = lazy(() => import('./layouts/FullCenterImageLayout.tsx'));
+const DestacadasLayout = lazy(() => import('./layouts/DestacadasLayout.tsx'));
+const HalfLayout = lazy(() => import('./layouts/HalfLayout.tsx'));
 
 const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   TablaContenidos: <TablaContenidos />,
@@ -58,6 +60,8 @@ const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   VeneciaLayout: <VeneciaLayout />,
   RisaraldaLayout: <RisaraldaLayout />,
   FullCenterImageLayout: <FullCenterImageLayout />,
+  DestacadasLayout: <DestacadasLayout />,
+  HalfLayout: <HalfLayout />,
 };
 
 // Mapear el JSON a un array de RouteInterface. Si el componente no existe se utiliza RedirectTo404.

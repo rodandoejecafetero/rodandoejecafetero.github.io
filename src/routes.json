@@ -114,7 +114,7 @@
     "title": "Tabla de contenidos - Rodando por el eje cafetero",
     "descriptiveSummary": "Índice de la guía con secciones como agradecimientos, prólogo, introducción, playlist y destinos turísticos relacionados con películas y series. Incluye el logotipo de 'Culturas' y flechas decorativas.",
     "description": "Explora el contenido completo de la guía 'Rodando por el Eje Cafetero'. Encuentra información sobre turismo audiovisual, destinos inspirados en películas y experiencias únicas en Colombia.",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp"
+    "culture": "assets/logos/culturas/Culturas-morado.webp"
   },
   {
     "page": 4,
@@ -349,7 +349,8 @@
     "component": "Playlist",
     "title": "Playlist - Rodando por el eje cafetero",
     "descriptiveSummary": "Lista de reproducción con música inspirada en el Eje Cafetero y en las producciones cinematográficas mencionadas en la guía.",
-    "description": "Explora la playlist oficial de 'Rodando por el Eje Cafetero', con música inspirada en la región y sus producciones audiovisuales."
+    "description": "Explora la playlist oficial de 'Rodando por el Eje Cafetero', con música inspirada en la región y sus producciones audiovisuales.",
+    "culture": "assets/logos/culturas/Culturas-morado.webp"
   },
   {
     "page": 9,
@@ -514,7 +515,7 @@
     "descriptiveSummary": "Fotografía ilustrativa de las experiencias destacadas en Pijao.",
     "description": "Una imagen que representa la tranquilidad y autenticidad de las experiencias en Pijao, un destino único en el Eje Cafetero.",
     "img": "assets/images/17-paisaje-jeep-paramo.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "textColor": "yellow"
   },
   {
@@ -539,9 +540,9 @@
     "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Ficción - Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 136 mins\n<b>Dirección:</b> Apichatpong Weerasethakul\n<b>Producción:</b> Diana Bustamante\n<b>Empresas productoras:</b> Kick the Machine Films - Burning\n<b>Coproductoras:</b> Anna Sanders Films, Match Factory Productions, Piano, Xstream Pictures, IQiyi, Titan Creative Entertainment, Rediance, ZDF/arte, Louverture Films, Doha Film Institute, Beijinc Contemporary Art Foundation, Bord Cadre Films, Sovereign Films, Field Of Vision, 185 Films, Estudios Churubusco\n<b>Guion:</b> Apichatpong Weerasethakul\n<b>Dirección de fotografía:</b> Sayombhu Mukdeeprom\n<b>Montaje:</b> Lee Chatametikool\n<b>Diseño sonoro:</b> Akritchalerm Kalayanamitr\n<b>Música:</b> César López",
     "bgColor": "purple",
     "textColor": "green",
-    "textColor2": "white",
+    "textColor2": "purple",
     "bgColor2": "green",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "img": "assets/images/18-el-paramo.webp",
     "content": {
       "component": "Image",
@@ -630,8 +631,8 @@
     "descriptiveSummary": "Fotografía representativa de las experiencias en la vía Caldas-Tolima.",
     "description": "Una imagen que captura la esencia del páramo en la vía Caldas-Tolima, un destino de paisajes extremos y experiencias únicas.",
     "img": "assets/images/24-experiencias-destacadas.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "textColor": "yellow"
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "textColor": "purple"
   },
   {
     "page": 25,
@@ -672,7 +673,7 @@
     "descriptiveSummary": "Fotografía de los coloridos balcones y fachadas del Eje Cafetero que inspiraron la película 'Encanto'.",
     "description": "Los balcones adornados y las fachadas patrimoniales del Eje Cafetero fueron clave en la ambientación de la película 'Encanto'.",
     "img": "assets/images/26-encanto.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "textColor": "purple"
   },
   {
@@ -837,7 +838,7 @@
     "descriptiveSummary": "Diseño gráfico representativo de la telenovela 'Café con Aroma de Mujer', con un estilo visual inspirado en el café y su cultura.",
     "description": "Explora la esencia visual de 'Café con Aroma de Mujer', una de las telenovelas más emblemáticas de Colombia, que muestra la tradición cafetera del Eje Cafetero.",
     "img": "assets/images/35-cafe-con-aroma-a-mujer.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "bgColor": "green",
     "textColor": "purple"
   },
@@ -964,7 +965,7 @@
     "description": "Una imagen que captura la esencia de Salamina, su arte urbano y su gastronomía tradicional.",
     "img": "assets/images/41-eje-.webp",
     "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "textColor": "yellow"
+    "textColor": "purple"
   },
   {
     "page": 42,
@@ -986,7 +987,7 @@
     "descriptiveSummary": "Fotografía de coloridas fachadas y balcones típicos de la arquitectura cafetera, representativos de la región.",
     "description": "Explora la belleza de la arquitectura tradicional del Eje Cafetero, con fachadas vibrantes, balcones en madera y un diseño colonial que ha inspirado múltiples producciones audiovisuales en la región.",
     "img": "assets/images/43-hermanitas-calle.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "textColor": "purple"
   },
   {
@@ -1446,8 +1447,8 @@
     "descriptiveSummary": "Fotografía ilustrativa de las experiencias turísticas en Filandia.",
     "description": "Una imagen que refleja la riqueza cultural y la tradición artesanal de Filandia, un destino cinematográfico icónico del Eje Cafetero.",
     "img": "assets/images/67-experiencia-destacada.webp",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "textColor": "yellow"
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "textColor": "purple"
   },
   {
     "page": 67,
@@ -1520,10 +1521,27 @@
   {
     "page": 71,
     "name": "experiencias-fiestas",
-    "component": "ExperienciasFiestas",
+    "component": "DestacadasLayout",
     "title": "Experiencias Destacadas: Carnaval de Riosucio y Fiestas del Café",
     "descriptiveSummary": "Eventos culturales del Eje Cafetero relacionados con producciones audiovisuales.",
-    "description": "Sumérgete en la magia del Carnaval de Riosucio, un evento bianual lleno de desfiles y danzas, y en las Fiestas del Café en Calarcá, que celebran la cosecha cafetera con coloridos desfiles de jeeps."
+    "description": "Sumérgete en la magia del Carnaval de Riosucio, un evento bianual lleno de desfiles y danzas, y en las Fiestas del Café en Calarcá, que celebran la cosecha cafetera con coloridos desfiles de jeeps.",
+    "bgColor": "yellow",
+    "bgColor2": "dark-pink",
+    "textColor": "yellow",
+    "img": "assets/images/71-cafe-con-aroma-de-mujer.webp",
+    "img2": "assets/images/71-cafe-con-aroma-de-mujer1.webp",
+    "img3": "assets/images/71-cafe-con-aroma-de-mujer2.webp",
+    "img4": "assets/images/71-cafe-con-aroma-de-mujer4.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
+    "content": {
+      "title": "EXPERIENCIAS\nDESTACADAS EN\nSALAMINA:",
+      "title2": "CARNAVAL DE RIOSUCIO\n(CARNAVAL DEL DIABLO)",
+      "title3": "FIESTAS DEL CAFÉ EN CALARCÁ",
+      "body": "Es el momento de honrar las costumbres y la cultura local, para este carnaval debes esperar a que pasen dos años y llegue enero. Desfiles, música, danzas, esculturas monumentales y una atmósfera festiva que envuelve a todos los asistentes bajo la estética del “infierno”",
+      "body2": "Un homenaje muy tradicional a la cultura cafetera de la región. Desfiles de coloridos jeeps y el tradicional “trasteo” que muestra la vida en el campo. ¡Es la celebración de la cosecha campesina!",
+      "color": "dark-pink",
+      "color2": "dark-pink"
+    }
   },
   {
     "page": 72,
@@ -1538,16 +1556,16 @@
     "textColor": "purple"
   },
   {
-    "page": 73,
     "name": "anexo-mapas-intro",
-    "component": "CenterImageLayout",
-    "title": "Anexo de Mapas - Introducción",
+    "component": "HalfLayout",
+    "title": "Anexo de Mapas",
     "descriptiveSummary": "Introducción a los mapas de locaciones del Eje Cafetero.",
     "description": "Explora los mapas que muestran las locaciones de las producciones audiovisuales filmadas en el Eje Cafetero.",
+    "bgColor": "yellow",
+    "bgColor2": "purple",
+    "textColor": "yellow",
     "img": "assets/logos/rodando-por-el-eje-main.webp",
-    "bgColor": "green",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
-    "textColor": "yellow"
+    "culture": "assets/logos/culturas/Culturas-morado.webp"
   },
   {
     "page": 74,
@@ -1702,7 +1720,7 @@
     "img": "assets/images/85-mapas-locaciones-en-risaralda.webp",
     "rightIcon": "assets/vectors/yellow-sun.svg",
     "bgColor": "green",
-    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp",
     "textColor": "yellow"
   },
   {
@@ -1782,12 +1800,16 @@
     "textColor": "purple"
   },
   {
-    "page": 92,
     "name": "directorio-servicios-turisticos",
-    "component": "DirectorioServiciosTuristicos",
+    "component": "HalfLayout",
     "title": "Directorio de Servicios Turísticos",
     "descriptiveSummary": "Portada de la sección de directorio de servicios turísticos en la guía 'Rodando por el Eje Cafetero'.",
-    "description": "Esta página introduce la sección del directorio de servicios turísticos, que ofrece información sobre hospedajes, transporte, guías turísticos y otros servicios clave para quienes desean explorar las locaciones cinematográficas del Eje Cafetero."
+    "description": "Esta página introduce la sección del directorio de servicios turísticos, que ofrece información sobre hospedajes, transporte, guías turísticos y otros servicios clave para quienes desean explorar las locaciones cinematográficas del Eje Cafetero.",
+    "bgColor": "yellow",
+    "bgColor2": "purple",
+    "textColor": "yellow",
+    "img": "assets/logos/rodando-por-el-eje-main.webp",
+    "culture": "assets/logos/culturas/Culturas-morado.webp"
   },
   {
     "page": 93,
@@ -1826,6 +1848,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Apía, incluyendo actividades de aventura, agroturismo y avistamiento de aves.",
     "description": "Esta sección presenta una lista de experiencias turísticas en Apía, Risaralda, con información sobre operadores, contacto y tarifas aproximadas. Las actividades incluyen parapente, tours de café, senderismo, aviturismo y cicloturismo, ofreciendo diversas opciones para visitantes y productores audiovisuales interesados en la región.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1841,6 +1864,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Calarcá, incluyendo ecoturismo, café, avistamiento de aves y espeleología.",
     "description": "Esta sección presenta una lista de experiencias turísticas en Calarcá, Quindío, con información sobre operadores, contacto y tarifas aproximadas. Las actividades incluyen el Show del Jeepao, experiencias de café, recorridos en el Jardín Botánico del Quindío, ecoturismo, senderismo y espeleología, ofreciendo opciones diversas para visitantes y producciones audiovisuales interesadas en la región.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1856,6 +1880,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Filandia y La Virginia, incluyendo senderismo, ciclismo, tours urbanos y actividades acuáticas.",
     "description": "Esta sección presenta una lista de experiencias turísticas en Filandia (Quindío) y La Virginia (Risaralda). Las actividades incluyen trekking, city tours en bicicletas vintage, cestería, ciclismo y recorridos por el pueblo en Filandia. En La Virginia se ofrecen experiencias de senderismo, recorridos por el Río Cauca, piscina recreativa y pesca deportiva, con información sobre operadores, contacto y tarifas aproximadas.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1875,6 +1900,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas disponibles en Manizales, incluyendo city tours, avistamiento de aves, senderismo y tours de café.",
     "description": "Esta sección presenta una lista de experiencias turísticas en Manizales, Caldas. Las actividades incluyen recorridos por el centro histórico, experiencias de naturaleza con orquídeas y aves, tours de café y cacao, senderismo y avistamiento de aves en reservas naturales. Se proporciona información sobre operadores, contacto y tarifas aproximadas para los visitantes y producciones audiovisuales interesadas en la región.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1890,6 +1916,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Marsella, incluyendo tours de cacao, city tours y tours de café.",
     "description": "Esta sección presenta experiencias turísticas en Marsella, Risaralda. Incluye un tour de cacao con almuerzo, un recorrido histórico por el pueblo visitando la Plaza Principal, la Casa de Cultura, el Cementerio y la Biblioteca Municipal, así como un tour de café en la Finca Villa Monica. Se proporciona información sobre operadores turísticos, contacto y tarifas para visitantes y producciones audiovisuales interesadas en la región.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1905,6 +1932,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en el Parque Nacional Natural de Los Nevados, incluyendo senderismo, termalismo y avistamiento de colibríes.",
     "description": "Esta sección presenta experiencias turísticas en el Parque Nacional Natural de Los Nevados. Incluye paisajismo del páramo con visita a la Laguna Negra y degustación de té de coca, experiencias termales en Termales del Ruíz y Termales del Sifón, recorridos con interpretación ambiental con los Guardabosques y la exploración de Aguacerales, Valle Lunar y Valle de las Tumbas. Se proporciona información sobre operadores turísticos, contacto y tarifas.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1920,6 +1948,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Pereira, incluyendo city tours, senderismo, tours de café y arte urbano.",
     "description": "Esta sección presenta experiencias turísticas en Pereira, destacando tours de cacao y café, recorridos por la ciudad que incluyen Plaza Bolívar, la Catedral Nuestra Señora de la Pobreza y el Mega Cable de Villa Santana. También se incluyen opciones de senderismo con almuerzo, recorridos de arte urbano, y actividades gastronómicas como cata de frutas exóticas y clases de cocina colombiana. Se proporciona información sobre operadores turísticos, contacto y tarifas.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1935,6 +1964,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Pereira, destacando actividades de café, senderismo, ecoturismo, temazcal y talleres culturales.",
     "description": "Esta sección presenta diversas experiencias turísticas en Pereira, incluyendo tours de café en Café Morrones, senderismo de alta montaña en el Parque Nacional Natural Los Nevados, avistamiento de aves, trekking y recorridos por ríos y bosques. También se destacan experiencias culturales como temazcal en Bosque Kaukítá, talleres interactivos en la Casa Cultural Espacio Vasto y eventos de lectura en La Casa del Libro. Se incluye información de contacto y tarifas.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1950,6 +1980,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Pijao, incluyendo catas de café, visitas guiadas a pueblos y experiencias culturales.",
     "description": "Esta sección presenta diversas experiencias turísticas en Pijao, como catas de café y venta de productos locales en La Floresta y La Tienda del Buen Vivir, experiencias con plantas aromáticas en El Patio, y recorridos por la cordillera visitando los pueblos de Córdoba, Pijao y Buenavista. También se incluyen city tours por Pijao con paradas en el Museo Arqueológico, casas de colonización antioqueña y murales del pueblo. Además, se ofrece un tour de cacao en Casa Rivera. Se proporciona información de contacto y tarifas.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1965,6 +1996,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Pijao y Riosucio, incluyendo cabalgatas, trekking, canyoning, turismo wellness y gastronomía.",
     "description": "Esta sección detalla experiencias turísticas en dos municipios del Eje Cafetero. En Pijao, los visitantes pueden disfrutar de cabalgatas en la Hacienda Riobamba, tours de café en la Finca de Don Leo y trekking en el Páramo Chili y el Bosque de Palmas de Cera con Ecotours Pijao. En Riosucio, las opciones incluyen canyoning, trekking y ciclismo de montaña con la Agencia Operadora Ingruma, experiencias de wellness y terapias holísticas en Aldea Sol de los Andes, así como recorridos gastronómicos e históricos con la Agencia de Viajes Somos Regiones. Se proporciona información de contacto y tarifas para cada actividad.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -1984,6 +2016,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Salamina y Salento, incluyendo city tours, senderismo, cabalgatas ecológicas, talleres de cocina y experiencias cafeteras.",
     "description": "En Salamina, los visitantes pueden recorrer el pueblo con un guía profesional, explorar la Basque Palma de Cera en San Félix con opciones de senderismo y cabalgatas ecológicas, y participar en talleres de cocina tradicional con el chef Óscar Pérez. En Salento, las experiencias incluyen tours de café en fincas cafeteras como Buenos Aires, Luger, Del Ocaso y Entrebosques, además de una cata de chocolate en la Fábrica de Chocolate De Olier. Se proporciona información de contacto y tarifas para cada actividad.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -2003,6 +2036,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Salento, incluyendo city tours, cabalgatas, clases de cocina, trekking y actividades tradicionales.",
     "description": "Salento ofrece una variedad de experiencias turísticas, como city tours por el pueblo con visitas a miradores y tiendas de café, cabalgatas incluyendo tours de café, clases de cocina con el chef Fernando Vélez, y trekking en La Carbonera con especialización en avistamiento de aves. También se puede disfrutar de un tour completo a la Carbonera con transporte, almuerzo y caminatas, además de cabalgatas en el Valle de Cocora y la tradicional práctica del tejo en la cancha Los Amigos. Se proporcionan contactos y tarifas para cada actividad.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -2018,6 +2052,7 @@
     "descriptiveSummary": "Listado de experiencias turísticas en Santuario, incluyendo ecoturismo, senderismo, city tours y ciclismo de montaña.",
     "description": "Santuario ofrece diversas experiencias turísticas para los visitantes. Se puede disfrutar de ecoturismo y senderismo en cascadas dentro de zonas protegidas, ciclismo de montaña, recorridos en cuatrimotos, avistamiento de aves y tours de café. También se ofrece un city tour por el pueblo en Jeep con visitas a la Iglesia, la Calle Real, miradores y recorridos arquitectónicos. Además, es posible explorar la Gran Reserva Wabanta con caminatas por el bosque andino y la visita a cascadas. Se proporcionan contactos y tarifas para cada actividad.",
     "bgColor": "purple",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "rightIcon": "assets/vectors/purple-sun.svg",
     "textColor": "yellow",
     "content": {
@@ -2033,6 +2068,7 @@
     "descriptiveSummary": "Listado de opciones de hospedaje en diferentes municipios de la región, con sus respectivos contactos.",
     "description": "En esta sección se presentan diferentes opciones de hospedaje disponibles en los municipios de Apía, Armenia y Calarcá. Se incluyen hoteles, hostales, fincas turísticas y eco-hoteles, con información de contacto para cada establecimiento.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
       "title": "APÍA",
@@ -2058,21 +2094,17 @@
     "descriptiveSummary": "Opciones de hospedaje en los municipios de Filandia y La Virginia, con información de contacto.",
     "description": "Esta sección incluye una lista de hospedajes disponibles en los municipios de Filandia y La Virginia. Se presentan hostales, hoteles boutique, eco-hoteles y fincas turísticas, junto con los números de contacto para cada establecimiento.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "ANDIA",
+      "body": "HOSTAL COLINA DE LLUVIA*CASA HOTEL EL COMPADRE*CASA COLONIAL FILANDIA*ECO HOTEL MONTE TIERRA GLAMPING*MONTE PUEBLO HOTEL BOUTIQUE*SIERRA MORENA ECO HOTEL*HOSTERIA DE MI PUEBLO*FINCA HOTEL PAISAJE CAFETERO*EL RELOJ CASA HOTEL*LA PUESTA DEL SOL*BHUTAN ENTORNO ESENCIAL",
+      "body2": "3217156245*3192742400*3117028714*3027588742*3102608086*3154181898*3192403027*3204254444*3148207755*3244455090*3182339833"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "LA VIRGINIA",
+      "body": "HOTEL NOGAL PLAZA*HOTEL RESTAURANTE LAS VERANERAS*HOTEL CAMPESTRE COCONI*HOTEL SAN JOSÉ LA VIRGINIA*EL PARAÍSO HOTEL CAMPESTRE",
+      "body2": "3146308688*(606) 3680615*3103964154*3192464768*3108241306"
     }
   },
   {
@@ -2083,21 +2115,12 @@
     "descriptiveSummary": "Opciones de hospedaje en el municipio de Manizales, con información de contacto.",
     "description": "Esta sección proporciona un listado de hospedajes en Manizales, incluyendo hostales, hoteles boutique, eco-hoteles y alojamientos rurales. Se presentan con sus respectivos números de contacto para facilitar la reserva.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
-    },
-    "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "MANIZALES",
+      "body": "MOUNTAIN HOSTELS MANIZALES*ESTELAR EL CABLE*LOGDE PARAÍSO VERDE*LA JUANITA POSADA RURAL*BOSQUES DE LA PRADERA*REGINES HOTEL*HOTEL ESCORIAL 1936*HOTEL AYENDA MACONDO*HACIENDA VENECIA*ECO HOTEL VILLA SARITA*TERMALES TIERRA VIVA*HOTEL TERMALES DEL RUÍZ*GLAMPING EL COLIBRÍ*HOTEL BOUTIQUE SAN ANTONIO*HOTEL TINAMÚ BIRDING RESERVE*ATTRAVERSIAMO BAMBOO HOUSE BOUTIQUE",
+      "body2": "3004397387*(606) 8879690*3007214465*3117719774*3158118332*3117621572*3041421807*(606) 8946518*3206365719*3006356200*3012617394*(606) 8930300*3215799255*3044666722*3104367068*3001998942"
     }
   },
   {
@@ -2108,21 +2131,17 @@
     "descriptiveSummary": "Opciones de hospedaje en los municipios de Marsella y Pereira, con información de contacto.",
     "description": "Este apartado incluye una lista de hospedajes en Marsella y Pereira, con diversas opciones como eco-hoteles, hostales y fincas turísticas. Se presentan con sus respectivos números de contacto para facilitar la reserva.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "MARSELLA",
+      "body": "HACIENDA ECO HOTEL LOS LAGOS*D.A LA POSADA*ECO HOTEL ALTO CAUCA*HOTEL CARMEN*HOSPEDAJE MIRADOR EL ENCANTO",
+      "body2": "3113415962*3166168763*3206707405*3216429907*3135808489"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "PEREIRA",
+      "body": "HOTEL ABADIA PLAZA*DE REQUKA HOSTEL*MONTE JAZMÍN*ALBORE HOSTEL*HABITAT SUITES HOTEL*ECOHOTEL LA CASONA*FINCA TURÍSTICA PARQUE BIOFLORA*HOTEL ZIONE*ZENTRICO HOTEL",
+      "body2": "(606) 3496870*3043767172*3226900220*3008245464*3206994818*3206753322*3136272813*3116079036*3115915518"
     }
   },  
   {
@@ -2133,21 +2152,12 @@
     "descriptiveSummary": "Opciones de hospedaje en Pereira con información de contacto.",
     "description": "Esta sección presenta una lista de hospedajes en el municipio de Pereira, incluyendo hoteles, fincas y alojamientos boutique. Se incluyen datos de contacto para facilitar la reserva.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
-    },
-    "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "PEREIRA",
+      "body": "HOTEL PACHAMAMA ALDEA QUIMBAYA*FINCA HOTEL YERBABUENA*CASA NATURA HOTEL*HOTEL Z3*ALBURA HOTEL*HOTEL ÁGATA*HOTEL VILLA CRISTINA BOUTIQUE",
+      "body2": "3113058719*3156349010*3052280079*3148787050*(606) 3486484*3226367586*3022250253"
     }
   },
   {
@@ -2158,21 +2168,17 @@
     "descriptiveSummary": "Opciones de hospedaje en Pijao y Riosucio con información de contacto.",
     "description": "Esta sección presenta una lista de hospedajes en los municipios de Pijao y Riosucio, incluyendo hostales, hoteles y alojamientos rurales. Se proporciona información de contacto para facilitar la reserva.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "PIJAO",
+      "body": "LA PEQUEÑA CASA*HOSTAL EL CHILI*ENCANTO DEL ARCO GLAMPING*CASA VICTORIA PIJAO*ALOJAMIENTO LA PEQUEÑA CASA*HOTEL PLAZA HOSTAL BNB*FLORA DEL RÍO*HOTEL ENTRE MONTAÑAS*MIRADOR LA ESMERALDA*FINCA TRADICIONAL EL OTOÑO",
+      "body2": "3128255613*3183898861*3215082385*3136107410*3128255613*3104954720*3165673476*3152886673*3146509594*3108491829"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "RIOSUCIO",
+      "body": "LAGOS DEL ESPINO*HOTEL TRIÁNGULO*N5 HOTEL*HOTEL REAL PLAZA RIOSUCIO",
+      "body2": "3137295855*3148424906*3146750203*3504422160"
     }
   },  
   {
@@ -2183,21 +2189,17 @@
     "descriptiveSummary": "Opciones de hospedaje en Riosucio y Salento con información de contacto.",
     "description": "Esta sección presenta una lista de hospedajes en los municipios de Riosucio y Salento, incluyendo hoteles y eco-hoteles. Se proporciona información de contacto para facilitar la reserva.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "RIOSUCIO",
+      "body": "HOTEL REAL PLAZA RIOSUCIO*HOTEL MIRADOR RIOSUCIO*HOTEL JC PLAZA*HOTEL AVENIDA SIETE DE AGOSTO*HOTEL CIPRÉS*HOTEL ASTURIAS RIOSUCIO*HOTEL PALACIO DE RIOSUCIO*HOTEL MONTERREY RIOSUCIO",
+      "body2": "3504422160*(606) 8591599*3145434828*3127863659*3137993579*3202584672*(606) 8591832*3175130751"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "SALENTO",
+      "body": "ECO HOTEL LA MONTAÑA*HOSTAL ESTRELLA DE AGUA*HOTEL MIRADOR SALENTO*ECO HOTEL PIEDEMONTE",
+      "body2": "3216477867*3105053160*3214311315*3105534735"
     }
   },
   {
@@ -2210,19 +2212,14 @@
     "bgColor": "blue",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "SALENTO",
+      "body": "COFFEE TREE BOUTIQUE HOSTEL*HOTEL TUMBAGA SALENTO*HOSTAL CIUDAD DE SERGOBE SALENTO*HOTEL MIRADOR BOQUIA SALENTO*HOTEL SALENTO PLAZA*MONTANA GLAMPING*GRAN AZUL ECORESORT*RESERVA GUADALAJARA*ECO HOTEL LA CABAÑA*CASA MOCHILA*ECO HOTEL FINCA LOS NARANJOS",
+      "body2": "3188906999*3107021613*3108252436*3112225312*3004838877*3205168522*3205168522*3104044733*3155408132*3013678978*3013678978"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "SANTUARIO",
+      "body": "MIRADOR LA FLORESTA*HOTEL MONTES*HOTEL SANTUARIO PLAZA*EL HOSTAL DON RAFA*GLAMPING ENTRE MONTES Y CAFETALES*LA GRAN RESERVA WABANTÁ",
+      "body2": "3104329520*(606) 3687564*3164501515*3234536440*3105470016*3117191717"
     }
   },
   {
@@ -2233,21 +2230,17 @@
     "descriptiveSummary": "Listado de opciones de hospedaje en La Tebaida y Salamina con información de contacto.",
     "description": "En esta sección se presentan diversas opciones de hospedaje en los municipios de La Tebaida y Salamina. Se incluyen hoteles, hostales y glampings, junto con sus respectivos datos de contacto para facilitar la reserva.",
     "bgColor": "blue",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "LA TEBAIDA",
+      "body": "FINCA HOTEL SHALOM LA DORADA",
+      "body2": "3155796874"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "SALAMINA",
+      "body": "HOTEL COLONIAL*HOTEL BOUTIQUE LA LEYENDA 1860*HOTEL CASA REAL*CASA LOLA BOUTIQUE*LA ESTANCIA HOTEL BOUTIQUE*LAS MARIAS CASAS HOTEL*HOTEL RURAL LOS SECRETOS DEL EDÉN*GLAMPING HILL SUNSET*HOSTAL SANTA TERESITA*SALAMINA HIGHS HOTEL BOUTIQUE",
+      "body2": "(606) 8595978*3045574929*3117842364*3102087914*3202100240*3137478109*3006668662*3206860085*3135648043*3232262382"
     }
   },
   {
@@ -2258,21 +2251,17 @@
     "descriptiveSummary": "Listado de restaurantes y bares en Apía y Armenia con información de contacto.",
     "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de Apía y Armenia. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
       "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "body": "COME & VIVE RESTAURANTE GOURTMET*LA TERRAZA, BRISAS DEL RIO*GAMBIA RESTURANTE BAR*FLOR DE APIA CAFÉ BAR*MARAKUMBÉ COCINA OCULTA",
+      "body2": "310 3423909*3104967622*321 2485045*311 7227535*300 8668620"
     },
     "content2": {
       "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "body": "ARMENIA [DAR PAPAYA*BIANCO*LA FOGATA*BOLUDO PARRILLA*EL BARISTA CAFÉ*RUSTICANA TRATTORIA*CERON RESTAURANTE*GARDEN RESTO BAR*LA OFICINA*EL SILO*EL SOLAR*CURUBA RESTAURANTE*LA FINQUITA MONTAÑERA",
+      "body2": "3104019995*3176649868*(606) 7495501*3022088697*3142878574*3106029433*3207299780*3246615108*3054884458*3216746199*3178875241*3113529739*3104724970"
     }
   },
   {
@@ -2283,21 +2272,17 @@
     "descriptiveSummary": "Listado de restaurantes y bares en Calarcá y Filandia con información de contacto.",
     "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de Calarcá y Filandia. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "CALARCÁ",
+      "body": "POLLO A LA CARRETA*EL HATO DE EVELIO*EL CAFÉ DE CARLOS*SELVA NEGRA RESTAURANTE BAR*AMORE MIO, ARTE Y PARILLA*KABU RESTAURANTE BAR*EL ESCONDITE CAFÉ BAR*JUAN CHARRASQUEADO",
+      "body2": "3154108635*3113733849*3105915078*3206948608*3102219108*3153729271*3114256300*3187292882"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "FILANDIA",
+      "body": "HELENA ADENTRO*RESTAURANTE JOSÉ FERNANDO*LA REMESA*EL MULADAR ROOFTOP*TUK TUK RESTAURANTE BAR*SAN CIPRIANO PARILLA BAR*BAKURU*JUANCHERITO*MIRUM*MIL DE CILANTRO",
+      "body2": "315 6993130*3117933803*3243176015*3216291126*3242901680*3128717999*3128330507*3128680003*3173689592*3145976672"
     }
   },
   {
@@ -2308,21 +2293,17 @@
     "descriptiveSummary": "Listado de restaurantes y bares en La Virginia y Manizales con información de contacto.",
     "description": "En esta sección se presentan diversas opciones de restaurantes y bares en los municipios de La Virginia y Manizales. Se incluyen establecimientos con diferentes tipos de gastronomía, junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "LA VIRGINIA",
+      "body": "FAROLES PLAZA*PAISANITOS LA VIRGINIA*RESTAURANTE EL DORADO*RESTAURANTE DE PESCADO LAS DELICIAS*PESCA DEPORTIVA EL FINCO*CAFÉ EL VIEJO FAROL*EL GRAN PESCADO",
+      "body2": "350 5376230*300 5132119*312 8519411*320 5208416*320 3920705*311 7256468*311 6482217"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "MANIZALES",
+      "body": "LA AZOTE ROOFTOP*EDNIA ALTA GASTRONOMIA*VINO Y PIMIENTA*LA BEAUTIFUL COCINA INUSUAL*PATRIMONIO*BOZKO*DAUNTAUN*FOGON DE PALO*EL COLMADO COCINA",
+      "body2": "3223068358*3174323790*(606) 8865571*3123581855*3227921717*3145968830*3006047607*3207229043*3006553950"
     }
   },
   {
@@ -2333,21 +2314,17 @@
     "descriptiveSummary": "Listado de restaurantes y cafés en Manizales y Marsella con información de contacto.",
     "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Manizales y Marsella. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "MANIZALES",
+      "body": "CORTESANA*SOMOS ROSSO*LUGANO*A LA LEÑA*LA PASIÓN DEL CIELO*EMPIRIA*RESTAURANTE L’ANGEVIN",
+      "body2": "3022931882*3222881897*3126050467*(606) 8852832*(606) 8913550*3113615535*3136562417"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "MARSELLA",
+      "body": "CAFÉ LA MOLIENDA*PIPATON*LA ESTANCIA*LA FONDA PAISA*RESTAURANTE EL MIRADOR*CAFÉ DE LA ABUELA*CAFÉ DON DANILO*MALLA 18",
+      "body2": "3103999874*(606) 3685100*3122543794*311741354 4*3138463574*310 4640504*310 5008159*3104676711"
     }
   },
   {
@@ -2358,21 +2335,17 @@
     "descriptiveSummary": "Listado de restaurantes y cafés en el Parque Nacional Natural Los Nevados y Pereira con información de contacto.",
     "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el Parque Nacional Natural Los Nevados y Pereira. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "PARQUE NACIONAL NATURAL\nLOS NEVADOS",
+      "body": "PARADOR LA ESPERANZA*RESTAURANTE LAGUNA NEGRA",
+      "body2": "3216125517*3106104418"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "PEREIRA",
+      "body": "CASA AZUL BOUTIQUE CAFÉ*LATINO COCINA POPULAR*EMILIOS*LA RUANA*LA AZOTEA ROOFTOP*LOLA RESTO BAR*EL ARRIERO COLOMBIANO*LA LUCERNA*SKYLOUNGE RESTAURANTE & BAR*HACIENDA LA COLINA*LEÑOS Y PARRILLA*BANDIDOS*BIANCO*EL CANASTO CAMPESTRE*O’BRASILEIRO RODIZIO",
+      "body2": "312 2848290*311 3774180*(606) 3258322*312 6744650*311 2891737*305 2269622*6063376624*6063401432*(606) 3358650*300 3360797*(606) 3278551*(606) 3273318*315 4896293*312 5753792*3128391367"
     }
   },
   {
@@ -2383,23 +2356,19 @@
     "descriptiveSummary": "Listado de restaurantes y cafés en Pijao y Riosucio con información de contacto.",
     "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Pijao y Riosucio. Se incluyen diferentes opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "PIJAO",
+      "body": "BOGUEDITA PIJAO*EL MONTAÑERO*CAFÉ CONCORDE*TIENDA EL BUEN VIVIR*SANTA PASIÓN*BISTRO PARILLA PIJAO*LA CASA DE LOS RECUERDOS*CAFÉ LUQMAN PIJAO",
+      "body2": "-*350 4962252*321 4678556*321 7563741*318 7168951*311 5886006*311 6352069*311 3302969"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "RIOSUCIO",
+      "body": "CAFÉ ACHI CHAVARICAFÉ ACHI CHAVARI*DON DIABLO CAFÉ*DELEITA PARILLA BAR*NATIVO*COLLLAGE COCINA DE AUTOR*LA TRUCHERA RIO*SERRANA RESTAURANTE*LA POSADA DEL ARRIERO*TERRAZO*LA PARRILLA DE MI PUEBLO CAMPESTRE",
+      "body2": "3207129477*3215952672*3104227454*3213469004*3225683741*3193219467*3113825829*3188962111*3105348726*3122773566"
     }
-  },  
+  },
   {
     "page": 123,
     "name": "servicio-gastronomico-santuario-salamina",
@@ -2408,21 +2377,17 @@
     "descriptiveSummary": "Listado de restaurantes y cafés en Santuario y Salamina con información de contacto.",
     "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en los municipios de Santuario y Salamina. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
-      "title": "APÍA",
-      "body": "MISIA EMILIA HOSTAL*POSADA CORAZÓN DEL VIENTO*HOTEL ZULAYMA*JUNIOR PLAZA*GRANJA SAN ISIDRO PLAZA",
-      "body2": "3137174913*3137093286*(606) 3609615*3113909574*3183585874"
+      "title": "SANTUARIO",
+      "body": "ASOCAFÉ TATAMA*RESTAURANTE LOS BALCONES*EL DELEITE DE SANTUARIO*MIRADOR RESTAURANTE LA FLORESTA*PASSOPOLIS RESTAURANTE Y PESCA*PITE´TIERRA*TRUCHERA SAN RAFAEL*KLEBER RESTAURANTE BAR",
+      "body2": "3212484478*314 800 6219*315 2038669*310 4329520*313 7680836*314 8633624*317 3969568*320 7547819"
     },
     "content2": {
-      "title": "ARMENIA",
-      "body": "HOTEL HACIENDA BAMBUSA",
-      "body2": "3016398727"
-    },
-    "content3": {
-      "title": "CALARCÁ",
-      "body": "FINCA HOTEL SAN MIGUEL*FINCA EL EDEN QUINDIO*EL SENDERO DEL QUINDÍO*HOTEL TOLEDO PLAZA*ECOHOTEL ALMA*HOTEL HACIENDA COMBIA*FINCA LA CAMELIA*HACIENDA LA PRADERA*EL ENCANTO ECO GLAMPING*FINCA HOTEL LA RIVERA*FINCA HOTEL SOL & LUNA",
-      "body2": "3006633530*3188568986*3165338009*3207267591*3105673822*3216582577*3006127414*3145320611*3118253130*3217183193*3137321433"
+      "title": "SALAMINA",
+      "body": "DON FERMIN CAFÉ RESTAURANTE*LA LAR COCINA OCULTA*EL SOTANO*OSCAR PEREZ ESTUDIO DE COCINA*CALI CANTO CAMPESTRE*GRANJA Y VIVERO LA CABAÑA",
+      "body2": "3127717975*3216448454*3113682915*3146193809*3117885263*3216932636"
     }
   },
   {
@@ -2433,6 +2398,7 @@
     "descriptiveSummary": "Listado de restaurantes y cafés en Salento con información de contacto.",
     "description": "Esta sección presenta una lista de restaurantes y cafés disponibles en el municipio de Salento. Se incluyen diversas opciones gastronómicas junto con sus respectivos datos de contacto para facilitar la reserva o consulta.",
     "bgColor": "dark-pink",
+    "culture": "assets/logos/culturas/Culturas-Blanco.webp",
     "textColor": "yellow",
     "content": {
       "title": "SALENTO",

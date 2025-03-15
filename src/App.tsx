@@ -91,16 +91,18 @@ function App({ routes }: { routes: RouteInterface[] }) {
   }, []);
 
   return (
-    <TagsLayout route={{ name: 'app', title: 'App - Rodando por el eje cafetero' } as RouteFromJson}>
-      {scrollPosition > topContentTable && <BackButton />}
-      {routes.slice(0, visibleCount).map((route, index) => (
-          <div key={index}>{route.element}</div>
-        ))}
-      {routes.slice(visibleCount, routes.length).map((route, index) => (
-          <div key={`hidden-${index}`} className='absolute top-0 opacity-0 -z-10'>{route.element}</div>
-        ))}
-      {visibleCount < routes.length && <div ref={sentinelRef} style={{ height: '1px' }} />}
-    </TagsLayout>
+    <div className='relative w-full h-full max-h-screen overflow-x-hidden overflow-y-auto max-w-screen'>
+      <TagsLayout route={{ name: 'app', title: 'App - Rodando por el eje cafetero' } as RouteFromJson}>
+        {scrollPosition > topContentTable && <BackButton />}
+        {routes.slice(0, visibleCount).map((route, index) => (
+            <div key={index}>{route.element}</div>
+          ))}
+        {routes.slice(visibleCount, routes.length).map((route, index) => (
+            <div key={`hidden-${index}`} className='absolute top-0 w-full opacity-0 -z-10 max-w-screen'>{route.element}</div>
+          ))}
+        {visibleCount < routes.length && <div ref={sentinelRef} style={{ height: '1px' }} />}
+      </TagsLayout>
+    </div>
   );
 }
 

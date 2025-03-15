@@ -8,7 +8,7 @@ function ExperienciasLayout({ route }: BaseLayoutProps) {
         className={`flex justify-center items-center bg-${route?.bgColor} text-${route?.textColor} min-h-screen relative`}
       >
         <BaseLayout route={route} />
-        <div className={`mx-auto max-w-screen overflow-x-auto z-10`}>
+        <div className={`mx-auto overflow-x-auto z-10`}>
           <div className={`max-w-6xl p-5 md:p-10 min-w-4xl bg-${route?.bgColor}/50 rounded-lg`}>
             <h1 className={`text-4xl font-semibold uppercase mb-8`}>{route?.title}</h1>
             {route?.content?.title && route?.content?.title?.split('*').map((column) => (<table className="w-full font-light text-white">

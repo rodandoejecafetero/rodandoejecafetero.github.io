@@ -2,6 +2,7 @@ export default {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   safelist: [
     'bg-yellow',
+    'bg-yellow/50',
     'text-yellow',
     'bg-purple',
     'bg-purple/50',
