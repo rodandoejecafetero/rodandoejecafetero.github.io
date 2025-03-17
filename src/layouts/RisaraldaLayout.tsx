@@ -19,8 +19,8 @@ function RisaraldaLayout({ route }: BaseLayoutProps) {
             <div className='relative flex flex-col py-10 mx-auto max-w-7xl md:py-0'>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto mb-4`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5 relative'>
-                  <img src={`${DEFAULT_URL}${route?.img}`} className={`bottom-0 right-0 flex object-contain mr-1 ${route?.img2 ? 'h-36' : 'h-56'}`}/>
-                  {route?.img2 && <img src={`${DEFAULT_URL}${route?.img2}`} className='bottom-0 right-0 flex object-contain h-36'/>}
+                  <img src={`${DEFAULT_URL}${route?.img}`} className={`bottom-0 right-0 flex object-contain mr-1 ${route?.img2 ? 'h-36' : 'h-56'}`} loading='lazy' />
+                  {route?.img2 && <img src={`${DEFAULT_URL}${route?.img2}`} className='bottom-0 right-0 flex object-contain h-36' loading='lazy' />}
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>
                   <div className={`bg-${route?.bgColor}/50 rounded-lg p-4 h-fit`}>
@@ -34,7 +34,7 @@ function RisaraldaLayout({ route }: BaseLayoutProps) {
               </div>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto mb-4`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5 relative'>
-                  <img src={`${DEFAULT_URL}${route?.img3}`} className={`bottom-0 right-0 flex object-contain mr-1 ${route?.img4 ? 'h-36' : 'h-56'}`}/>
+                  <img src={`${DEFAULT_URL}${route?.img3}`} className={`bottom-0 right-0 flex object-contain mr-1 ${route?.img4 ? 'h-36' : 'h-56'}`} loading='lazy' />
                   {route?.img4 && <img src={`${DEFAULT_URL}${route?.img4}`} className='bottom-0 right-0 flex object-contain h-36'/>}
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>
@@ -46,7 +46,7 @@ function RisaraldaLayout({ route }: BaseLayoutProps) {
               </div>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5'>
-                  <img src={`${DEFAULT_URL}${route?.img5}`} className='object-contain h-56'/>
+                  <img src={`${DEFAULT_URL}${route?.img5}`} className='object-contain h-56' loading='lazy' />
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>
                   <div className={`bg-${route?.bgColor}/50 rounded-lg p-4 h-fit`}>

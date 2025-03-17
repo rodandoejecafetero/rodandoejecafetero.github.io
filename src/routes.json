@@ -7,7 +7,8 @@
     "descriptiveSummary": "Guía de turismo cinematográfico y audiovisual por la región cafetera, con elementos gráficos como el logotipo, texto decorativo, símbolos indígenas y una ilustración de carretera.",
     "description": "Descubre la portada de la guía 'Rodando por el Eje Cafetero', una introducción visual al turismo cinematográfico en Colombia. Explora los símbolos indígenas, el logotipo distintivo y la riqueza cultural del Eje Cafetero.",
     "img": "assets/logos/rodando-por-el-eje-main.webp",
-    "bgColor": "yellow"
+    "bgColor": "yellow",
+    "loading": "eager"
   },
   {
     "name": "portada2",
@@ -16,7 +17,8 @@
     "descriptiveSummary": "Guía de turismo cinematográfico y audiovisual por la región cafetera, con elementos gráficos como el logotipo, texto decorativo, símbolos indígenas y una ilustración de carretera.",
     "description": "Descubre la portada de la guía 'Rodando por el Eje Cafetero', una introducción visual al turismo cinematográfico en Colombia. Explora los símbolos indígenas, el logotipo distintivo y la riqueza cultural del Eje Cafetero.",
     "img": "assets/logos/culturas/Culturas-morado.webp",
-    "bgColor": "yellow"
+    "bgColor": "yellow",
+    "loading": "eager"
   },
   {
     "page": 2,

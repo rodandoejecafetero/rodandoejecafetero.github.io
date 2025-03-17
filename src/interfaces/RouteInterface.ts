@@ -59,6 +59,7 @@ interface RouteFromJson {
   rightIcon?: string;
   topIcon?: string;
   body?: string;
+  loading?: string;
   meta?: MetaTag[];
   link?: LinkTag[];
 }

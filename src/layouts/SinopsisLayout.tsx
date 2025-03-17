@@ -13,7 +13,7 @@ function SinopsisLayout({ route }: BaseLayoutProps) {
       >
         <BaseLayout route={route} />
         <div className={`flex flex-col justify-center w-full p-4 md:w-2/5 md:min-h-screen bg-${route?.bgColor2}`}>
-          <img src={`${DEFAULT_URL}${route?.img}`} alt={route?.descriptiveSummary} className='object-contain w-full max-w-md mx-auto my-8' />
+          <img src={`${DEFAULT_URL}${route?.img}`} alt={route?.descriptiveSummary} className='object-contain w-full max-w-md mx-auto my-8' loading='lazy' />
           <p style={{ whiteSpace: 'pre-line' }} className={`text-${route?.textColor2} font-light max-w-md mx-auto`} dangerouslySetInnerHTML={{ __html: route?.body ?? '' }} >
           </p>
         </div>

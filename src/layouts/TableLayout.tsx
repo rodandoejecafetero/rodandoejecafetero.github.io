@@ -16,14 +16,14 @@ function TableLayout({ route }: BaseLayoutProps) {
         </div>
         <div className="z-10 w-full max-w-6xl mx-auto my-auto md:w-2/5">
             <div className={`text-sm flex md:-ml-30`}>
-              <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain h-56'/>
+              <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain h-56' loading='eager' />
               <div className='px-4'>
                 <h2 className={`text-${route?.content?.color}`}>{route?.content?.title2}</h2>
                 <p className={`text-${route?.content?.color2} font-light`}>{route?.content?.body}</p>
               </div>
             </div>
             <div className={`text-sm flex md:-ml-30 mt-16`}>
-              <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain h-56'/>
+              <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain h-56' loading='eager' />
               <div className='px-4'>
                 <h2 className={`text-${route?.content?.color}`}>{route?.content?.title3}</h2>
                 <p className={`text-${route?.content?.color2} font-light`}>{route?.content?.body2}</p>
