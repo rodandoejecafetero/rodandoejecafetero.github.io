@@ -23,7 +23,7 @@ export default function TablaContenidos({route}: BaseLayoutProps) {
                 <h2 className="text-4xl font-bold uppercase sm:mt-32">TABLA DE CONTENIDO</h2>
             </div>
             <div className='mt-auto'>
-                <img src={`${DEFAULT_URL}assets/logos/culturas/culturas-decorator-green.webp`} alt="Decorator" loading='lazy' />
+                <img src={`${DEFAULT_URL}assets/logos/culturas/culturas-decorator-green.webp`} alt="Decorator" />
             </div>
         </div>
         <div className="grid grid-cols-1 gap-8 mt-16 sm:grid-cols-2 md:grid-cols-3">

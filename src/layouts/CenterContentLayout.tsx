@@ -16,7 +16,7 @@ function CenterContentLayout({ route }: BaseLayoutProps) {
             <div className="z-10 w-full mx-auto my-auto">
                 <div className={`p-10 text-sm text-left text-${route?.textColor}`}>
                     <div className={`rounded-4xl bg-${route?.bgColor}/50 font-bold`}>
-                        {route?.topIcon && <img src={`${DEFAULT_URL}${route.topIcon}`} alt='Icono superior' className='w-24 mx-auto mb-8 max-h-32' loading='lazy' />}
+                        {route?.topIcon && <img src={`${DEFAULT_URL}${route.topIcon}`} alt='Icono superior' className='w-24 mx-auto mb-8 max-h-32' />}
                         <h1 className='mb-8 text-4xl text-center uppercase'>{route?.title}</h1>
                         {route?.subtitle && <h2 className="mb-8 text-xl text-center">{route?.subtitle}</h2>}
                         {route?.content?.component && React.cloneElement(

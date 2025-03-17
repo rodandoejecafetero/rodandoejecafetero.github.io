@@ -14,7 +14,7 @@ function LeftLateralImageLayout({ route }: BaseLayoutProps) {
         <BaseLayout route={route} />
         <div className='flex flex-wrap max-w-7xl'>
           <div className="flex w-full h-[34vh] overflow-hidden md:w-3/5 md:h-[100vh] mt-36 md:mt-0">
-            <img src={`${DEFAULT_URL}${route?.img}`} alt={route?.descriptiveSummary} className='object-contain w-full max-w-md mx-auto' loading='lazy' />
+            <img src={`${DEFAULT_URL}${route?.img}`} alt={route?.descriptiveSummary} className='object-contain w-full max-w-md mx-auto' />
           </div>
           <div className="z-10 w-full max-w-6xl mx-auto my-auto md:w-2/5">
               <div className={`p-10 text-sm text-left text-${route?.textColor}`}>

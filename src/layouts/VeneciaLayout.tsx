@@ -19,10 +19,10 @@ function VeneciaLayout({ route }: BaseLayoutProps) {
             <div className='relative flex flex-col py-10 mx-auto max-w-7xl md:py-0'>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto mb-4`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5'>
-                  <img src={`${DEFAULT_URL}${route?.img2}`} className='object-contain h-56' loading='lazy' />
+                  <img src={`${DEFAULT_URL}${route?.img2}`} className='object-contain h-56' />
                 </div>
                 <div className={`w-[80vw] sm:w-2/5 px-4`}>
-                  <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain h-56' loading='lazy' />
+                  <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain h-56' />
                   <div className={`bg-${route?.bgColor}/50 rounded-lg p-4 h-fit`}>
                     <h2 className={`text-${route?.content?.color}`}>{route?.content?.title2}</h2>
                     <p className={`text-${route?.content?.color2} font-light`}>{route?.content?.body}</p>
@@ -34,7 +34,7 @@ function VeneciaLayout({ route }: BaseLayoutProps) {
               </div>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto mb-4`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5 relative'>
-                  <img src={`${DEFAULT_URL}${route?.img3}`} className='bottom-0 right-0 flex object-contain w-56 sm:absolute' loading='lazy' />
+                  <img src={`${DEFAULT_URL}${route?.img3}`} className='bottom-0 right-0 flex object-contain w-56 sm:absolute' />
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>
                   <div className={`bg-${route?.bgColor}/50 rounded-lg p-4 h-fit`}>
@@ -45,7 +45,7 @@ function VeneciaLayout({ route }: BaseLayoutProps) {
               </div>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5'>
-                  <img src={`${DEFAULT_URL}${route?.img4}`} className='object-contain h-56' loading='lazy' />
+                  <img src={`${DEFAULT_URL}${route?.img4}`} className='object-contain h-56' />
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>
                   <div className={`bg-${route?.bgColor}/50 rounded-lg p-4 h-fit`}>

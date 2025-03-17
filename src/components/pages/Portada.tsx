@@ -7,7 +7,7 @@ export default function Portada() {
         src={`${DEFAULT_URL}assets/logos/rodando-por-el-eje-main.webp`}
         alt='Rodando por el eje cafetero'
         className="w-full max-h-[80vh] max-w-7xl object-contain"
-        loading='lazy'
+       
       />
     </div>
   );

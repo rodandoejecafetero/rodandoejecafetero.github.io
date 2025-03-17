@@ -10,7 +10,7 @@ export default function BannerLayout({route}: BaseLayoutProps) {
         src={`${DEFAULT_URL}${route?.img}`}
         alt={route?.descriptiveSummary}
         className="object-cover w-full h-full"
-        loading='lazy'
+       
         />
     </div>
   );

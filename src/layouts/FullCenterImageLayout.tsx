@@ -11,7 +11,7 @@ function FullCenterImageLayout({route}: BaseLayoutProps) {
         src={`${DEFAULT_URL}${route?.img}`}
         alt={route?.descriptiveSummary}
         className="w-full max-h-[80vh] max-w-7xl object-contain z-10"
-        loading='lazy'
+       
       />
     </div>
   );

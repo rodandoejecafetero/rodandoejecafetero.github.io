@@ -12,7 +12,6 @@ function CenterImageLayout({route}: BaseLayoutProps) {
           src={`${DEFAULT_URL}${route?.img}`}
           alt={route?.descriptiveSummary}
           className="w-full max-h-[80vh] object-contain z-10 max-w-fit"
-          loading={route?.loading && route?.loading === 'eager' ? 'eager' : 'lazy'}
         />
       </div>
     </div>
