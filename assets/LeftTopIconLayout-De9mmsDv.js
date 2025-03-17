@@ -1,1 +1,0 @@
-import{j as e}from"./index-B7gQ6dmZ.js";function l({children:t,id:s,color:r="yellow",width:a="max-w-7xl"}){return e.jsx("div",{id:s,className:`flex min-h-screen w-full relative justify-center items-center bg-${r}`,children:e.jsx("div",{className:`mx-auto ${a}`,children:t})})}export{l as L};
