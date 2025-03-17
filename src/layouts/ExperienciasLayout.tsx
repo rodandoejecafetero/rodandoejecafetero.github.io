@@ -8,14 +8,14 @@ function ExperienciasLayout({ route }: BaseLayoutProps) {
         className={`flex justify-center items-center bg-${route?.bgColor} text-${route?.textColor} min-h-screen relative`}
       >
         <BaseLayout route={route} />
-        <div className='flex flex-col w-fit h-fit'>
+        <div className='flex flex-col py-10 w-fit h-fit'>
           <h1 className={`text-4xl font-semibold uppercase mb-8 px-5`}>{route?.title}</h1>
           <div className={`mx-auto max-w-screen overflow-x-auto z-10`}>
             <div className={`max-w-6xl p-5 md:p-10 min-w-4xl bg-${route?.bgColor}/50 rounded-lg`}>
               {route?.content?.title && route?.content?.title?.split('*').map((column, index) => (<table key={`exp-table2-${index}`} className="w-full font-light text-white">
                 <thead>
                     <tr className={`text-left border-b border-yellow font-semibold`}>
-                        <th className="p-3 ">NOMBRE</th>
+                        <th className="p-3 ">MUNICIPIO</th>
                         <th className="p-3 ">TIPO DE EXPERIENCIA</th>
                         <th className="p-3 ">NOMBRE</th>
                         <th className="p-3 ">CONTACTO</th>
@@ -29,14 +29,14 @@ function ExperienciasLayout({ route }: BaseLayoutProps) {
                     </tr>
                     {route?.content?.body?.split('**').slice(1).map((_row, index2) => (<tr key={`exp-table-row-${index2}`} className="">
                         <td className="p-3"></td>
-                        {route?.content?.body?.split('**').slice(1)[index].split('*').map((row2, index2) => (<td key={`exp-table-col2-${index2}`} className="p-3 border-b border-white">{row2}</td>))}
+                        {route?.content?.body?.split('**').slice(1)[index2].split('*').map((row2, index3) => (<td key={`exp-table-col2-${index3}`} className="p-3 border-b border-white">{row2}</td>))}
                     </tr>))}
                 </tbody>
               </table>))}
               {route?.content2?.title && route?.content2?.title?.split('*').map((column, index) => (<table key={`exp-table2-${index}`} className="w-full font-light text-white">
                 <thead>
                     <tr className={`text-left border-b border-yellow font-semibold`}>
-                        <th className="p-3 ">NOMBRE</th>
+                        <th className="p-3 ">MUNICIPIO</th>
                         <th className="p-3 ">TIPO DE EXPERIENCIA</th>
                         <th className="p-3 ">NOMBRE</th>
                         <th className="p-3 ">CONTACTO</th>
@@ -50,7 +50,7 @@ function ExperienciasLayout({ route }: BaseLayoutProps) {
                     </tr>
                     {route?.content2?.body?.split('**').slice(1).map((_row, index2) => (<tr key={`exp-table2-row-${index2}`} className="">
                         <td className="p-3"></td>
-                        {route?.content2?.body?.split('**').slice(1)[index].split('*').map((row2, index2) => (<td key={`exp-table2-col2-${index2}`} className="p-3 border-b border-white">{row2}</td>))}
+                        {route?.content2?.body?.split('**').slice(1)[index2].split('*').map((row2, index3) => (<td key={`exp-table2-col2-${index3}`} className="p-3 border-b border-white">{row2}</td>))}
                     </tr>))}
                 </tbody>
               </table>))}
