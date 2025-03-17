@@ -17,8 +17,8 @@ export default function Playlist({route}: BaseLayoutProps) {
         </div>
         <div className="w-full md:w-1/2 md:h-[100vh] bg-purple p-10 md:p-0">
             <div className='flex flex-col items-center justify-center w-full h-full px-4'>
-                <img src={`${DEFAULT_URL}assets/logos/rodando-por-el-eje-purple-short.webp`} alt="Logo" className='w-full max-w-72' loading='lazy'/>
-                <a href="https://open.spotify.com/playlist/6oJEGmeordhwddO4uHnxXU?si=R5_YOYp-RtSPCI8THF9LRg" target="_blank"><img src={`${DEFAULT_URL}assets/images/8-rodando-por-el-eje-spotify.webp`} alt="Spotify" className='w-full max-w-72'/></a>
+                <img src={`${DEFAULT_URL}assets/logos/rodando-por-el-eje-purple-short.webp`} alt={route?.descriptiveSummary} className='w-full max-w-72' loading='lazy'/>
+                <a href="https://open.spotify.com/playlist/6oJEGmeordhwddO4uHnxXU?si=R5_YOYp-RtSPCI8THF9LRg" target="_blank"><img src={`${DEFAULT_URL}assets/images/8-rodando-por-el-eje-spotify.webp`} alt={route?.descriptiveSummary} className='w-full max-w-72'/></a>
             </div>
         </div> 
       </div>
