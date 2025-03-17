@@ -29,7 +29,7 @@ function TagsLayout({ route, children }: TagsLayoutProps) {
             <link key={index} rel={tag.rel} href={tag.href} />
           ))}
         </>}
-        <div id={route?.name} className='relative w-full h-full max-h-screen overflow-x-hidden overflow-y-auto max-w-screen'>{children}</div>
+        <div id={route?.name} className='relative w-full h-full max-h-screen overflow-x-hidden max-w-screen'>{children}</div>
       </>
     );
   };

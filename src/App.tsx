@@ -1,6 +1,7 @@
 import React, { useCallback, useRef, useState } from 'react';
 import { ListOnScrollProps, FixedSizeList } from 'react-window';
-import { RouteInterface } from './interfaces/RouteInterface';
+import { RouteFromJson, RouteInterface } from './interfaces/RouteInterface';
+import TagsLayout from './layouts/TagsLayout';
 
 function getWindowDimensions() {
   const { innerWidth: width, innerHeight: height } = window;
@@ -57,7 +58,7 @@ function App({ routes }: AppProps) {
   }
 
   return (
-    <div className='relative'>
+    <TagsLayout route={{ name: 'app', title: 'App - Rodando por el eje cafetero' } as RouteFromJson}>
       {showTableOfContents && <a className="fixed z-20 p-2 rounded-lg cursor-pointer top-2 right-5 bg-white/50 hover:scale-105" href='#tabla-de-contenido'>Volver</a>}
       <FixedSizeList
         height={height} // Altura del contenedor de la lista
@@ -70,7 +71,7 @@ function App({ routes }: AppProps) {
       >
         {Row}
       </FixedSizeList>
-    </div>
+    </TagsLayout>
   );
 }
 
