@@ -28,7 +28,7 @@ export default function TablaContenidos({route}: BaseLayoutProps) {
         </div>
         <div className="grid grid-cols-1 gap-8 mt-16 sm:grid-cols-2 md:grid-cols-3">
             <div className="w-full">
-                <a href="#agradecimientos" className="font-semibold uppercase" onClick={(e) => handleClick('agradecimientos', e)}>AGRADECIMIENTOS</a>
+                <a href="#agradecimientos" className="font-semibold uppercase">AGRADECIMIENTOS</a>
                 <hr className="my-4 border-purple" />
                 <a href="#prologo" className="font-semibold uppercase" onClick={(e) => handleClick('prologo', e)}>PRÓLOGO</a>
                 <hr className="my-4 border-purple" />
