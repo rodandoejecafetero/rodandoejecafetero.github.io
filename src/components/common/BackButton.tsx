@@ -1,7 +1,7 @@
-import { DEFAULT_URL } from "../../Constant";
+import { DEFAULT_PATH, DEFAULT_URL } from "../../Constant";
 
 function BackButton({ section }: { section?: string }) {
-  const onSubRoute = window.location.pathname !== "/";
+  const onSubRoute = window.location.pathname !== DEFAULT_PATH;
   const handleClick = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     if (onSubRoute) {

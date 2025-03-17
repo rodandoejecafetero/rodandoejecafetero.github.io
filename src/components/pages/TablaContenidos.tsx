@@ -1,12 +1,17 @@
 import LeftTopIconLayout from '../../layouts/LeftTopIconLayout';
-import { DEFAULT_URL } from '../../Constant';
+import { DEFAULT_PATH, DEFAULT_URL } from '../../Constant';
 import BaseLayout from '../../layouts/BaseLayout';
 import { BaseLayoutProps } from '../../interfaces/LayoutInterface';
 
 export default function TablaContenidos({route}: BaseLayoutProps) {
   const handleClick = (section: string, e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();
-    window.dispatchEvent(new CustomEvent('sectionChange', { detail: { section } }));
+    const onSubRoute = window.location.pathname !== DEFAULT_PATH;
+    if (onSubRoute) {
+      window.location.href = section ? DEFAULT_URL + "#" + section : DEFAULT_URL + "#tabla-de-contenido";
+    } else {
+      window.dispatchEvent(new CustomEvent('sectionChange', { detail: { section: section ?? "tabla-de-contenido" } }));
+    }
   };
 
   return (

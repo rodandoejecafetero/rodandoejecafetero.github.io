@@ -5,7 +5,7 @@ import BackButton from './components/common/BackButton';
 
 function App({ routes }: { routes: RouteInterface[] }) {
   // Estado para controlar cuántos componentes (rutas) se renderizarán inicialmente
-  const [visibleCount, setVisibleCount] = useState<number>(3); // por ejemplo, 3 componentes
+  const [visibleCount, setVisibleCount] = useState<number>(4); // por ejemplo, 3 componentes
   const sentinelRef = useRef<HTMLDivElement>(null);
   const [scrollPosition, setScrollPosition] = useState<number>(0);
   // Calcula la posición de la tabla de contenido al renderizar
@@ -18,14 +18,15 @@ function App({ routes }: { routes: RouteInterface[] }) {
       ? tablaElement.getBoundingClientRect().top + tablaElement.offsetHeight 
       : 0;
     setTopContentTable(top);
-
+    const app = document.getElementById('app');
     // Listener para actualizar la posición de scroll en el estado
-    const handleScroll = () => {
-      setScrollPosition(window.pageYOffset || document.documentElement.scrollTop);
+    const handleScroll = (e: Event) => {
+      const target = e.target as HTMLElement;
+      setScrollPosition(target.scrollTop);
     };
-
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    if (!app) return;
+    app.addEventListener('scroll', handleScroll);
+    return () => app.removeEventListener('scroll', handleScroll);
   }, []);
 
   // Efecto para detectar el sentinel (último elemento) y cargar más rutas.
@@ -91,18 +92,16 @@ function App({ routes }: { routes: RouteInterface[] }) {
   }, []);
 
   return (
-    <div className='relative w-full h-full max-h-screen overflow-x-hidden overflow-y-auto max-w-screen'>
-      <TagsLayout route={{ name: 'app', title: 'App - Rodando por el eje cafetero' } as RouteFromJson}>
-        {scrollPosition > topContentTable && <BackButton />}
-        {routes.slice(0, visibleCount).map((route, index) => (
-            <div key={index}>{route.element}</div>
-          ))}
-        {routes.slice(visibleCount, routes.length).map((route, index) => (
-            <div key={`hidden-${index}`} className='absolute top-0 w-full opacity-0 -z-10 max-w-screen'>{route.element}</div>
-          ))}
-        {visibleCount < routes.length && <div ref={sentinelRef} style={{ height: '1px' }} />}
-      </TagsLayout>
-    </div>
+    <TagsLayout route={{ name: 'app', title: 'App - Rodando por el eje cafetero' } as RouteFromJson}>
+      {scrollPosition > topContentTable && <BackButton />}
+      {routes.slice(0, visibleCount).map((route, index) => (
+          <div key={index}>{route.element}</div>
+        ))}
+      {routes.slice(visibleCount, routes.length).map((route, index) => (
+          <div key={`hidden-${index}`} className='absolute top-0 w-full opacity-0 -z-10 max-w-screen'>{route.element}</div>
+        ))}
+      {visibleCount < routes.length && <div ref={sentinelRef} style={{ height: '1px' }} />}
+    </TagsLayout>
   );
 }
 
