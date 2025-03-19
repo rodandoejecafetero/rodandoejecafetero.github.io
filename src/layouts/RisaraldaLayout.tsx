@@ -50,7 +50,7 @@ function RisaraldaLayout({ route }: BaseLayoutProps) {
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>
                   <div className={`bg-${route?.bgColor}/50 rounded-lg p-4 h-fit`}>
-                    <h2 className={`text-${route?.content?.color}`}>{route?.content?.title3}</h2>
+                    <h2 className={`text-${route?.content?.color}`}>{route?.content?.title4}</h2>
                     <p className={`text-${route?.content?.color2} font-light`}>{route?.content?.body2}</p>
                   </div>
                 </div>

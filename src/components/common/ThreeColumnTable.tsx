@@ -9,7 +9,7 @@ function ThreeColumnTable({ route }: BaseLayoutProps) {
         <>
             <h3 className={`text-sm mb-4 ${route?.content?.uppercase ? 'uppercase' : ''} text-${route?.content?.color}`}>{route?.content?.title}</h3>
             {route?.content?.lineColor && <hr className={`border-${route?.content?.lineColor}`} />}
-            <div className="grid w-full grid-cols-1 gap-4 mt-2 md:grid-cols-3">
+            <div className="grid w-full grid-cols-1 mt-2 gap-x-4 md:grid-cols-3">
                 <div className="grid-cols-1">
                     {route?.content?.firstColumn?.map((column, index) => {
                         return column.lineColor ? <div key={index}>

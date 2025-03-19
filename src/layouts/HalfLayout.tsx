@@ -13,7 +13,7 @@ function HalfLayout({ route }: BaseLayoutProps) {
           <img src={`${DEFAULT_URL}${route?.img}`} alt={route?.descriptiveSummary} className='w-full max-w-xl' />
         </div>
         <div className={`flex items-center justify-center w-full md:w-1/2 py-36 px-5 bg-${route?.bgColor2}`}>
-          <h1 className={`text-6xl text-${route?.textColor} uppercase`}>{route?.title}</h1>
+          <h1 className={`text-6xl/tight text-${route?.textColor} uppercase`}>{route?.title}</h1>
         </div>
       </div>
     );
