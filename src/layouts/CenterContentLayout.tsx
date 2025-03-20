@@ -12,9 +12,9 @@ function CenterContentLayout({ route }: BaseLayoutProps) {
         className={`flex flex-wrap bg-${route?.bgColor} min-h-screen relative`}
       >
         <BaseLayout route={route} />
-        <div className="flex mx-auto my-auto max-w-7xl">
+        <div className="flex w-full mx-auto my-auto max-w-7xl">
             <div className="z-10 w-full mx-auto my-auto">
-                <div className={`p-10 text-sm text-left text-${route?.textColor}`}>
+                <div className={`py-10 px-5 text-sm text-left text-${route?.textColor}`}>
                     <div className={`rounded-4xl bg-${route?.bgColor}/50 font-bold`}>
                         {route?.topIcon && <img src={`${DEFAULT_URL}${route.topIcon}`} alt={route?.descriptiveSummary} className='w-24 mx-auto mb-8 max-h-32' />}
                         <h1 className='mb-8 text-4xl text-center uppercase'>{route?.title}</h1>

@@ -17,16 +17,16 @@ export default function TablaContenidos({route}: BaseLayoutProps) {
   return (
     <LeftTopIconLayout id='tabla-de-contenido' color='green'>
       <BaseLayout route={route} />
-      <div className="flex flex-col w-full h-full px-10 pt-24 pb-10 text-sm text-left text-purple">
+      <div className="flex flex-col w-full h-full px-5 py-10 text-sm text-left text-purple">
         <div className='flex flex-wrap justify-between w-full'>
             <div>
-                <h2 className="text-4xl font-bold uppercase sm:mt-32">TABLA DE CONTENIDO</h2>
+                <h2 className="text-4xl font-bold uppercase">TABLA DE CONTENIDO</h2>
             </div>
-            <div className='mt-auto'>
+            <div>
                 <img src={`${DEFAULT_URL}assets/logos/culturas/culturas-decorator-green.webp`} alt={route?.descriptiveSummary} />
             </div>
         </div>
-        <div className="grid grid-cols-1 gap-8 mt-16 sm:grid-cols-2 md:grid-cols-3">
+        <div className="grid grid-cols-1 mt-10 gap-x-8 md:grid-cols-3">
             <div className="w-full">
                 <a href="#agradecimientos" className="font-semibold uppercase" onClick={(e) => handleClick('agradecimientos', e)}>AGRADECIMIENTOS</a>
                 <hr className="my-4 border-purple" />

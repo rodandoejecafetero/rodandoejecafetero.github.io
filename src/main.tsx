@@ -24,7 +24,6 @@ const CenterContentLayout = lazy(() => import('./layouts/CenterContentLayout.tsx
 const LeftLateralImageLayout = lazy(() => import('./layouts/LeftLateralImageLayout.tsx'));
 const SinopsisLayout = lazy(() => import('./layouts/SinopsisLayout.tsx'));
 const LeftPrimaryBannerLayout = lazy(() => import('./layouts/LeftPrimaryBannerLayout.tsx'));
-const RightLateralBannerLayout = lazy(() => import('./layouts/RightLateralBannerLayout.tsx'));
 const RightPrimaryBannerLayout = lazy(() => import('./layouts/RightPrimaryBannerLayout.tsx'));
 const GuiaTurismoLayout = lazy(() => import('./layouts/GuiaTurismoLayout.tsx'));
 const PijaoLayout = lazy(() => import('./layouts/PijaoLayout.tsx'));
@@ -49,7 +48,6 @@ const componentMap: { [key: string]: React.ReactElement<BaseLayoutProps> } = {
   LeftLateralImageLayout: <LeftLateralImageLayout />,
   SinopsisLayout: <SinopsisLayout />,
   LeftPrimaryBannerLayout: <LeftPrimaryBannerLayout />,
-  RightLateralBannerLayout: <RightLateralBannerLayout />,
   RightPrimaryBannerLayout: <RightPrimaryBannerLayout />,
   PijaoLayout: <PijaoLayout />,
   GuiaTurismoLayout: <GuiaTurismoLayout />,

@@ -19,7 +19,10 @@ function DestacadasLayout({ route }: BaseLayoutProps) {
             <div className='relative flex flex-col py-10 mx-auto max-w-7xl md:py-0'>
               <div className={`text-sm flex flex-col sm:flex-row w-fit mx-auto`}>
                 <div className='flex justify-center sm:justify-end w-[80vw] sm:w-3/5'>
-                  <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain mr-4 h-42' alt={route?.descriptiveSummary} />
+                  <div>
+                    <img src={`${DEFAULT_URL}${route?.img}`} className='object-contain mr-4 h-42' alt={route?.descriptiveSummary} />
+                    {route?.content?.title4 && <p className='text-white whitespace-pre-line text-wrap'>{route?.content?.title4}</p>}
+                  </div>
                   <img src={`${DEFAULT_URL}${route?.img2}`} className='object-contain h-56' alt={route?.descriptiveSummary} />
                 </div>
                 <div className='w-[80vw] sm:w-2/5 px-4'>

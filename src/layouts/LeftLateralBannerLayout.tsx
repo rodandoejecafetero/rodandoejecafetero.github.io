@@ -12,15 +12,15 @@ function LeftLateralBannerLayout({ route }: BaseLayoutProps) {
         className={`flex flex-wrap bg-${route?.bgColor} min-h-screen relative`}
       >
         <BaseLayout route={route} />
-        <div className="flex w-full h-[34vh] overflow-hidden md:w-2/5 md:h-[100vh]"
+        <div className="flex w-full h-[34vh] overflow-hidden md:w-2/5 md:min-h-screen md:h-auto"
           style={{
             backgroundImage: `url(${`${DEFAULT_URL}${route?.img}`})`,
             backgroundSize: 'cover',
-            backgroundPosition: 'top left',
+            backgroundPosition: 'center',
           }}>
         </div>
-        <div className="z-10 w-full max-w-6xl mx-auto my-auto md:w-3/5">
-            <div className={`p-10 text-sm text-left text-${route?.textColor}`}>
+        <div className="z-10 w-full max-w-6xl px-5 py-10 mx-auto my-auto md:w-3/5">
+            <div className={`text-sm text-left text-${route?.textColor}`}>
                 <div className={`rounded-4xl bg-${route?.bgColor}/50`}>
                     <h2 className='text-4xl font-bold uppercase'>{route?.title}</h2>
                     <p className="mt-5">{route?.subtitle}</p>

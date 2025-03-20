@@ -504,7 +504,7 @@
     "bgColor2": "yellow",
     "textColor": "purple",
     "img": "assets/images/16-experiencias-destacadas.webp",
-    "img2": "assets/images/16-experiencias-destacadas.webp",
+    "img2": "assets/images/16-experiencias-destacadas-2.webp",
     "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "Experiencias\nDestacadas en\nPijao:",
@@ -704,7 +704,7 @@
     "title": "Sinopsis - Encanto",
     "descriptiveSummary": "Resumen de la historia de 'Encanto', la película de Disney inspirada en Colombia.",
     "description": "Descubre la historia de 'Encanto', donde Mirabel Madrigal intenta salvar la magia de su hogar en una versión mágica del Eje Cafetero colombiano.",
-    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Animación / Comedia / Musical / Fantasía / Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 109 mins\n<b>Dirección:</b> Byron Howard / Jared Bush\n<b>Producción:</b>  Clark Spencer / Yvett Merino Flores\n<b>Empresas productoras:</b> Walt Disney Pictures / Walt Disney Animation Studios \n<b>Dirección de fotografía:</b> Alessandro Jacomini y Daniel Rice (iluminación) / Nathan Detroit Warner (diseño)\n<b>Guion:</b> Jared Bush / Carise Castro Smith\n<b>Dirección de Arte:</b> Bill Schwab (personajes) - Camille Andre y Mehrdad Isvandi (ambientación)\n<b>Montaje:</b> Jeremy Milton\n<b>Diseño sonoro:</b> Nia Hansen\n<b>Música:</b> Lin-Manuel Miranda (canciones) / Germaine Franco",
+    "body": "<b>Año:</b> 2021\n<b>Categoría:</b> Animación / Comedia / Musical / Fantasía / Drama\n<b>Idioma original:</b> Español - Inglés\n<b>Duración:</b> 109 mins\n<b>Dirección:</b> Byron Howard / Jared Bush\n<b>Producción:</b>  Clark Spencer / Yvett Merino Flores\n<b>Empresas productoras:</b> Walt Disney Pictures / Walt Disney Animation Studios \n<b>Dirección de fotografía:</b> Alessandro Jacomini y Daniel Rice (iluminación) / Nathan Detroit Warner (diseño)\n<b>Guion:</b> Jared Bush / Carise Castro Smith\n<b>Dirección de Arte:</b> Bill Schwab (personajes) - Camille Andre y Mehrdad Isvandi (ambientación)\n<b>Montaje:</b> Jeremy Milton\n<b>Diseño sonoro:</b> Nia Hansen\n<b>Música:</b> Lin-Manuel Miranda (canciones) / Germaine Franco (partitura)",
     "bgColor": "yellow",
     "textColor": "dark-green",
     "textColor2": "white",
@@ -789,8 +789,8 @@
     "bgColor": "dark-green",
     "bgColor2": "yellow",
     "textColor": "dark-green",
-    "img": "assets/images/32-hacienda-bambusa.webp",
-    "img2": "assets/images/32-hotel-shalom-la-dorada.webp",
+    "img": "assets/images/32-hotel-shalom-la-dorada.webp",
+    "img2": "assets/images/32-hacienda-bambusa.webp",
     "culture": "assets/logos/culturas/Culturas-morado.webp",
     "content": {
       "title": "EXPERIENCIAS\nDESTACADAS EN\nQUINDÍO:",
@@ -1381,7 +1381,9 @@
       "title": "SINOPSIS",
       "body": "La hija de Margarito Duarte, modesto empleado judicial de una pequeña población colombiana, muere de repente a la edad de 7 años. 12 años después, al exhumar el cuerpo, los restos de la niña continúan intactos. Margarito Duarte con la ayuda del pueblo inicia un proceso para llegar a Roma y pedirle al Papa la santificación de su hija. Esta es la producción colombiana de una serie de películas llamada “Amores difíciles”.",
       "firstImage": "assets/images/62-milagro-en-roma.webp",
-      "secondImage": "assets/images/62-milagro-en-roma1.webp"
+      "secondImage": "assets/images/62-milagro-en-roma1.webp",
+      "title2": "FOTOGRAMA DE MIL AGRO EN ROMA (DUQUE NARANJO, 1988, 3:08). RECUPERADO DE HTTPS://WWW.RTVE.ES/PLAY/VIDEOS/AMORES-DIFICILES/MILAGRO-ROMA/5891470/",
+      "title3": "FOTOGRAMA DE MIL AGRO EN ROMA (DUQUE NARANJO, 1988, 5:23). RECUPERADO DE HTTPS://WWW.RTVE.ES/PLAY/VIDEOS/AMORES-DIFICILES/MILAGRO-ROMA/5891470/"
     }
   },
   {
@@ -1546,6 +1548,7 @@
       "title": "EXPERIENCIAS\nDESTACADAS:",
       "title2": "CARNAVAL DE RIOSUCIO\n(CARNAVAL DEL DIABLO)",
       "title3": "FIESTAS DEL CAFÉ EN CALARCÁ",
+      "title4": "FOTOGRAFÍAS:\nJUAN ESTEBAN BECERRA",
       "body": "Es el momento de honrar las costumbres y la cultura local, para este carnaval debes esperar a que pasen dos años y llegue enero. Desfiles, música, danzas, esculturas monumentales y una atmósfera festiva que envuelve a todos los asistentes bajo la estética del “infierno”",
       "body2": "Un homenaje muy tradicional a la cultura cafetera de la región. Desfiles de coloridos jeeps y el tradicional “trasteo” que muestra la vida en el campo. ¡Es la celebración de la cosecha campesina!",
       "color": "dark-pink",
@@ -1962,7 +1965,7 @@
     "textColor": "yellow",
     "content": {
       "title": "PEREIRA",
-      "body": "Tour de Cacao*El Turpial*3114092354*$70.000 COP por persona**Tour de café*La divisa de Don Juan*3105923976*$90.000 COP por persona**City tour por Pereira: Plaza Bolívar, Catedral nuestra señora de la Pobreza, Calle fundacional, Parque Olaya Herrera, Estación de ferrocarril, Mega cable comuna Villa Santana*City Tour por Pereira*Ver contactos de los Guías Turísticos*$180.000 COP por persona y para grupo de hasta 7 personas**Tour de café*Café don Gabo*3106701507*Aprox $80.000 COP por persona**Senderismo y visita a Cascada con almuerzo*Asociación Comunitaria Yarumo Blanco*3103635001*Entre $54.000 y $75.000 por persona dependiendo el tipo de almuerzo**Tour arte urbano, graffiti tour, bullerengue, barrismo*La Ferro, propuesta comunitaria*3186587397*$20.000 COP por persona**Cataación de frutas exóticas, clases de cocina comida colombiana*Tour operadora I am Colombiano*3167590471 / 3136582644*$170.000 COP por persona max 3 pax, disminuye de acuerdo a la cantidad de personas"
+      "body": "Tour de Cacao*El Turpial*3114092354*$70.000 COP por persona**Tour de café*La divisa de Don Juan*3105923976*$90.000 COP por persona**City tour por Pereira: Plaza Bolívar, Catedral nuestra señora de la Pobreza, Calle fundacional, Parque Olaya Herrera, Estación de ferrocarril, Mega cable comuna Villa Santana*City Tour por Pereira*Ver contactos de los Guías Turísticos*$180.000 COP por persona y para grupo de hasta 7 personas**Tour de café*Café don Gabo*3106701507*Aprox $80.000 COP por persona**Senderismo y visita a Cascada con almuerzo*Asociación Comunitaria Yarumo Blanco*3103635001*Entre $54.000 y $75.000 por persona dependiendo el tipo de almuerzo**Tour arte urbano, graffiti tour, bullerengue, barrismo*La Ferro, propuesta comunitaria*3186587397*$20.000 COP por persona**Catación de frutas exóticas, clases de cocina comida colombiana*Tour operadora I am Colombiano*3167590471 / 3136582644*$170.000 COP por persona max 3 pax, disminuye de acuerdo a la cantidad de personas"
     }
   },
   {

@@ -43,11 +43,11 @@ function RightPrimaryBannerLayout({ route }: BaseLayoutProps) {
                 </div>
             </div>
         </div>
-        <div className="flex w-full h-[34vh] overflow-hidden md:w-3/5 md:h-[100vh]"
+        <div className="flex w-full overflow-hidden min-h-[80vw] md:w-3/5 md:min-h-screen md:h-auto"
           style={{
             backgroundImage: `url(${`${DEFAULT_URL}${route?.img}`})`,
             backgroundSize: 'cover',
-            backgroundPosition: 'top left',
+            backgroundPosition: 'center',
           }}>
         </div>
       </div>

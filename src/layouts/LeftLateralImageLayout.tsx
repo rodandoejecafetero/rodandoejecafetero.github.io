@@ -12,12 +12,12 @@ function LeftLateralImageLayout({ route }: BaseLayoutProps) {
         className={`flex justify-center items-center bg-${route?.bgColor} min-h-screen relative`}
       >
         <BaseLayout route={route} />
-        <div className='flex flex-wrap max-w-7xl'>
-          <div className="flex w-full h-[34vh] overflow-hidden md:w-3/5 md:h-[100vh] mt-36 md:mt-0">
+        <div className='flex flex-wrap px-5 py-10 max-w-7xl'>
+          <div className="flex w-full h-[34vh] overflow-hidden md:w-3/5 md:h-[100vh]">
             <img src={`${DEFAULT_URL}${route?.img}`} alt={route?.descriptiveSummary} className='object-contain w-full max-w-md mx-auto' />
           </div>
-          <div className="z-10 w-full max-w-6xl mx-auto my-auto md:w-2/5">
-              <div className={`p-10 text-sm text-left text-${route?.textColor}`}>
+          <div className="z-10 w-full max-w-6xl mx-auto my-auto mt-10 md:w-2/5 md:mt-0">
+              <div className={`text-sm text-left text-${route?.textColor}`}>
                   <div className={`rounded-4xl bg-${route?.bgColor}/50`}>
                       <h2 className='text-4xl font-bold uppercase'>{route?.title}</h2>
                       <p className="mt-5">{route?.subtitle}</p>

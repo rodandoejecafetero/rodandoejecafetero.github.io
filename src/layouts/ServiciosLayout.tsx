@@ -26,24 +26,17 @@ function ServiciosLayout({ route }: BaseLayoutProps) {
                         <td className="p-3">{route?.content?.body?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content?.body?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
                         <td className="p-3">{route?.content?.body2?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content?.body2?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
                     </tr>
-                </tbody>
-              </table>)}
-              {route?.content2?.title && (<table className="w-full font-light text-white">
-                <tbody>
-                    <tr className="border-t border-yellow">
-                        <td className="p-3 font-semibold text-yellow">{route?.content2?.title}</td>
-                        <td className="p-3">{route?.content2?.body?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content2?.body?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
-                        <td className="p-3">{route?.content2?.body2?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content2?.body2?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
-                    </tr>
-                </tbody>
-              </table>)}
-              {route?.content3?.title && (<table className="w-full font-light text-white">
-                <tbody>
-                    <tr className="border-t border-yellow">
-                        <td className="p-3 font-semibold text-yellow">{route?.content3?.title}</td>
-                        <td className="p-3">{route?.content3?.body?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content3?.body?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
-                        <td className="p-3">{route?.content3?.body2?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content3?.body2?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
-                    </tr>
+                    {route?.content2?.title && (
+                          <tr className="border-t border-yellow">
+                              <td className="p-3 font-semibold text-yellow">{route?.content2?.title}</td>
+                              <td className="p-3">{route?.content2?.body?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content2?.body?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
+                              <td className="p-3">{route?.content2?.body2?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content2?.body2?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
+                          </tr>)}
+                    {route?.content3?.title && (<tr className="border-t border-yellow">
+                              <td className="p-3 font-semibold text-yellow">{route?.content3?.title}</td>
+                              <td className="p-3">{route?.content3?.body?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content3?.body?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
+                              <td className="p-3">{route?.content3?.body2?.split('*').map((row, index) => (<div key={index} className={`uppercase ${index < (route?.content3?.body2?.split('*').length || 1) - 1 ? 'border-b border-white' : ''}`}>{row}</div>))}</td>
+                          </tr>)}
                 </tbody>
               </table>)}
             </div>
